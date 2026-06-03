@@ -130,6 +130,13 @@ st.markdown(
         border-radius: 12px !important;
       }
       div[data-testid="stNumberInput"] button { background:#1a1340 !important; color:#e8e6ff !important; }
+      /* etichette dei widget (es. nomi squadra sopra i number_input): testo chiaro */
+      label[data-testid="stWidgetLabel"],
+      div[data-testid="stWidgetLabel"] label,
+      div[data-testid="stWidgetLabel"] p,
+      label[data-testid="stWidgetLabel"] p {
+        color: #e8e6ff !important;
+      }
     </style>
     """,
     unsafe_allow_html=True,
