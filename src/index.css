@@ -1,0 +1,73 @@
+@import url("https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&family=Inter:wght@400;500;600&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: dark;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  background-color: #0a0823;
+  color: #e8e6ff;
+  font-family: "Inter", system-ui, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  background-image:
+    radial-gradient(1200px 600px at 10% -10%, rgba(255, 45, 142, 0.22), transparent 60%),
+    radial-gradient(1000px 500px at 100% 0%, rgba(25, 224, 255, 0.18), transparent 55%),
+    radial-gradient(900px 700px at 50% 120%, rgba(123, 44, 255, 0.22), transparent 60%);
+  background-attachment: fixed;
+}
+
+@layer components {
+  .glass {
+    @apply bg-wc-card/60 backdrop-blur-xl border border-white/10 rounded-3xl;
+  }
+  .chip {
+    @apply inline-flex items-center gap-1 rounded-full px-2.5 py-1 text-xs font-semibold;
+  }
+  .btn {
+    @apply inline-flex items-center justify-center gap-2 rounded-2xl px-4 py-2.5 font-semibold
+      transition active:scale-[.97] disabled:opacity-40 disabled:pointer-events-none;
+  }
+  .btn-grad {
+    @apply btn text-white bg-wc-grad shadow-glow;
+    background-size: 200% 100%;
+  }
+  .btn-ghost {
+    @apply btn bg-white/5 border border-white/10 text-wc-ink hover:bg-white/10;
+  }
+  .gradient-text {
+    @apply bg-wc-grad bg-clip-text text-transparent;
+    background-size: 200% 100%;
+  }
+}
+
+input[type="number"]::-webkit-outer-spin-button,
+input[type="number"]::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+input[type="number"] {
+  -moz-appearance: textfield;
+}
+
+*::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+*::-webkit-scrollbar-thumb {
+  background: rgba(255, 255, 255, 0.12);
+  border-radius: 999px;
+}
+*::-webkit-scrollbar-track {
+  background: transparent;
+}

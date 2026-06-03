@@ -1,0 +1,8824 @@
+{
+ "lastUpdated": "2026-06-03",
+ "source": "Wikipedia: 2026 FIFA World Cup squads",
+ "squads": {
+  "Czech Republic": [
+   {
+    "name": "Matěj Kovář",
+    "number": 1,
+    "position": "GK",
+    "club": "PSV Eindhoven",
+    "goals": 0
+   },
+   {
+    "name": "David Zima",
+    "number": 2,
+    "position": "DF",
+    "club": "Slavia Prague",
+    "goals": 1
+   },
+   {
+    "name": "Tomáš Holeš",
+    "number": 3,
+    "position": "DF",
+    "club": "Slavia Prague",
+    "goals": 2
+   },
+   {
+    "name": "Robin Hranáč",
+    "number": 4,
+    "position": "DF",
+    "club": "TSG Hoffenheim",
+    "goals": 1
+   },
+   {
+    "name": "Vladimír Coufal",
+    "number": 5,
+    "position": "DF",
+    "club": "TSG Hoffenheim",
+    "goals": 2
+   },
+   {
+    "name": "Štěpán Chaloupek",
+    "number": 6,
+    "position": "DF",
+    "club": "Slavia Prague",
+    "goals": 0
+   },
+   {
+    "name": "Ladislav Krejčí",
+    "number": 7,
+    "position": "DF",
+    "club": "Wolverhampton Wanderers",
+    "goals": 5
+   },
+   {
+    "name": "Vladimír Darida",
+    "number": 8,
+    "position": "MF",
+    "club": "Hradec Králové",
+    "goals": 8
+   },
+   {
+    "name": "Adam Hložek",
+    "number": 9,
+    "position": "FW",
+    "club": "TSG Hoffenheim",
+    "goals": 5
+   },
+   {
+    "name": "Patrik Schick",
+    "number": 10,
+    "position": "FW",
+    "club": "Bayer Leverkusen",
+    "goals": 25
+   },
+   {
+    "name": "Jan Kuchta",
+    "number": 11,
+    "position": "FW",
+    "club": "Sparta Prague",
+    "goals": 3
+   },
+   {
+    "name": "Lukáš Červ",
+    "number": 12,
+    "position": "MF",
+    "club": "Viktoria Plzeň",
+    "goals": 2
+   },
+   {
+    "name": "Mojmír Chytil",
+    "number": 13,
+    "position": "FW",
+    "club": "Slavia Prague",
+    "goals": 6
+   },
+   {
+    "name": "David Jurásek",
+    "number": 14,
+    "position": "DF",
+    "club": "Slavia Prague",
+    "goals": 1
+   },
+   {
+    "name": "Pavel Šulc",
+    "number": 15,
+    "position": "FW",
+    "club": "Lyon",
+    "goals": 5
+   },
+   {
+    "name": "Jindřich Staněk",
+    "number": 16,
+    "position": "GK",
+    "club": "Slavia Prague",
+    "goals": 0
+   },
+   {
+    "name": "Lukáš Provod",
+    "number": 17,
+    "position": "MF",
+    "club": "Slavia Prague",
+    "goals": 3
+   },
+   {
+    "name": "Michal Sadílek",
+    "number": 18,
+    "position": "MF",
+    "club": "Slavia Prague",
+    "goals": 1
+   },
+   {
+    "name": "Tomáš Chorý",
+    "number": 19,
+    "position": "FW",
+    "club": "Slavia Prague",
+    "goals": 6
+   },
+   {
+    "name": "Jaroslav Zelený",
+    "number": 20,
+    "position": "DF",
+    "club": "Sparta Prague",
+    "goals": 0
+   },
+   {
+    "name": "David Douděra",
+    "number": 21,
+    "position": "DF",
+    "club": "Slavia Prague",
+    "goals": 2
+   },
+   {
+    "name": "Tomáš Souček",
+    "number": 22,
+    "position": "MF",
+    "club": "West Ham United",
+    "goals": 17
+   },
+   {
+    "name": "Lukáš Horníček",
+    "number": 23,
+    "position": "GK",
+    "club": "Braga",
+    "goals": 0
+   },
+   {
+    "name": "Alexandr Sojka",
+    "number": 24,
+    "position": "MF",
+    "club": "Viktoria Plzeň",
+    "goals": 0
+   },
+   {
+    "name": "Hugo Sochůrek",
+    "number": 25,
+    "position": "MF",
+    "club": "Sparta Prague",
+    "goals": 0
+   },
+   {
+    "name": "Denis Višinský",
+    "number": 26,
+    "position": "FW",
+    "club": "Viktoria Plzeň",
+    "goals": 0
+   }
+  ],
+  "Mexico": [
+   {
+    "name": "Raúl Rangel",
+    "number": 1,
+    "position": "GK",
+    "club": "Guadalajara",
+    "goals": 0
+   },
+   {
+    "name": "Jorge Sánchez",
+    "number": 2,
+    "position": "DF",
+    "club": "PAOK",
+    "goals": 3
+   },
+   {
+    "name": "César Montes",
+    "number": 3,
+    "position": "DF",
+    "club": "Lokomotiv Moscow",
+    "goals": 4
+   },
+   {
+    "name": "Edson Álvarez",
+    "number": 4,
+    "position": "DF",
+    "club": "Fenerbahçe",
+    "goals": 7
+   },
+   {
+    "name": "Johan Vásquez",
+    "number": 5,
+    "position": "DF",
+    "club": "Genoa",
+    "goals": 2
+   },
+   {
+    "name": "Érik Lira",
+    "number": 6,
+    "position": "MF",
+    "club": "Cruz Azul",
+    "goals": 0
+   },
+   {
+    "name": "Luis Romo",
+    "number": 7,
+    "position": "MF",
+    "club": "Guadalajara",
+    "goals": 4
+   },
+   {
+    "name": "Álvaro Fidalgo",
+    "number": 8,
+    "position": "MF",
+    "club": "Real Betis",
+    "goals": 0
+   },
+   {
+    "name": "Raúl Jiménez",
+    "number": 9,
+    "position": "FW",
+    "club": "Fulham",
+    "goals": 44
+   },
+   {
+    "name": "Alexis Vega",
+    "number": 10,
+    "position": "FW",
+    "club": "Toluca",
+    "goals": 7
+   },
+   {
+    "name": "Santiago Giménez",
+    "number": 11,
+    "position": "FW",
+    "club": "Milan",
+    "goals": 6
+   },
+   {
+    "name": "Carlos Acevedo",
+    "number": 12,
+    "position": "GK",
+    "club": "Santos Laguna",
+    "goals": 0
+   },
+   {
+    "name": "Guillermo Ochoa",
+    "number": 13,
+    "position": "GK",
+    "club": "AEL Limassol",
+    "goals": 0
+   },
+   {
+    "name": "Armando González",
+    "number": 14,
+    "position": "FW",
+    "club": "Guadalajara",
+    "goals": 1
+   },
+   {
+    "name": "Israel Reyes",
+    "number": 15,
+    "position": "DF",
+    "club": "América",
+    "goals": 2
+   },
+   {
+    "name": "Julián Quiñones",
+    "number": 16,
+    "position": "FW",
+    "club": "Al-Qadsiah",
+    "goals": 2
+   },
+   {
+    "name": "Orbelín Pineda",
+    "number": 17,
+    "position": "MF",
+    "club": "AEK Athens",
+    "goals": 12
+   },
+   {
+    "name": "Obed Vargas",
+    "number": 18,
+    "position": "MF",
+    "club": "Atlético Madrid",
+    "goals": 0
+   },
+   {
+    "name": "Gilberto Mora",
+    "number": 19,
+    "position": "MF",
+    "club": "Tijuana",
+    "goals": 0
+   },
+   {
+    "name": "Mateo Chávez",
+    "number": 20,
+    "position": "DF",
+    "club": "AZ",
+    "goals": 0
+   },
+   {
+    "name": "César Huerta",
+    "number": 21,
+    "position": "FW",
+    "club": "Anderlecht",
+    "goals": 3
+   },
+   {
+    "name": "Guillermo Martínez",
+    "number": 22,
+    "position": "FW",
+    "club": "UNAM",
+    "goals": 3
+   },
+   {
+    "name": "Jesús Gallardo",
+    "number": 23,
+    "position": "DF",
+    "club": "Toluca",
+    "goals": 3
+   },
+   {
+    "name": "Luis Chávez",
+    "number": 24,
+    "position": "MF",
+    "club": "Dynamo Moscow",
+    "goals": 4
+   },
+   {
+    "name": "Roberto Alvarado",
+    "number": 25,
+    "position": "FW",
+    "club": "Guadalajara",
+    "goals": 5
+   },
+   {
+    "name": "Brian Gutiérrez",
+    "number": 26,
+    "position": "MF",
+    "club": "Guadalajara",
+    "goals": 2
+   }
+  ],
+  "South Africa": [
+   {
+    "name": "Ronwen Williams",
+    "number": 1,
+    "position": "GK",
+    "club": "Mamelodi Sundowns",
+    "goals": 0
+   },
+   {
+    "name": "Thabang Matuludi",
+    "number": 2,
+    "position": "DF",
+    "club": "Polokwane City",
+    "goals": 0
+   },
+   {
+    "name": "Khulumani Ndamane",
+    "number": 3,
+    "position": "DF",
+    "club": "Mamelodi Sundowns",
+    "goals": 0
+   },
+   {
+    "name": "Teboho Mokoena",
+    "number": 4,
+    "position": "MF",
+    "club": "Mamelodi Sundowns",
+    "goals": 9
+   },
+   {
+    "name": "Thalente Mbatha",
+    "number": 5,
+    "position": "MF",
+    "club": "Orlando Pirates",
+    "goals": 3
+   },
+   {
+    "name": "Aubrey Modiba",
+    "number": 6,
+    "position": "DF",
+    "club": "Mamelodi Sundowns",
+    "goals": 3
+   },
+   {
+    "name": "Oswin Appollis",
+    "number": 7,
+    "position": "FW",
+    "club": "Orlando Pirates",
+    "goals": 8
+   },
+   {
+    "name": "Tshepang Moremi",
+    "number": 8,
+    "position": "FW",
+    "club": "Orlando Pirates",
+    "goals": 1
+   },
+   {
+    "name": "Lyle Foster",
+    "number": 9,
+    "position": "FW",
+    "club": "Burnley",
+    "goals": 10
+   },
+   {
+    "name": "Relebohile Mofokeng",
+    "number": 10,
+    "position": "FW",
+    "club": "Orlando Pirates",
+    "goals": 0
+   },
+   {
+    "name": "Themba Zwane",
+    "number": 11,
+    "position": "MF",
+    "club": "Mamelodi Sundowns",
+    "goals": 12
+   },
+   {
+    "name": "Thapelo Maseko",
+    "number": 12,
+    "position": "FW",
+    "club": "AEL Limassol",
+    "goals": 1
+   },
+   {
+    "name": "Sphephelo Sithole",
+    "number": 13,
+    "position": "MF",
+    "club": "Tondela",
+    "goals": 1
+   },
+   {
+    "name": "Mbekezeli Mbokazi",
+    "number": 14,
+    "position": "DF",
+    "club": "Chicago Fire FC",
+    "goals": 1
+   },
+   {
+    "name": "Iqraam Rayners",
+    "number": 15,
+    "position": "FW",
+    "club": "Mamelodi Sundowns",
+    "goals": 4
+   },
+   {
+    "name": "Sipho Chaine",
+    "number": 16,
+    "position": "GK",
+    "club": "Orlando Pirates",
+    "goals": 0
+   },
+   {
+    "name": "Evidence Makgopa",
+    "number": 17,
+    "position": "FW",
+    "club": "Orlando Pirates",
+    "goals": 6
+   },
+   {
+    "name": "Samukele Kabini",
+    "number": 18,
+    "position": "DF",
+    "club": "Molde",
+    "goals": 0
+   },
+   {
+    "name": "Nkosinathi Sibisi",
+    "number": 19,
+    "position": "DF",
+    "club": "Orlando Pirates",
+    "goals": 0
+   },
+   {
+    "name": "Khuliso Mudau",
+    "number": 20,
+    "position": "DF",
+    "club": "Mamelodi Sundowns",
+    "goals": 1
+   },
+   {
+    "name": "Ime Okon",
+    "number": 21,
+    "position": "DF",
+    "club": "Hannover 96",
+    "goals": 1
+   },
+   {
+    "name": "Ricardo Goss",
+    "number": 22,
+    "position": "GK",
+    "club": "Siwelele",
+    "goals": 0
+   },
+   {
+    "name": "Jayden Adams",
+    "number": 23,
+    "position": "MF",
+    "club": "Mamelodi Sundowns",
+    "goals": 0
+   },
+   {
+    "name": "Olwethu Makhanya",
+    "number": 24,
+    "position": "DF",
+    "club": "Philadelphia Union",
+    "goals": 0
+   },
+   {
+    "name": "Kamogelo Sebelebele",
+    "number": 25,
+    "position": "FW",
+    "club": "Orlando Pirates",
+    "goals": 0
+   },
+   {
+    "name": "Bradley Cross",
+    "number": 26,
+    "position": "DF",
+    "club": "Kaizer Chiefs",
+    "goals": 0
+   }
+  ],
+  "South Korea": [
+   {
+    "name": "Kim Seung-gyu",
+    "number": 1,
+    "position": "GK",
+    "club": "FC Tokyo",
+    "goals": 0
+   },
+   {
+    "name": "Lee Han-beom",
+    "number": 2,
+    "position": "DF",
+    "club": "Midtjylland",
+    "goals": 0
+   },
+   {
+    "name": "Lee Gi-hyuk",
+    "number": 3,
+    "position": "MF",
+    "club": "Gangwon FC",
+    "goals": 0
+   },
+   {
+    "name": "Kim Min-jae",
+    "number": 4,
+    "position": "DF",
+    "club": "Bayern Munich",
+    "goals": 4
+   },
+   {
+    "name": "Kim Tae-hyeon",
+    "number": 5,
+    "position": "DF",
+    "club": "Kashima Antlers",
+    "goals": 0
+   },
+   {
+    "name": "Hwang In-beom",
+    "number": 6,
+    "position": "MF",
+    "club": "Feyenoord",
+    "goals": 6
+   },
+   {
+    "name": "Son Heung-min",
+    "number": 7,
+    "position": "FW",
+    "club": "Los Angeles FC",
+    "goals": 56
+   },
+   {
+    "name": "Paik Seung-ho",
+    "number": 8,
+    "position": "MF",
+    "club": "Birmingham City",
+    "goals": 3
+   },
+   {
+    "name": "Cho Gue-sung",
+    "number": 9,
+    "position": "FW",
+    "club": "Midtjylland",
+    "goals": 12
+   },
+   {
+    "name": "Lee Jae-sung",
+    "number": 10,
+    "position": "MF",
+    "club": "Mainz 05",
+    "goals": 15
+   },
+   {
+    "name": "Hwang Hee-chan",
+    "number": 11,
+    "position": "MF",
+    "club": "Wolverhampton Wanderers",
+    "goals": 17
+   },
+   {
+    "name": "Song Bum-keun",
+    "number": 12,
+    "position": "GK",
+    "club": "Jeonbuk Hyundai Motors",
+    "goals": 0
+   },
+   {
+    "name": "Lee Tae-seok",
+    "number": 13,
+    "position": "DF",
+    "club": "Austria Wien",
+    "goals": 1
+   },
+   {
+    "name": "Cho Wi-je",
+    "number": 14,
+    "position": "DF",
+    "club": "Jeonbuk Hyundai Motors",
+    "goals": 0
+   },
+   {
+    "name": "Kim Moon-hwan",
+    "number": 15,
+    "position": "DF",
+    "club": "Daejeon Hana Citizen",
+    "goals": 0
+   },
+   {
+    "name": "Park Jin-seob",
+    "number": 16,
+    "position": "DF",
+    "club": "Zhejiang",
+    "goals": 1
+   },
+   {
+    "name": "Bae Jun-ho",
+    "number": 17,
+    "position": "MF",
+    "club": "Stoke City",
+    "goals": 2
+   },
+   {
+    "name": "Oh Hyeon-gyu",
+    "number": 18,
+    "position": "FW",
+    "club": "Beşiktaş",
+    "goals": 6
+   },
+   {
+    "name": "Lee Kang-in",
+    "number": 19,
+    "position": "MF",
+    "club": "Paris Saint-Germain",
+    "goals": 11
+   },
+   {
+    "name": "Yang Hyun-jun",
+    "number": 20,
+    "position": "MF",
+    "club": "Celtic",
+    "goals": 0
+   },
+   {
+    "name": "Jo Hyeon-woo",
+    "number": 21,
+    "position": "GK",
+    "club": "Ulsan HD",
+    "goals": 0
+   },
+   {
+    "name": "Seol Young-woo",
+    "number": 22,
+    "position": "DF",
+    "club": "Red Star Belgrade",
+    "goals": 0
+   },
+   {
+    "name": "Jens Castrop",
+    "number": 23,
+    "position": "DF",
+    "club": "Borussia Mönchengladbach",
+    "goals": 0
+   },
+   {
+    "name": "Kim Jin-gyu",
+    "number": 24,
+    "position": "MF",
+    "club": "Jeonbuk Hyundai Motors",
+    "goals": 3
+   },
+   {
+    "name": "Eom Ji-sung",
+    "number": 25,
+    "position": "MF",
+    "club": "Swansea City",
+    "goals": 2
+   },
+   {
+    "name": "Lee Dong-gyeong",
+    "number": 26,
+    "position": "MF",
+    "club": "Ulsan HD",
+    "goals": 3
+   }
+  ],
+  "Bosnia and Herzegovina": [
+   {
+    "name": "Nikola Vasilj",
+    "number": 1,
+    "position": "GK",
+    "club": "FC St. Pauli",
+    "goals": 0
+   },
+   {
+    "name": "Nihad Mujakić",
+    "number": 2,
+    "position": "DF",
+    "club": "Gaziantep",
+    "goals": 1
+   },
+   {
+    "name": "Dennis Hadžikadunić",
+    "number": 3,
+    "position": "DF",
+    "club": "Sampdoria",
+    "goals": 0
+   },
+   {
+    "name": "Tarik Muharemović",
+    "number": 4,
+    "position": "DF",
+    "club": "Sassuolo",
+    "goals": 1
+   },
+   {
+    "name": "Sead Kolašinac",
+    "number": 5,
+    "position": "DF",
+    "club": "Atalanta",
+    "goals": 0
+   },
+   {
+    "name": "Benjamin Tahirović",
+    "number": 6,
+    "position": "MF",
+    "club": "Brøndby",
+    "goals": 2
+   },
+   {
+    "name": "Amar Dedić",
+    "number": 7,
+    "position": "DF",
+    "club": "Benfica",
+    "goals": 1
+   },
+   {
+    "name": "Armin Gigović",
+    "number": 8,
+    "position": "MF",
+    "club": "Young Boys",
+    "goals": 1
+   },
+   {
+    "name": "Samed Baždar",
+    "number": 9,
+    "position": "FW",
+    "club": "Jagiellonia Białystok",
+    "goals": 1
+   },
+   {
+    "name": "Ermedin Demirović",
+    "number": 10,
+    "position": "FW",
+    "club": "VfB Stuttgart",
+    "goals": 4
+   },
+   {
+    "name": "Edin Džeko",
+    "number": 11,
+    "position": "FW",
+    "club": "Schalke 04",
+    "goals": 73
+   },
+   {
+    "name": "Mladen Jurkas",
+    "number": 12,
+    "position": "GK",
+    "club": "Borac Banja Luka",
+    "goals": 0
+   },
+   {
+    "name": "Ivan Bašić",
+    "number": 13,
+    "position": "MF",
+    "club": "Astana",
+    "goals": 0
+   },
+   {
+    "name": "Ivan Šunjić",
+    "number": 14,
+    "position": "MF",
+    "club": "Pafos",
+    "goals": 0
+   },
+   {
+    "name": "Amar Memić",
+    "number": 15,
+    "position": "MF",
+    "club": "Viktoria Plzeň",
+    "goals": 1
+   },
+   {
+    "name": "Amir Hadžiahmetović",
+    "number": 16,
+    "position": "MF",
+    "club": "Hull City",
+    "goals": 0
+   },
+   {
+    "name": "Dženis Burnić",
+    "number": 17,
+    "position": "MF",
+    "club": "Karlsruher SC",
+    "goals": 0
+   },
+   {
+    "name": "Nikola Katić",
+    "number": 18,
+    "position": "DF",
+    "club": "Schalke 04",
+    "goals": 1
+   },
+   {
+    "name": "Kerim Alajbegović",
+    "number": 19,
+    "position": "FW",
+    "club": "Red Bull Salzburg",
+    "goals": 1
+   },
+   {
+    "name": "Esmir Bajraktarević",
+    "number": 20,
+    "position": "FW",
+    "club": "PSV Eindhoven",
+    "goals": 1
+   },
+   {
+    "name": "Stjepan Radeljić",
+    "number": 21,
+    "position": "DF",
+    "club": "Rijeka",
+    "goals": 0
+   },
+   {
+    "name": "Martin Zlomislić",
+    "number": 22,
+    "position": "GK",
+    "club": "Rijeka",
+    "goals": 0
+   },
+   {
+    "name": "Haris Tabaković",
+    "number": 23,
+    "position": "FW",
+    "club": "Borussia Mönchengladbach",
+    "goals": 4
+   },
+   {
+    "name": "Nidal Čelik",
+    "number": 24,
+    "position": "DF",
+    "club": "Lens",
+    "goals": 0
+   },
+   {
+    "name": "Jovo Lukić",
+    "number": 25,
+    "position": "FW",
+    "club": "Universitatea Cluj",
+    "goals": 0
+   },
+   {
+    "name": "Ermin Mahmić",
+    "number": 26,
+    "position": "MF",
+    "club": "Slovan Liberec",
+    "goals": 0
+   }
+  ],
+  "Canada": [
+   {
+    "name": "Dayne St. Clair",
+    "number": 1,
+    "position": "GK",
+    "club": "Inter Miami CF",
+    "goals": 0
+   },
+   {
+    "name": "Alistair Johnston",
+    "number": 2,
+    "position": "DF",
+    "club": "Celtic",
+    "goals": 1
+   },
+   {
+    "name": "Alfie Jones",
+    "number": 3,
+    "position": "DF",
+    "club": "Middlesbrough",
+    "goals": 0
+   },
+   {
+    "name": "Luc de Fougerolles",
+    "number": 4,
+    "position": "DF",
+    "club": "Dender",
+    "goals": 0
+   },
+   {
+    "name": "Joel Waterman",
+    "number": 5,
+    "position": "DF",
+    "club": "Chicago Fire FC",
+    "goals": 0
+   },
+   {
+    "name": "Mathieu Choinière",
+    "number": 6,
+    "position": "MF",
+    "club": "Los Angeles FC",
+    "goals": 0
+   },
+   {
+    "name": "Stephen Eustáquio",
+    "number": 7,
+    "position": "MF",
+    "club": "Los Angeles FC",
+    "goals": 4
+   },
+   {
+    "name": "Ismaël Koné",
+    "number": 8,
+    "position": "MF",
+    "club": "Sassuolo",
+    "goals": 4
+   },
+   {
+    "name": "Cyle Larin",
+    "number": 9,
+    "position": "FW",
+    "club": "Southampton",
+    "goals": 30
+   },
+   {
+    "name": "Jonathan David",
+    "number": 10,
+    "position": "FW",
+    "club": "Juventus",
+    "goals": 39
+   },
+   {
+    "name": "Liam Millar",
+    "number": 11,
+    "position": "MF",
+    "club": "Hull City",
+    "goals": 1
+   },
+   {
+    "name": "Tani Oluwaseyi",
+    "number": 12,
+    "position": "FW",
+    "club": "Villarreal",
+    "goals": 2
+   },
+   {
+    "name": "Derek Cornelius",
+    "number": 13,
+    "position": "DF",
+    "club": "Rangers",
+    "goals": 1
+   },
+   {
+    "name": "Jacob Shaffelburg",
+    "number": 14,
+    "position": "MF",
+    "club": "Los Angeles FC",
+    "goals": 6
+   },
+   {
+    "name": "Moïse Bombito",
+    "number": 15,
+    "position": "DF",
+    "club": "Nice",
+    "goals": 0
+   },
+   {
+    "name": "Maxime Crépeau",
+    "number": 16,
+    "position": "GK",
+    "club": "Orlando City SC",
+    "goals": 0
+   },
+   {
+    "name": "Tajon Buchanan",
+    "number": 17,
+    "position": "FW",
+    "club": "Villarreal",
+    "goals": 8
+   },
+   {
+    "name": "Owen Goodman",
+    "number": 18,
+    "position": "GK",
+    "club": "Barnsley",
+    "goals": 0
+   },
+   {
+    "name": "Alphonso Davies",
+    "number": 19,
+    "position": "DF",
+    "club": "Bayern Munich",
+    "goals": 15
+   },
+   {
+    "name": "Ali Ahmed",
+    "number": 20,
+    "position": "FW",
+    "club": "Norwich City",
+    "goals": 1
+   },
+   {
+    "name": "Jonathan Osorio",
+    "number": 21,
+    "position": "MF",
+    "club": "Toronto FC",
+    "goals": 10
+   },
+   {
+    "name": "Richie Laryea",
+    "number": 22,
+    "position": "DF",
+    "club": "Toronto FC",
+    "goals": 1
+   },
+   {
+    "name": "Niko Sigur",
+    "number": 23,
+    "position": "DF",
+    "club": "Hajduk Split",
+    "goals": 2
+   },
+   {
+    "name": "Promise David",
+    "number": 24,
+    "position": "FW",
+    "club": "Union Saint-Gilloise",
+    "goals": 3
+   },
+   {
+    "name": "Nathan Saliba",
+    "number": 25,
+    "position": "MF",
+    "club": "Anderlecht",
+    "goals": 2
+   }
+  ],
+  "Qatar": [
+   {
+    "name": "Mahmud Abunada",
+    "number": 1,
+    "position": "GK",
+    "club": "Al-Rayyan",
+    "goals": 0
+   },
+   {
+    "name": "Pedro Miguel",
+    "number": 2,
+    "position": "DF",
+    "club": "Al-Sadd",
+    "goals": 3
+   },
+   {
+    "name": "Lucas Mendes",
+    "number": 3,
+    "position": "DF",
+    "club": "Al-Wakrah",
+    "goals": 1
+   },
+   {
+    "name": "Issa Laye",
+    "number": 4,
+    "position": "DF",
+    "club": "Al-Arabi",
+    "goals": 0
+   },
+   {
+    "name": "Jassem Gaber",
+    "number": 5,
+    "position": "DF",
+    "club": "Al-Rayyan",
+    "goals": 1
+   },
+   {
+    "name": "Abdulaziz Hatem",
+    "number": 6,
+    "position": "MF",
+    "club": "Al-Rayyan",
+    "goals": 11
+   },
+   {
+    "name": "Ahmed Alaaeldin",
+    "number": 7,
+    "position": "FW",
+    "club": "Al-Rayyan",
+    "goals": 9
+   },
+   {
+    "name": "Edmilson Junior",
+    "number": 8,
+    "position": "FW",
+    "club": "Al-Duhail",
+    "goals": 0
+   },
+   {
+    "name": "Mohammed Muntari",
+    "number": 9,
+    "position": "FW",
+    "club": "Al-Gharafa",
+    "goals": 16
+   },
+   {
+    "name": "Hassan Al-Haydos",
+    "number": 10,
+    "position": "FW",
+    "club": "Al-Sadd",
+    "goals": 41
+   },
+   {
+    "name": "Akram Afif",
+    "number": 11,
+    "position": "FW",
+    "club": "Al-Sadd",
+    "goals": 39
+   },
+   {
+    "name": "Karim Boudiaf",
+    "number": 12,
+    "position": "MF",
+    "club": "Al-Duhail",
+    "goals": 5
+   },
+   {
+    "name": "Ayoub Al-Oui",
+    "number": 13,
+    "position": "DF",
+    "club": "Al-Gharafa",
+    "goals": 0
+   },
+   {
+    "name": "Homam Ahmed",
+    "number": 14,
+    "position": "DF",
+    "club": "Cultural Leonesa",
+    "goals": 3
+   },
+   {
+    "name": "Yusuf Abdurisag",
+    "number": 15,
+    "position": "FW",
+    "club": "Al-Wakrah",
+    "goals": 3
+   },
+   {
+    "name": "Boualem Khoukhi",
+    "number": 16,
+    "position": "DF",
+    "club": "Al-Sadd",
+    "goals": 20
+   },
+   {
+    "name": "Ahmed Al-Ganehi",
+    "number": 17,
+    "position": "MF",
+    "club": "Al-Gharafa",
+    "goals": 1
+   },
+   {
+    "name": "Sultan Al-Brake",
+    "number": 18,
+    "position": "DF",
+    "club": "Al-Duhail",
+    "goals": 0
+   },
+   {
+    "name": "Almoez Ali",
+    "number": 19,
+    "position": "FW",
+    "club": "Al-Duhail",
+    "goals": 55
+   },
+   {
+    "name": "Ahmed Fathy",
+    "number": 20,
+    "position": "MF",
+    "club": "Al-Arabi",
+    "goals": 0
+   },
+   {
+    "name": "Salah Zakaria",
+    "number": 21,
+    "position": "GK",
+    "club": "Al-Duhail",
+    "goals": 0
+   },
+   {
+    "name": "Meshaal Barsham",
+    "number": 22,
+    "position": "GK",
+    "club": "Al-Sadd",
+    "goals": 0
+   },
+   {
+    "name": "Assim Madibo",
+    "number": 23,
+    "position": "MF",
+    "club": "Al-Wakrah",
+    "goals": 0
+   },
+   {
+    "name": "Tahsin Jamshid",
+    "number": 24,
+    "position": "FW",
+    "club": "Al-Duhail",
+    "goals": 0
+   },
+   {
+    "name": "Al-Hashmi Al-Hussain",
+    "number": 25,
+    "position": "DF",
+    "club": "Al-Arabi",
+    "goals": 0
+   },
+   {
+    "name": "Mohamed Manai",
+    "number": 26,
+    "position": "FW",
+    "club": "Al-Shamal",
+    "goals": 0
+   }
+  ],
+  "Switzerland": [
+   {
+    "name": "Gregor Kobel",
+    "number": 1,
+    "position": "GK",
+    "club": "Borussia Dortmund",
+    "goals": 0
+   },
+   {
+    "name": "Miro Muheim",
+    "number": 2,
+    "position": "DF",
+    "club": "Hamburger SV",
+    "goals": 0
+   },
+   {
+    "name": "Silvan Widmer",
+    "number": 3,
+    "position": "DF",
+    "club": "Mainz 05",
+    "goals": 5
+   },
+   {
+    "name": "Nico Elvedi",
+    "number": 4,
+    "position": "DF",
+    "club": "Borussia Mönchengladbach",
+    "goals": 3
+   },
+   {
+    "name": "Manuel Akanji",
+    "number": 5,
+    "position": "DF",
+    "club": "Inter Milan",
+    "goals": 4
+   },
+   {
+    "name": "Denis Zakaria",
+    "number": 6,
+    "position": "MF",
+    "club": "Monaco",
+    "goals": 3
+   },
+   {
+    "name": "Breel Embolo",
+    "number": 7,
+    "position": "FW",
+    "club": "Rennes",
+    "goals": 24
+   },
+   {
+    "name": "Remo Freuler",
+    "number": 8,
+    "position": "MF",
+    "club": "Bologna",
+    "goals": 11
+   },
+   {
+    "name": "Johan Manzambi",
+    "number": 9,
+    "position": "MF",
+    "club": "SC Freiburg",
+    "goals": 3
+   },
+   {
+    "name": "Granit Xhaka",
+    "number": 10,
+    "position": "MF",
+    "club": "Sunderland",
+    "goals": 17
+   },
+   {
+    "name": "Dan Ndoye",
+    "number": 11,
+    "position": "FW",
+    "club": "Nottingham Forest",
+    "goals": 7
+   },
+   {
+    "name": "Yvon Mvogo",
+    "number": 12,
+    "position": "GK",
+    "club": "Lorient",
+    "goals": 0
+   },
+   {
+    "name": "Ricardo Rodriguez",
+    "number": 13,
+    "position": "DF",
+    "club": "Real Betis",
+    "goals": 9
+   },
+   {
+    "name": "Ardon Jashari",
+    "number": 14,
+    "position": "MF",
+    "club": "Milan",
+    "goals": 0
+   },
+   {
+    "name": "Djibril Sow",
+    "number": 15,
+    "position": "MF",
+    "club": "Sevilla",
+    "goals": 0
+   },
+   {
+    "name": "Christian Fassnacht",
+    "number": 16,
+    "position": "FW",
+    "club": "Young Boys",
+    "goals": 5
+   },
+   {
+    "name": "Rubén Vargas",
+    "number": 17,
+    "position": "FW",
+    "club": "Sevilla",
+    "goals": 11
+   },
+   {
+    "name": "Eray Cömert",
+    "number": 18,
+    "position": "DF",
+    "club": "Valencia",
+    "goals": 0
+   },
+   {
+    "name": "Noah Okafor",
+    "number": 19,
+    "position": "FW",
+    "club": "Leeds United",
+    "goals": 2
+   },
+   {
+    "name": "Michel Aebischer",
+    "number": 20,
+    "position": "MF",
+    "club": "Pisa",
+    "goals": 2
+   },
+   {
+    "name": "Marvin Keller",
+    "number": 21,
+    "position": "GK",
+    "club": "Young Boys",
+    "goals": 0
+   },
+   {
+    "name": "Fabian Rieder",
+    "number": 22,
+    "position": "MF",
+    "club": "FC Augsburg",
+    "goals": 1
+   },
+   {
+    "name": "Zeki Amdouni",
+    "number": 23,
+    "position": "FW",
+    "club": "Burnley",
+    "goals": 11
+   },
+   {
+    "name": "Aurèle Amenda",
+    "number": 24,
+    "position": "DF",
+    "club": "Eintracht Frankfurt",
+    "goals": 0
+   },
+   {
+    "name": "Luca Jaquez",
+    "number": 25,
+    "position": "DF",
+    "club": "VfB Stuttgart",
+    "goals": 0
+   },
+   {
+    "name": "Cedric Itten",
+    "number": 26,
+    "position": "FW",
+    "club": "Fortuna Düsseldorf",
+    "goals": 5
+   }
+  ],
+  "Brazil": [
+   {
+    "name": "Alisson",
+    "number": 1,
+    "position": "GK",
+    "club": "Liverpool",
+    "goals": 0
+   },
+   {
+    "name": "Wesley",
+    "number": 2,
+    "position": "DF",
+    "club": "Roma",
+    "goals": 0
+   },
+   {
+    "name": "Gabriel Magalhães",
+    "number": 3,
+    "position": "DF",
+    "club": "Arsenal",
+    "goals": 1
+   },
+   {
+    "name": "Marquinhos",
+    "number": 4,
+    "position": "DF",
+    "club": "Paris Saint-Germain",
+    "goals": 7
+   },
+   {
+    "name": "Casemiro",
+    "number": 5,
+    "position": "MF",
+    "club": "Manchester United",
+    "goals": 9
+   },
+   {
+    "name": "Alex Sandro",
+    "number": 6,
+    "position": "DF",
+    "club": "Flamengo",
+    "goals": 2
+   },
+   {
+    "name": "Vinícius Júnior",
+    "number": 7,
+    "position": "FW",
+    "club": "Real Madrid",
+    "goals": 9
+   },
+   {
+    "name": "Bruno Guimarães",
+    "number": 8,
+    "position": "MF",
+    "club": "Newcastle United",
+    "goals": 2
+   },
+   {
+    "name": "Matheus Cunha",
+    "number": 9,
+    "position": "FW",
+    "club": "Manchester United",
+    "goals": 1
+   },
+   {
+    "name": "Neymar",
+    "number": 10,
+    "position": "FW",
+    "club": "Santos",
+    "goals": 79
+   },
+   {
+    "name": "Raphinha",
+    "number": 11,
+    "position": "FW",
+    "club": "Barcelona",
+    "goals": 11
+   },
+   {
+    "name": "Weverton",
+    "number": 12,
+    "position": "GK",
+    "club": "Grêmio",
+    "goals": 0
+   },
+   {
+    "name": "Danilo Luiz",
+    "number": 13,
+    "position": "DF",
+    "club": "Flamengo",
+    "goals": 1
+   },
+   {
+    "name": "Bremer",
+    "number": 14,
+    "position": "DF",
+    "club": "Juventus",
+    "goals": 1
+   },
+   {
+    "name": "Léo Pereira",
+    "number": 15,
+    "position": "DF",
+    "club": "Flamengo",
+    "goals": 0
+   },
+   {
+    "name": "Douglas Santos",
+    "number": 16,
+    "position": "DF",
+    "club": "Zenit Saint Petersburg",
+    "goals": 0
+   },
+   {
+    "name": "Fabinho",
+    "number": 17,
+    "position": "MF",
+    "club": "Al-Ittihad",
+    "goals": 0
+   },
+   {
+    "name": "Danilo Santos",
+    "number": 18,
+    "position": "MF",
+    "club": "Botafogo",
+    "goals": 2
+   },
+   {
+    "name": "Endrick",
+    "number": 19,
+    "position": "FW",
+    "club": "Lyon",
+    "goals": 3
+   },
+   {
+    "name": "Lucas Paquetá",
+    "number": 20,
+    "position": "MF",
+    "club": "Flamengo",
+    "goals": 13
+   },
+   {
+    "name": "Luiz Henrique",
+    "number": 21,
+    "position": "FW",
+    "club": "Zenit Saint Petersburg",
+    "goals": 2
+   },
+   {
+    "name": "Gabriel Martinelli",
+    "number": 22,
+    "position": "FW",
+    "club": "Arsenal",
+    "goals": 4
+   },
+   {
+    "name": "Ederson",
+    "number": 23,
+    "position": "GK",
+    "club": "Fenerbahçe",
+    "goals": 0
+   },
+   {
+    "name": "Roger Ibañez",
+    "number": 24,
+    "position": "DF",
+    "club": "Al-Ahli",
+    "goals": 0
+   },
+   {
+    "name": "Igor Thiago",
+    "number": 25,
+    "position": "FW",
+    "club": "Brentford",
+    "goals": 2
+   },
+   {
+    "name": "Rayan",
+    "number": 26,
+    "position": "FW",
+    "club": "Bournemouth",
+    "goals": 1
+   }
+  ],
+  "Haiti": [
+   {
+    "name": "Johny Placide",
+    "number": 1,
+    "position": "GK",
+    "club": "Bastia",
+    "goals": 0
+   },
+   {
+    "name": "Carlens Arcus",
+    "number": 2,
+    "position": "DF",
+    "club": "Angers",
+    "goals": 1
+   },
+   {
+    "name": "Keeto Thermoncy",
+    "number": 3,
+    "position": "DF",
+    "club": "Young Boys",
+    "goals": 0
+   },
+   {
+    "name": "Ricardo Adé",
+    "number": 4,
+    "position": "DF",
+    "club": "LDU Quito",
+    "goals": 2
+   },
+   {
+    "name": "Hannes Delcroix",
+    "number": 5,
+    "position": "DF",
+    "club": "Lugano",
+    "goals": 0
+   },
+   {
+    "name": "Carl Sainté",
+    "number": 6,
+    "position": "MF",
+    "club": "El Paso Locomotive FC",
+    "goals": 0
+   },
+   {
+    "name": "Derrick Etienne Jr.",
+    "number": 7,
+    "position": "FW",
+    "club": "Toronto FC",
+    "goals": 8
+   },
+   {
+    "name": "Martin Expérience",
+    "number": 8,
+    "position": "DF",
+    "club": "Nancy",
+    "goals": 0
+   },
+   {
+    "name": "Duckens Nazon",
+    "number": 9,
+    "position": "FW",
+    "club": "Esteghlal",
+    "goals": 44
+   },
+   {
+    "name": "Jean-Ricner Bellegarde",
+    "number": 10,
+    "position": "MF",
+    "club": "Wolverhampton Wanderers",
+    "goals": 0
+   },
+   {
+    "name": "Louicius Deedson",
+    "number": 11,
+    "position": "FW",
+    "club": "FC Dallas",
+    "goals": 10
+   },
+   {
+    "name": "Alexandre Pierre",
+    "number": 12,
+    "position": "GK",
+    "club": "Sochaux",
+    "goals": 0
+   },
+   {
+    "name": "Duke Lacroix",
+    "number": 13,
+    "position": "DF",
+    "club": "Colorado Springs Switchbacks FC",
+    "goals": 3
+   },
+   {
+    "name": "Leverton Pierre",
+    "number": 14,
+    "position": "MF",
+    "club": "Vizela",
+    "goals": 0
+   },
+   {
+    "name": "Ruben Providence",
+    "number": 15,
+    "position": "FW",
+    "club": "Almere City",
+    "goals": 3
+   },
+   {
+    "name": "Lenny Joseph",
+    "number": 16,
+    "position": "FW",
+    "club": "Ferencváros",
+    "goals": 1
+   },
+   {
+    "name": "Danley Jean Jacques",
+    "number": 17,
+    "position": "MF",
+    "club": "Philadelphia Union",
+    "goals": 6
+   },
+   {
+    "name": "Wilson Isidor",
+    "number": 18,
+    "position": "FW",
+    "club": "Sunderland",
+    "goals": 1
+   },
+   {
+    "name": "Yassin Fortuné",
+    "number": 19,
+    "position": "FW",
+    "club": "Vizela",
+    "goals": 0
+   },
+   {
+    "name": "Frantzdy Pierrot",
+    "number": 20,
+    "position": "FW",
+    "club": "Çaykur Rizespor",
+    "goals": 34
+   },
+   {
+    "name": "Josué Casimir",
+    "number": 21,
+    "position": "FW",
+    "club": "Auxerre",
+    "goals": 0
+   },
+   {
+    "name": "Jean-Kévin Duverne",
+    "number": 22,
+    "position": "DF",
+    "club": "Gent",
+    "goals": 1
+   },
+   {
+    "name": "Josué Duverger",
+    "number": 23,
+    "position": "GK",
+    "club": "Cosmos Koblenz",
+    "goals": 0
+   },
+   {
+    "name": "Wilguens Paugain",
+    "number": 24,
+    "position": "DF",
+    "club": "Zulte Waregem",
+    "goals": 0
+   },
+   {
+    "name": "Dominique Simon",
+    "number": 25,
+    "position": "MF",
+    "club": "Tatran Prešov",
+    "goals": 0
+   },
+   {
+    "name": "Woodensky Pierre",
+    "number": 26,
+    "position": "MF",
+    "club": "Violette",
+    "goals": 0
+   }
+  ],
+  "Morocco": [
+   {
+    "name": "Yassine Bounou",
+    "number": 1,
+    "position": "GK",
+    "club": "Al-Hilal",
+    "goals": 0
+   },
+   {
+    "name": "Achraf Hakimi",
+    "number": 2,
+    "position": "DF",
+    "club": "Paris Saint-Germain",
+    "goals": 11
+   },
+   {
+    "name": "Noussair Mazraoui",
+    "number": 3,
+    "position": "DF",
+    "club": "Manchester United",
+    "goals": 2
+   },
+   {
+    "name": "Sofyan Amrabat",
+    "number": 4,
+    "position": "MF",
+    "club": "Real Betis",
+    "goals": 0
+   },
+   {
+    "name": "Nayef Aguerd",
+    "number": 5,
+    "position": "DF",
+    "club": "Marseille",
+    "goals": 2
+   },
+   {
+    "name": "Ayyoub Bouaddi",
+    "number": 6,
+    "position": "MF",
+    "club": "Lille",
+    "goals": 0
+   },
+   {
+    "name": "Chemsdine Talbi",
+    "number": 7,
+    "position": "MF",
+    "club": "Sunderland",
+    "goals": 0
+   },
+   {
+    "name": "Azzedine Ounahi",
+    "number": 8,
+    "position": "MF",
+    "club": "Girona",
+    "goals": 9
+   },
+   {
+    "name": "Soufiane Rahimi",
+    "number": 9,
+    "position": "FW",
+    "club": "Al-Ain",
+    "goals": 12
+   },
+   {
+    "name": "Brahim Díaz",
+    "number": 10,
+    "position": "FW",
+    "club": "Real Madrid",
+    "goals": 13
+   },
+   {
+    "name": "Ismael Saibari",
+    "number": 11,
+    "position": "MF",
+    "club": "PSV Eindhoven",
+    "goals": 9
+   },
+   {
+    "name": "Munir Mohamedi",
+    "number": 12,
+    "position": "GK",
+    "club": "RS Berkane",
+    "goals": 0
+   },
+   {
+    "name": "Zakaria El Ouahdi",
+    "number": 13,
+    "position": "DF",
+    "club": "Genk",
+    "goals": 0
+   },
+   {
+    "name": "Issa Diop",
+    "number": 14,
+    "position": "DF",
+    "club": "Fulham",
+    "goals": 0
+   },
+   {
+    "name": "Samir El Mourabet",
+    "number": 15,
+    "position": "MF",
+    "club": "Strasbourg",
+    "goals": 0
+   },
+   {
+    "name": "Gessime Yassine",
+    "number": 16,
+    "position": "MF",
+    "club": "Strasbourg",
+    "goals": 0
+   },
+   {
+    "name": "Abde Ezzalzouli",
+    "number": 17,
+    "position": "FW",
+    "club": "Real Betis",
+    "goals": 2
+   },
+   {
+    "name": "Chadi Riad",
+    "number": 18,
+    "position": "DF",
+    "club": "Crystal Palace",
+    "goals": 1
+   },
+   {
+    "name": "Youssef Belammari",
+    "number": 19,
+    "position": "DF",
+    "club": "Al Ahly",
+    "goals": 0
+   },
+   {
+    "name": "Ayoub El Kaabi",
+    "number": 20,
+    "position": "FW",
+    "club": "Olympiacos",
+    "goals": 37
+   },
+   {
+    "name": "Ayoube Amaimouni",
+    "number": 21,
+    "position": "FW",
+    "club": "Eintracht Frankfurt",
+    "goals": 0
+   },
+   {
+    "name": "Ahmed Reda Tagnaouti",
+    "number": 22,
+    "position": "GK",
+    "club": "AS FAR",
+    "goals": 0
+   },
+   {
+    "name": "Bilal El Khannouss",
+    "number": 23,
+    "position": "MF",
+    "club": "VfB Stuttgart",
+    "goals": 3
+   },
+   {
+    "name": "Neil El Aynaoui",
+    "number": 24,
+    "position": "MF",
+    "club": "Roma",
+    "goals": 2
+   },
+   {
+    "name": "Redouane Halhal",
+    "number": 25,
+    "position": "DF",
+    "club": "Mechelen",
+    "goals": 0
+   },
+   {
+    "name": "Anass Salah-Eddine",
+    "number": 26,
+    "position": "DF",
+    "club": "PSV Eindhoven",
+    "goals": 0
+   }
+  ],
+  "Scotland": [
+   {
+    "name": "Angus Gunn",
+    "number": 1,
+    "position": "GK",
+    "club": "Nottingham Forest",
+    "goals": 0
+   },
+   {
+    "name": "Aaron Hickey",
+    "number": 2,
+    "position": "DF",
+    "club": "Brentford",
+    "goals": 0
+   },
+   {
+    "name": "Andy Robertson",
+    "number": 3,
+    "position": "DF",
+    "club": "Liverpool",
+    "goals": 4
+   },
+   {
+    "name": "Scott McTominay",
+    "number": 4,
+    "position": "MF",
+    "club": "Napoli",
+    "goals": 14
+   },
+   {
+    "name": "Grant Hanley",
+    "number": 5,
+    "position": "DF",
+    "club": "Hibernian",
+    "goals": 2
+   },
+   {
+    "name": "Kieran Tierney",
+    "number": 6,
+    "position": "DF",
+    "club": "Celtic",
+    "goals": 2
+   },
+   {
+    "name": "John McGinn",
+    "number": 7,
+    "position": "MF",
+    "club": "Aston Villa",
+    "goals": 20
+   },
+   {
+    "name": "Tyler Fletcher",
+    "number": 8,
+    "position": "MF",
+    "club": "Manchester United",
+    "goals": 0
+   },
+   {
+    "name": "Lyndon Dykes",
+    "number": 9,
+    "position": "FW",
+    "club": "Charlton Athletic",
+    "goals": 10
+   },
+   {
+    "name": "Ché Adams",
+    "number": 10,
+    "position": "FW",
+    "club": "Torino",
+    "goals": 11
+   },
+   {
+    "name": "Ryan Christie",
+    "number": 11,
+    "position": "MF",
+    "club": "Bournemouth",
+    "goals": 10
+   },
+   {
+    "name": "Liam Kelly",
+    "number": 12,
+    "position": "GK",
+    "club": "Rangers",
+    "goals": 0
+   },
+   {
+    "name": "Jack Hendry",
+    "number": 13,
+    "position": "DF",
+    "club": "Al-Ettifaq",
+    "goals": 3
+   },
+   {
+    "name": "Ross Stewart",
+    "number": 14,
+    "position": "FW",
+    "club": "Southampton",
+    "goals": 0
+   },
+   {
+    "name": "John Souttar",
+    "number": 15,
+    "position": "DF",
+    "club": "Rangers",
+    "goals": 2
+   },
+   {
+    "name": "Dominic Hyam",
+    "number": 16,
+    "position": "DF",
+    "club": "Wrexham",
+    "goals": 0
+   },
+   {
+    "name": "Ben Gannon-Doak",
+    "number": 17,
+    "position": "FW",
+    "club": "Bournemouth",
+    "goals": 1
+   },
+   {
+    "name": "George Hirst",
+    "number": 18,
+    "position": "FW",
+    "club": "Ipswich Town",
+    "goals": 1
+   },
+   {
+    "name": "Lewis Ferguson",
+    "number": 19,
+    "position": "MF",
+    "club": "Bologna",
+    "goals": 1
+   },
+   {
+    "name": "Lawrence Shankland",
+    "number": 20,
+    "position": "FW",
+    "club": "Heart of Midlothian",
+    "goals": 6
+   },
+   {
+    "name": "Craig Gordon",
+    "number": 21,
+    "position": "GK",
+    "club": "Heart of Midlothian",
+    "goals": 0
+   },
+   {
+    "name": "Nathan Patterson",
+    "number": 22,
+    "position": "DF",
+    "club": "Everton",
+    "goals": 1
+   },
+   {
+    "name": "Kenny McLean",
+    "number": 23,
+    "position": "MF",
+    "club": "Norwich City",
+    "goals": 3
+   },
+   {
+    "name": "Anthony Ralston",
+    "number": 24,
+    "position": "DF",
+    "club": "Celtic",
+    "goals": 1
+   },
+   {
+    "name": "Findlay Curtis",
+    "number": 25,
+    "position": "FW",
+    "club": "Kilmarnock",
+    "goals": 1
+   },
+   {
+    "name": "Scott McKenna",
+    "number": 26,
+    "position": "DF",
+    "club": "Dinamo Zagreb",
+    "goals": 1
+   }
+  ],
+  "Australia": [
+   {
+    "name": "Mathew Ryan",
+    "number": 1,
+    "position": "GK",
+    "club": "Levante",
+    "goals": 0
+   },
+   {
+    "name": "Miloš Degenek",
+    "number": 2,
+    "position": "DF",
+    "club": "APOEL",
+    "goals": 1
+   },
+   {
+    "name": "Alessandro Circati",
+    "number": 3,
+    "position": "DF",
+    "club": "Parma",
+    "goals": 1
+   },
+   {
+    "name": "Jacob Italiano",
+    "number": 4,
+    "position": "DF",
+    "club": "GAK",
+    "goals": 0
+   },
+   {
+    "name": "Jordan Bos",
+    "number": 5,
+    "position": "DF",
+    "club": "Feyenoord",
+    "goals": 4
+   },
+   {
+    "name": "Jason Geria",
+    "number": 6,
+    "position": "DF",
+    "club": "Albirex Niigata",
+    "goals": 0
+   },
+   {
+    "name": "Mathew Leckie",
+    "number": 7,
+    "position": "FW",
+    "club": "Melbourne City",
+    "goals": 14
+   },
+   {
+    "name": "Connor Metcalfe",
+    "number": 8,
+    "position": "MF",
+    "club": "FC St. Pauli",
+    "goals": 1
+   },
+   {
+    "name": "Mohamed Touré",
+    "number": 9,
+    "position": "FW",
+    "club": "Norwich City",
+    "goals": 2
+   },
+   {
+    "name": "Ajdin Hrustic",
+    "number": 10,
+    "position": "FW",
+    "club": "Heracles Almelo",
+    "goals": 4
+   },
+   {
+    "name": "Awer Mabil",
+    "number": 11,
+    "position": "FW",
+    "club": "Castellón",
+    "goals": 10
+   },
+   {
+    "name": "Paul Izzo",
+    "number": 12,
+    "position": "GK",
+    "club": "Randers",
+    "goals": 0
+   },
+   {
+    "name": "Aiden O'Neill",
+    "number": 13,
+    "position": "MF",
+    "club": "New York City FC",
+    "goals": 0
+   },
+   {
+    "name": "Cammy Devlin",
+    "number": 14,
+    "position": "MF",
+    "club": "Heart of Midlothian",
+    "goals": 0
+   },
+   {
+    "name": "Kai Trewin",
+    "number": 15,
+    "position": "DF",
+    "club": "New York City FC",
+    "goals": 0
+   },
+   {
+    "name": "Aziz Behich",
+    "number": 16,
+    "position": "DF",
+    "club": "Melbourne City",
+    "goals": 3
+   },
+   {
+    "name": "Nestory Irankunda",
+    "number": 17,
+    "position": "FW",
+    "club": "Watford",
+    "goals": 5
+   },
+   {
+    "name": "Patrick Beach",
+    "number": 18,
+    "position": "GK",
+    "club": "Melbourne City",
+    "goals": 0
+   },
+   {
+    "name": "Harry Souttar",
+    "number": 19,
+    "position": "DF",
+    "club": "Leicester City",
+    "goals": 11
+   },
+   {
+    "name": "Cristian Volpato",
+    "number": 20,
+    "position": "FW",
+    "club": "Sassuolo",
+    "goals": 0
+   },
+   {
+    "name": "Cameron Burgess",
+    "number": 21,
+    "position": "DF",
+    "club": "Swansea City",
+    "goals": 0
+   },
+   {
+    "name": "Jackson Irvine",
+    "number": 22,
+    "position": "MF",
+    "club": "FC St. Pauli",
+    "goals": 14
+   },
+   {
+    "name": "Nishan Velupillay",
+    "number": 23,
+    "position": "FW",
+    "club": "Melbourne Victory",
+    "goals": 3
+   },
+   {
+    "name": "Paul Okon-Engstler",
+    "number": 24,
+    "position": "MF",
+    "club": "Sydney FC",
+    "goals": 0
+   },
+   {
+    "name": "Lucas Herrington",
+    "number": 25,
+    "position": "DF",
+    "club": "Colorado Rapids",
+    "goals": 0
+   },
+   {
+    "name": "Tete Yengi",
+    "number": 26,
+    "position": "FW",
+    "club": "Machida Zelvia",
+    "goals": 0
+   }
+  ],
+  "Paraguay": [
+   {
+    "name": "Gatito Fernández",
+    "number": 1,
+    "position": "GK",
+    "club": "Cerro Porteño",
+    "goals": 0
+   },
+   {
+    "name": "Gustavo Velázquez",
+    "number": 2,
+    "position": "DF",
+    "club": "Cerro Porteño",
+    "goals": 1
+   },
+   {
+    "name": "Omar Alderete",
+    "number": 3,
+    "position": "DF",
+    "club": "Sunderland",
+    "goals": 3
+   },
+   {
+    "name": "Juan José Cáceres",
+    "number": 4,
+    "position": "DF",
+    "club": "Dynamo Moscow",
+    "goals": 0
+   },
+   {
+    "name": "Fabián Balbuena",
+    "number": 5,
+    "position": "DF",
+    "club": "Grêmio",
+    "goals": 2
+   },
+   {
+    "name": "Júnior Alonso",
+    "number": 6,
+    "position": "DF",
+    "club": "Atlético Mineiro",
+    "goals": 3
+   },
+   {
+    "name": "Ramón Sosa",
+    "number": 7,
+    "position": "MF",
+    "club": "Palmeiras",
+    "goals": 1
+   },
+   {
+    "name": "Diego Gómez",
+    "number": 8,
+    "position": "MF",
+    "club": "Brighton & Hove Albion",
+    "goals": 3
+   },
+   {
+    "name": "Antonio Sanabria",
+    "number": 9,
+    "position": "FW",
+    "club": "Cremonese",
+    "goals": 7
+   },
+   {
+    "name": "Miguel Almirón",
+    "number": 10,
+    "position": "MF",
+    "club": "Atlanta United FC",
+    "goals": 9
+   },
+   {
+    "name": "Maurício",
+    "number": 11,
+    "position": "MF",
+    "club": "Palmeiras",
+    "goals": 0
+   },
+   {
+    "name": "Orlando Gill",
+    "number": 12,
+    "position": "GK",
+    "club": "San Lorenzo",
+    "goals": 0
+   },
+   {
+    "name": "José Canale",
+    "number": 13,
+    "position": "DF",
+    "club": "Lanús",
+    "goals": 0
+   },
+   {
+    "name": "Andrés Cubas",
+    "number": 14,
+    "position": "MF",
+    "club": "Vancouver Whitecaps FC",
+    "goals": 0
+   },
+   {
+    "name": "Gustavo Gómez",
+    "number": 15,
+    "position": "DF",
+    "club": "Palmeiras",
+    "goals": 4
+   },
+   {
+    "name": "Damián Bobadilla",
+    "number": 16,
+    "position": "MF",
+    "club": "São Paulo",
+    "goals": 1
+   },
+   {
+    "name": "Kaku",
+    "number": 17,
+    "position": "FW",
+    "club": "Al-Ain",
+    "goals": 5
+   },
+   {
+    "name": "Álex Arce",
+    "number": 18,
+    "position": "FW",
+    "club": "Independiente Rivadavia",
+    "goals": 1
+   },
+   {
+    "name": "Julio Enciso",
+    "number": 19,
+    "position": "FW",
+    "club": "Strasbourg",
+    "goals": 4
+   },
+   {
+    "name": "Braian Ojeda",
+    "number": 20,
+    "position": "MF",
+    "club": "Orlando City SC",
+    "goals": 0
+   },
+   {
+    "name": "Gabriel Ávalos",
+    "number": 21,
+    "position": "FW",
+    "club": "Independiente",
+    "goals": 2
+   },
+   {
+    "name": "Gastón Olveira",
+    "number": 22,
+    "position": "GK",
+    "club": "Olimpia",
+    "goals": 0
+   },
+   {
+    "name": "Matías Galarza",
+    "number": 23,
+    "position": "MF",
+    "club": "Atlanta United FC",
+    "goals": 2
+   },
+   {
+    "name": "Gustavo Caballero",
+    "number": 24,
+    "position": "MF",
+    "club": "Portsmouth",
+    "goals": 1
+   },
+   {
+    "name": "Isidro Pitta",
+    "number": 25,
+    "position": "FW",
+    "club": "Red Bull Bragantino",
+    "goals": 0
+   },
+   {
+    "name": "Alexandro Maidana",
+    "number": 26,
+    "position": "DF",
+    "club": "Talleres",
+    "goals": 0
+   }
+  ],
+  "Turkey": [
+   {
+    "name": "Mert Günok",
+    "number": 1,
+    "position": "GK",
+    "club": "Fenerbahçe",
+    "goals": 0
+   },
+   {
+    "name": "Zeki Çelik",
+    "number": 2,
+    "position": "DF",
+    "club": "Roma",
+    "goals": 3
+   },
+   {
+    "name": "Merih Demiral",
+    "number": 3,
+    "position": "DF",
+    "club": "Al-Ahli",
+    "goals": 6
+   },
+   {
+    "name": "Çağlar Söyüncü",
+    "number": 4,
+    "position": "DF",
+    "club": "Fenerbahçe",
+    "goals": 2
+   },
+   {
+    "name": "Salih Özcan",
+    "number": 5,
+    "position": "MF",
+    "club": "Borussia Dortmund",
+    "goals": 1
+   },
+   {
+    "name": "Orkun Kökçü",
+    "number": 6,
+    "position": "MF",
+    "club": "Beşiktaş",
+    "goals": 4
+   },
+   {
+    "name": "Kerem Aktürkoğlu",
+    "number": 7,
+    "position": "FW",
+    "club": "Fenerbahçe",
+    "goals": 15
+   },
+   {
+    "name": "Arda Güler",
+    "number": 8,
+    "position": "FW",
+    "club": "Real Madrid",
+    "goals": 6
+   },
+   {
+    "name": "Deniz Gül",
+    "number": 9,
+    "position": "FW",
+    "club": "Porto",
+    "goals": 2
+   },
+   {
+    "name": "Hakan Çalhanoğlu",
+    "number": 10,
+    "position": "MF",
+    "club": "Inter Milan",
+    "goals": 22
+   },
+   {
+    "name": "Kenan Yıldız",
+    "number": 11,
+    "position": "FW",
+    "club": "Juventus",
+    "goals": 5
+   },
+   {
+    "name": "Altay Bayındır",
+    "number": 12,
+    "position": "GK",
+    "club": "Manchester United",
+    "goals": 0
+   },
+   {
+    "name": "Eren Elmalı",
+    "number": 13,
+    "position": "DF",
+    "club": "Galatasaray",
+    "goals": 0
+   },
+   {
+    "name": "Abdülkerim Bardakcı",
+    "number": 14,
+    "position": "DF",
+    "club": "Galatasaray",
+    "goals": 2
+   },
+   {
+    "name": "Ozan Kabak",
+    "number": 15,
+    "position": "DF",
+    "club": "TSG Hoffenheim",
+    "goals": 2
+   },
+   {
+    "name": "İsmail Yüksek",
+    "number": 16,
+    "position": "MF",
+    "club": "Fenerbahçe",
+    "goals": 1
+   },
+   {
+    "name": "İrfan Can Kahveci",
+    "number": 17,
+    "position": "FW",
+    "club": "Kasımpaşa",
+    "goals": 6
+   },
+   {
+    "name": "Mert Müldür",
+    "number": 18,
+    "position": "DF",
+    "club": "Fenerbahçe",
+    "goals": 3
+   },
+   {
+    "name": "Yunus Akgün",
+    "number": 19,
+    "position": "FW",
+    "club": "Galatasaray",
+    "goals": 3
+   },
+   {
+    "name": "Ferdi Kadıoğlu",
+    "number": 20,
+    "position": "DF",
+    "club": "Brighton & Hove Albion",
+    "goals": 2
+   },
+   {
+    "name": "Barış Alper Yılmaz",
+    "number": 21,
+    "position": "FW",
+    "club": "Galatasaray",
+    "goals": 3
+   },
+   {
+    "name": "Kaan Ayhan",
+    "number": 22,
+    "position": "MF",
+    "club": "Galatasaray",
+    "goals": 5
+   },
+   {
+    "name": "Uğurcan Çakır",
+    "number": 23,
+    "position": "GK",
+    "club": "Galatasaray",
+    "goals": 0
+   },
+   {
+    "name": "Oğuz Aydın",
+    "number": 24,
+    "position": "FW",
+    "club": "Fenerbahçe",
+    "goals": 0
+   },
+   {
+    "name": "Samet Akaydin",
+    "number": 25,
+    "position": "DF",
+    "club": "Çaykur Rizespor",
+    "goals": 1
+   },
+   {
+    "name": "Can Uzun",
+    "number": 26,
+    "position": "FW",
+    "club": "Eintracht Frankfurt",
+    "goals": 1
+   }
+  ],
+  "United States": [
+   {
+    "name": "Matt Turner",
+    "number": 1,
+    "position": "GK",
+    "club": "New England Revolution",
+    "goals": 0
+   },
+   {
+    "name": "Sergiño Dest",
+    "number": 2,
+    "position": "DF",
+    "club": "PSV Eindhoven",
+    "goals": 3
+   },
+   {
+    "name": "Chris Richards",
+    "number": 3,
+    "position": "DF",
+    "club": "Crystal Palace",
+    "goals": 3
+   },
+   {
+    "name": "Tyler Adams",
+    "number": 4,
+    "position": "MF",
+    "club": "Bournemouth",
+    "goals": 2
+   },
+   {
+    "name": "Antonee Robinson",
+    "number": 5,
+    "position": "DF",
+    "club": "Fulham",
+    "goals": 4
+   },
+   {
+    "name": "Auston Trusty",
+    "number": 6,
+    "position": "DF",
+    "club": "Celtic",
+    "goals": 0
+   },
+   {
+    "name": "Giovanni Reyna",
+    "number": 7,
+    "position": "MF",
+    "club": "Borussia Mönchengladbach",
+    "goals": 9
+   },
+   {
+    "name": "Weston McKennie",
+    "number": 8,
+    "position": "MF",
+    "club": "Juventus",
+    "goals": 12
+   },
+   {
+    "name": "Ricardo Pepi",
+    "number": 9,
+    "position": "FW",
+    "club": "PSV Eindhoven",
+    "goals": 13
+   },
+   {
+    "name": "Christian Pulisic",
+    "number": 10,
+    "position": "FW",
+    "club": "Milan",
+    "goals": 33
+   },
+   {
+    "name": "Brenden Aaronson",
+    "number": 11,
+    "position": "FW",
+    "club": "Leeds United",
+    "goals": 9
+   },
+   {
+    "name": "Miles Robinson",
+    "number": 12,
+    "position": "DF",
+    "club": "FC Cincinnati",
+    "goals": 3
+   },
+   {
+    "name": "Tim Ream",
+    "number": 13,
+    "position": "DF",
+    "club": "Charlotte FC",
+    "goals": 1
+   },
+   {
+    "name": "Sebastian Berhalter",
+    "number": 14,
+    "position": "MF",
+    "club": "Vancouver Whitecaps FC",
+    "goals": 1
+   },
+   {
+    "name": "Cristian Roldan",
+    "number": 15,
+    "position": "MF",
+    "club": "Seattle Sounders FC",
+    "goals": 0
+   },
+   {
+    "name": "Alex Freeman",
+    "number": 16,
+    "position": "DF",
+    "club": "Villarreal",
+    "goals": 2
+   },
+   {
+    "name": "Malik Tillman",
+    "number": 17,
+    "position": "MF",
+    "club": "Bayer Leverkusen",
+    "goals": 3
+   },
+   {
+    "name": "Maximilian Arfsten",
+    "number": 18,
+    "position": "DF",
+    "club": "Columbus Crew",
+    "goals": 1
+   },
+   {
+    "name": "Haji Wright",
+    "number": 19,
+    "position": "FW",
+    "club": "Coventry City",
+    "goals": 7
+   },
+   {
+    "name": "Folarin Balogun",
+    "number": 20,
+    "position": "FW",
+    "club": "Monaco",
+    "goals": 9
+   },
+   {
+    "name": "Timothy Weah",
+    "number": 21,
+    "position": "FW",
+    "club": "Marseille",
+    "goals": 7
+   },
+   {
+    "name": "Mark McKenzie",
+    "number": 22,
+    "position": "DF",
+    "club": "Toulouse",
+    "goals": 0
+   },
+   {
+    "name": "Joe Scally",
+    "number": 23,
+    "position": "DF",
+    "club": "Borussia Mönchengladbach",
+    "goals": 0
+   },
+   {
+    "name": "Matt Freese",
+    "number": 24,
+    "position": "GK",
+    "club": "New York City FC",
+    "goals": 0
+   },
+   {
+    "name": "Chris Brady",
+    "number": 25,
+    "position": "GK",
+    "club": "Chicago Fire FC",
+    "goals": 0
+   },
+   {
+    "name": "Alejandro Zendejas",
+    "number": 26,
+    "position": "FW",
+    "club": "América",
+    "goals": 2
+   }
+  ],
+  "Curaçao": [
+   {
+    "name": "Eloy Room",
+    "number": 1,
+    "position": "GK",
+    "club": "Miami FC",
+    "goals": 0
+   },
+   {
+    "name": "Shurandy Sambo",
+    "number": 2,
+    "position": "DF",
+    "club": "Sparta Rotterdam",
+    "goals": 0
+   },
+   {
+    "name": "Juriën Gaari",
+    "number": 3,
+    "position": "DF",
+    "club": "Abha",
+    "goals": 1
+   },
+   {
+    "name": "Roshon van Eijma",
+    "number": 4,
+    "position": "DF",
+    "club": "RKC Waalwijk",
+    "goals": 1
+   },
+   {
+    "name": "Sherel Floranus",
+    "number": 5,
+    "position": "DF",
+    "club": "PEC Zwolle",
+    "goals": 0
+   },
+   {
+    "name": "Godfried Roemeratoe",
+    "number": 6,
+    "position": "MF",
+    "club": "RKC Waalwijk",
+    "goals": 1
+   },
+   {
+    "name": "Juninho Bacuna",
+    "number": 7,
+    "position": "MF",
+    "club": "Volendam",
+    "goals": 14
+   },
+   {
+    "name": "Livano Comenencia",
+    "number": 8,
+    "position": "MF",
+    "club": "Zürich",
+    "goals": 1
+   },
+   {
+    "name": "Jürgen Locadia",
+    "number": 9,
+    "position": "FW",
+    "club": "Miami FC",
+    "goals": 1
+   },
+   {
+    "name": "Leandro Bacuna",
+    "number": 10,
+    "position": "MF",
+    "club": "Iğdır",
+    "goals": 16
+   },
+   {
+    "name": "Jeremy Antonisse",
+    "number": 11,
+    "position": "FW",
+    "club": "Kifisia",
+    "goals": 3
+   },
+   {
+    "name": "Sontje Hansen",
+    "number": 12,
+    "position": "FW",
+    "club": "Middlesbrough",
+    "goals": 1
+   },
+   {
+    "name": "Tyrese Noslin",
+    "number": 13,
+    "position": "FW",
+    "club": "Telstar",
+    "goals": 1
+   },
+   {
+    "name": "Kenji Gorré",
+    "number": 14,
+    "position": "FW",
+    "club": "Maccabi Haifa",
+    "goals": 6
+   },
+   {
+    "name": "Ar'jany Martha",
+    "number": 15,
+    "position": "MF",
+    "club": "Rotherham United",
+    "goals": 2
+   },
+   {
+    "name": "Jearl Margaritha",
+    "number": 16,
+    "position": "FW",
+    "club": "Beveren",
+    "goals": 5
+   },
+   {
+    "name": "Brandley Kuwas",
+    "number": 17,
+    "position": "FW",
+    "club": "Volendam",
+    "goals": 2
+   },
+   {
+    "name": "Armando Obispo",
+    "number": 18,
+    "position": "DF",
+    "club": "PSV Eindhoven",
+    "goals": 0
+   },
+   {
+    "name": "Gervane Kastaneer",
+    "number": 19,
+    "position": "FW",
+    "club": "Terengganu",
+    "goals": 9
+   },
+   {
+    "name": "Joshua Brenet",
+    "number": 20,
+    "position": "DF",
+    "club": "Kayserispor",
+    "goals": 1
+   },
+   {
+    "name": "Tahith Chong",
+    "number": 21,
+    "position": "MF",
+    "club": "Sheffield United",
+    "goals": 3
+   },
+   {
+    "name": "Kevin Felida",
+    "number": 22,
+    "position": "MF",
+    "club": "Den Bosch",
+    "goals": 1
+   },
+   {
+    "name": "Riechedly Bazoer",
+    "number": 23,
+    "position": "DF",
+    "club": "Konyaspor",
+    "goals": 0
+   },
+   {
+    "name": "Deveron Fonville",
+    "number": 24,
+    "position": "DF",
+    "club": "NEC",
+    "goals": 0
+   },
+   {
+    "name": "Tyrick Bodak",
+    "number": 25,
+    "position": "GK",
+    "club": "Telstar",
+    "goals": 0
+   },
+   {
+    "name": "Trevor Doornbusch",
+    "number": 26,
+    "position": "GK",
+    "club": "VVV-Venlo",
+    "goals": 0
+   }
+  ],
+  "Ecuador": [
+   {
+    "name": "Hernán Galíndez",
+    "number": 1,
+    "position": "GK",
+    "club": "Huracán",
+    "goals": 0
+   },
+   {
+    "name": "Félix Torres",
+    "number": 2,
+    "position": "DF",
+    "club": "Internacional",
+    "goals": 5
+   },
+   {
+    "name": "Piero Hincapié",
+    "number": 3,
+    "position": "DF",
+    "club": "Arsenal",
+    "goals": 3
+   },
+   {
+    "name": "Joel Ordóñez",
+    "number": 4,
+    "position": "DF",
+    "club": "Club Brugge",
+    "goals": 0
+   },
+   {
+    "name": "Jordy Alcívar",
+    "number": 5,
+    "position": "MF",
+    "club": "Independiente del Valle",
+    "goals": 1
+   },
+   {
+    "name": "Willian Pacho",
+    "number": 6,
+    "position": "DF",
+    "club": "Paris Saint-Germain",
+    "goals": 2
+   },
+   {
+    "name": "Pervis Estupiñán",
+    "number": 7,
+    "position": "DF",
+    "club": "Milan",
+    "goals": 4
+   },
+   {
+    "name": "Anthony Valencia",
+    "number": 8,
+    "position": "MF",
+    "club": "Antwerp",
+    "goals": 1
+   },
+   {
+    "name": "John Yeboah",
+    "number": 9,
+    "position": "FW",
+    "club": "Venezia",
+    "goals": 3
+   },
+   {
+    "name": "Kendry Páez",
+    "number": 10,
+    "position": "MF",
+    "club": "River Plate",
+    "goals": 2
+   },
+   {
+    "name": "Kevin Rodríguez",
+    "number": 11,
+    "position": "FW",
+    "club": "Union Saint-Gilloise",
+    "goals": 2
+   },
+   {
+    "name": "Moisés Ramírez",
+    "number": 12,
+    "position": "GK",
+    "club": "Kifisia",
+    "goals": 0
+   },
+   {
+    "name": "Enner Valencia",
+    "number": 13,
+    "position": "FW",
+    "club": "Pachuca",
+    "goals": 49
+   },
+   {
+    "name": "Alan Minda",
+    "number": 14,
+    "position": "MF",
+    "club": "Atlético Mineiro",
+    "goals": 2
+   },
+   {
+    "name": "Pedro Vite",
+    "number": 15,
+    "position": "MF",
+    "club": "UNAM",
+    "goals": 1
+   },
+   {
+    "name": "Jordy Caicedo",
+    "number": 16,
+    "position": "FW",
+    "club": "Huracán",
+    "goals": 3
+   },
+   {
+    "name": "Ángelo Preciado",
+    "number": 17,
+    "position": "DF",
+    "club": "Atlético Mineiro",
+    "goals": 0
+   },
+   {
+    "name": "Denil Castillo",
+    "number": 18,
+    "position": "MF",
+    "club": "Midtjylland",
+    "goals": 0
+   },
+   {
+    "name": "Gonzalo Plata",
+    "number": 19,
+    "position": "FW",
+    "club": "Flamengo",
+    "goals": 8
+   },
+   {
+    "name": "Nilson Angulo",
+    "number": 20,
+    "position": "FW",
+    "club": "Sunderland",
+    "goals": 1
+   },
+   {
+    "name": "Alan Franco",
+    "number": 21,
+    "position": "MF",
+    "club": "Atlético Mineiro",
+    "goals": 1
+   },
+   {
+    "name": "Gonzalo Valle",
+    "number": 22,
+    "position": "GK",
+    "club": "LDU Quito",
+    "goals": 0
+   },
+   {
+    "name": "Moisés Caicedo",
+    "number": 23,
+    "position": "MF",
+    "club": "Chelsea",
+    "goals": 3
+   },
+   {
+    "name": "Jeremy Arévalo",
+    "number": 24,
+    "position": "FW",
+    "club": "VfB Stuttgart",
+    "goals": 0
+   },
+   {
+    "name": "Jackson Porozo",
+    "number": 25,
+    "position": "DF",
+    "club": "Tijuana",
+    "goals": 1
+   },
+   {
+    "name": "Yaimar Medina",
+    "number": 26,
+    "position": "DF",
+    "club": "Genk",
+    "goals": 0
+   }
+  ],
+  "Germany": [
+   {
+    "name": "Manuel Neuer",
+    "number": 1,
+    "position": "GK",
+    "club": "Bayern Munich",
+    "goals": 0
+   },
+   {
+    "name": "Antonio Rüdiger",
+    "number": 2,
+    "position": "DF",
+    "club": "Real Madrid",
+    "goals": 3
+   },
+   {
+    "name": "Waldemar Anton",
+    "number": 3,
+    "position": "DF",
+    "club": "Borussia Dortmund",
+    "goals": 0
+   },
+   {
+    "name": "Jonathan Tah",
+    "number": 4,
+    "position": "DF",
+    "club": "Bayern Munich",
+    "goals": 1
+   },
+   {
+    "name": "Aleksandar Pavlović",
+    "number": 5,
+    "position": "MF",
+    "club": "Bayern Munich",
+    "goals": 1
+   },
+   {
+    "name": "Joshua Kimmich",
+    "number": 6,
+    "position": "DF",
+    "club": "Bayern Munich",
+    "goals": 10
+   },
+   {
+    "name": "Kai Havertz",
+    "number": 7,
+    "position": "FW",
+    "club": "Arsenal",
+    "goals": 21
+   },
+   {
+    "name": "Leon Goretzka",
+    "number": 8,
+    "position": "MF",
+    "club": "Bayern Munich",
+    "goals": 15
+   },
+   {
+    "name": "Jamie Leweling",
+    "number": 9,
+    "position": "MF",
+    "club": "VfB Stuttgart",
+    "goals": 1
+   },
+   {
+    "name": "Jamal Musiala",
+    "number": 10,
+    "position": "MF",
+    "club": "Bayern Munich",
+    "goals": 9
+   },
+   {
+    "name": "Nick Woltemade",
+    "number": 11,
+    "position": "FW",
+    "club": "Newcastle United",
+    "goals": 4
+   },
+   {
+    "name": "Oliver Baumann",
+    "number": 12,
+    "position": "GK",
+    "club": "TSG Hoffenheim",
+    "goals": 0
+   },
+   {
+    "name": "Pascal Groß",
+    "number": 13,
+    "position": "MF",
+    "club": "Brighton & Hove Albion",
+    "goals": 1
+   },
+   {
+    "name": "Maximilian Beier",
+    "number": 14,
+    "position": "FW",
+    "club": "Borussia Dortmund",
+    "goals": 0
+   },
+   {
+    "name": "Nico Schlotterbeck",
+    "number": 15,
+    "position": "DF",
+    "club": "Borussia Dortmund",
+    "goals": 0
+   },
+   {
+    "name": "Angelo Stiller",
+    "number": 16,
+    "position": "MF",
+    "club": "VfB Stuttgart",
+    "goals": 0
+   },
+   {
+    "name": "Florian Wirtz",
+    "number": 17,
+    "position": "MF",
+    "club": "Liverpool",
+    "goals": 11
+   },
+   {
+    "name": "Nathaniel Brown",
+    "number": 18,
+    "position": "DF",
+    "club": "Eintracht Frankfurt",
+    "goals": 0
+   },
+   {
+    "name": "Leroy Sané",
+    "number": 19,
+    "position": "MF",
+    "club": "Galatasaray",
+    "goals": 16
+   },
+   {
+    "name": "Nadiem Amiri",
+    "number": 20,
+    "position": "MF",
+    "club": "Mainz 05",
+    "goals": 1
+   },
+   {
+    "name": "Alexander Nübel",
+    "number": 21,
+    "position": "GK",
+    "club": "VfB Stuttgart",
+    "goals": 0
+   },
+   {
+    "name": "David Raum",
+    "number": 22,
+    "position": "DF",
+    "club": "RB Leipzig",
+    "goals": 1
+   },
+   {
+    "name": "Felix Nmecha",
+    "number": 23,
+    "position": "MF",
+    "club": "Borussia Dortmund",
+    "goals": 1
+   },
+   {
+    "name": "Malick Thiaw",
+    "number": 24,
+    "position": "DF",
+    "club": "Newcastle United",
+    "goals": 0
+   },
+   {
+    "name": "Lennart Karl",
+    "number": 25,
+    "position": "MF",
+    "club": "Bayern Munich",
+    "goals": 0
+   },
+   {
+    "name": "Deniz Undav",
+    "number": 26,
+    "position": "FW",
+    "club": "VfB Stuttgart",
+    "goals": 6
+   }
+  ],
+  "Ivory Coast": [
+   {
+    "name": "Yahia Fofana",
+    "number": 1,
+    "position": "GK",
+    "club": "Çaykur Rizespor",
+    "goals": 0
+   },
+   {
+    "name": "Ousmane Diomande",
+    "number": 2,
+    "position": "DF",
+    "club": "Sporting CP",
+    "goals": 1
+   },
+   {
+    "name": "Ghislain Konan",
+    "number": 3,
+    "position": "DF",
+    "club": "Gil Vicente",
+    "goals": 0
+   },
+   {
+    "name": "Jean Michaël Seri",
+    "number": 4,
+    "position": "MF",
+    "club": "Maribor",
+    "goals": 4
+   },
+   {
+    "name": "Wilfried Singo",
+    "number": 5,
+    "position": "DF",
+    "club": "Galatasaray",
+    "goals": 1
+   },
+   {
+    "name": "Seko Fofana",
+    "number": 6,
+    "position": "MF",
+    "club": "Porto",
+    "goals": 7
+   },
+   {
+    "name": "Odilon Kossounou",
+    "number": 7,
+    "position": "DF",
+    "club": "Atalanta",
+    "goals": 0
+   },
+   {
+    "name": "Franck Kessié",
+    "number": 8,
+    "position": "MF",
+    "club": "Al-Ahli",
+    "goals": 15
+   },
+   {
+    "name": "Ange-Yoan Bonny",
+    "number": 9,
+    "position": "FW",
+    "club": "Inter Milan",
+    "goals": 0
+   },
+   {
+    "name": "Simon Adingra",
+    "number": 10,
+    "position": "FW",
+    "club": "Monaco",
+    "goals": 5
+   },
+   {
+    "name": "Yan Diomande",
+    "number": 11,
+    "position": "FW",
+    "club": "RB Leipzig",
+    "goals": 3
+   },
+   {
+    "name": "Elye Wahi",
+    "number": 12,
+    "position": "FW",
+    "club": "Nice",
+    "goals": 0
+   },
+   {
+    "name": "Christopher Opéri",
+    "number": 13,
+    "position": "DF",
+    "club": "İstanbul Başakşehir",
+    "goals": 0
+   },
+   {
+    "name": "Oumar Diakité",
+    "number": 14,
+    "position": "FW",
+    "club": "Cercle Brugge",
+    "goals": 6
+   },
+   {
+    "name": "Amad Diallo",
+    "number": 15,
+    "position": "FW",
+    "club": "Manchester United",
+    "goals": 5
+   },
+   {
+    "name": "Mohamed Koné",
+    "number": 16,
+    "position": "GK",
+    "club": "Charleroi",
+    "goals": 0
+   },
+   {
+    "name": "Guéla Doué",
+    "number": 17,
+    "position": "DF",
+    "club": "Strasbourg",
+    "goals": 2
+   },
+   {
+    "name": "Ibrahim Sangaré",
+    "number": 18,
+    "position": "MF",
+    "club": "Nottingham Forest",
+    "goals": 12
+   },
+   {
+    "name": "Nicolas Pépé",
+    "number": 19,
+    "position": "FW",
+    "club": "Villarreal",
+    "goals": 12
+   },
+   {
+    "name": "Emmanuel Agbadou",
+    "number": 20,
+    "position": "DF",
+    "club": "Beşiktaş",
+    "goals": 2
+   },
+   {
+    "name": "Evan Ndicka",
+    "number": 21,
+    "position": "DF",
+    "club": "Roma",
+    "goals": 0
+   },
+   {
+    "name": "Evann Guessand",
+    "number": 22,
+    "position": "FW",
+    "club": "Crystal Palace",
+    "goals": 4
+   },
+   {
+    "name": "Alban Lafont",
+    "number": 23,
+    "position": "GK",
+    "club": "Panathinaikos",
+    "goals": 0
+   },
+   {
+    "name": "Bazoumana Touré",
+    "number": 24,
+    "position": "FW",
+    "club": "TSG Hoffenheim",
+    "goals": 2
+   },
+   {
+    "name": "Parfait Guiagon",
+    "number": 25,
+    "position": "MF",
+    "club": "Charleroi",
+    "goals": 0
+   },
+   {
+    "name": "Christ Inao Oulaï",
+    "number": 26,
+    "position": "MF",
+    "club": "Trabzonspor",
+    "goals": 0
+   }
+  ],
+  "Japan": [
+   {
+    "name": "Zion Suzuki",
+    "number": 1,
+    "position": "GK",
+    "club": "Parma",
+    "goals": 0
+   },
+   {
+    "name": "Yukinari Sugawara",
+    "number": 2,
+    "position": "DF",
+    "club": "Werder Bremen",
+    "goals": 2
+   },
+   {
+    "name": "Shōgo Taniguchi",
+    "number": 3,
+    "position": "DF",
+    "club": "Sint-Truiden",
+    "goals": 1
+   },
+   {
+    "name": "Kō Itakura",
+    "number": 4,
+    "position": "DF",
+    "club": "Ajax",
+    "goals": 2
+   },
+   {
+    "name": "Yūto Nagatomo",
+    "number": 5,
+    "position": "DF",
+    "club": "FC Tokyo",
+    "goals": 4
+   },
+   {
+    "name": "Wataru Endo",
+    "number": 6,
+    "position": "MF",
+    "club": "Liverpool",
+    "goals": 4
+   },
+   {
+    "name": "Ao Tanaka",
+    "number": 7,
+    "position": "MF",
+    "club": "Leeds United",
+    "goals": 8
+   },
+   {
+    "name": "Takefusa Kubo",
+    "number": 8,
+    "position": "MF",
+    "club": "Real Sociedad",
+    "goals": 7
+   },
+   {
+    "name": "Keisuke Gotō",
+    "number": 9,
+    "position": "FW",
+    "club": "Sint-Truiden",
+    "goals": 0
+   },
+   {
+    "name": "Ritsu Dōan",
+    "number": 10,
+    "position": "MF",
+    "club": "Eintracht Frankfurt",
+    "goals": 11
+   },
+   {
+    "name": "Daizen Maeda",
+    "number": 11,
+    "position": "MF",
+    "club": "Celtic",
+    "goals": 4
+   },
+   {
+    "name": "Keisuke Ōsako",
+    "number": 12,
+    "position": "GK",
+    "club": "Sanfrecce Hiroshima",
+    "goals": 0
+   },
+   {
+    "name": "Keito Nakamura",
+    "number": 13,
+    "position": "MF",
+    "club": "Reims",
+    "goals": 10
+   },
+   {
+    "name": "Junya Itō",
+    "number": 14,
+    "position": "MF",
+    "club": "Genk",
+    "goals": 15
+   },
+   {
+    "name": "Daichi Kamada",
+    "number": 15,
+    "position": "MF",
+    "club": "Crystal Palace",
+    "goals": 12
+   },
+   {
+    "name": "Tsuyoshi Watanabe",
+    "number": 16,
+    "position": "DF",
+    "club": "Feyenoord",
+    "goals": 0
+   },
+   {
+    "name": "Yuito Suzuki",
+    "number": 17,
+    "position": "MF",
+    "club": "SC Freiburg",
+    "goals": 0
+   },
+   {
+    "name": "Ayase Ueda",
+    "number": 18,
+    "position": "FW",
+    "club": "Feyenoord",
+    "goals": 16
+   },
+   {
+    "name": "Kōki Ogawa",
+    "number": 19,
+    "position": "FW",
+    "club": "NEC",
+    "goals": 11
+   },
+   {
+    "name": "Ayumu Seko",
+    "number": 20,
+    "position": "DF",
+    "club": "Le Havre",
+    "goals": 0
+   },
+   {
+    "name": "Hiroki Itō",
+    "number": 21,
+    "position": "DF",
+    "club": "Bayern Munich",
+    "goals": 1
+   },
+   {
+    "name": "Takehiro Tomiyasu",
+    "number": 22,
+    "position": "DF",
+    "club": "Ajax",
+    "goals": 1
+   },
+   {
+    "name": "Tomoki Hayakawa",
+    "number": 23,
+    "position": "GK",
+    "club": "Kashima Antlers",
+    "goals": 0
+   },
+   {
+    "name": "Kaishū Sano",
+    "number": 24,
+    "position": "MF",
+    "club": "Mainz 05",
+    "goals": 0
+   },
+   {
+    "name": "Junnosuke Suzuki",
+    "number": 25,
+    "position": "DF",
+    "club": "Copenhagen",
+    "goals": 0
+   },
+   {
+    "name": "Kento Shiogai",
+    "number": 26,
+    "position": "FW",
+    "club": "VfL Wolfsburg",
+    "goals": 0
+   }
+  ],
+  "Netherlands": [
+   {
+    "name": "Bart Verbruggen",
+    "number": 1,
+    "position": "GK",
+    "club": "Brighton & Hove Albion",
+    "goals": 0
+   },
+   {
+    "name": "Jurriën Timber",
+    "number": 2,
+    "position": "DF",
+    "club": "Arsenal",
+    "goals": 0
+   },
+   {
+    "name": "Marten de Roon",
+    "number": 3,
+    "position": "MF",
+    "club": "Atalanta",
+    "goals": 1
+   },
+   {
+    "name": "Virgil van Dijk",
+    "number": 4,
+    "position": "DF",
+    "club": "Liverpool",
+    "goals": 12
+   },
+   {
+    "name": "Nathan Aké",
+    "number": 5,
+    "position": "DF",
+    "club": "Manchester City",
+    "goals": 5
+   },
+   {
+    "name": "Jan Paul van Hecke",
+    "number": 6,
+    "position": "DF",
+    "club": "Brighton & Hove Albion",
+    "goals": 0
+   },
+   {
+    "name": "Justin Kluivert",
+    "number": 7,
+    "position": "MF",
+    "club": "Bournemouth",
+    "goals": 0
+   },
+   {
+    "name": "Ryan Gravenberch",
+    "number": 8,
+    "position": "MF",
+    "club": "Liverpool",
+    "goals": 1
+   },
+   {
+    "name": "Wout Weghorst",
+    "number": 9,
+    "position": "FW",
+    "club": "Ajax",
+    "goals": 14
+   },
+   {
+    "name": "Memphis Depay",
+    "number": 10,
+    "position": "FW",
+    "club": "Corinthians",
+    "goals": 55
+   },
+   {
+    "name": "Cody Gakpo",
+    "number": 11,
+    "position": "FW",
+    "club": "Liverpool",
+    "goals": 19
+   },
+   {
+    "name": "Mats Wieffer",
+    "number": 12,
+    "position": "DF",
+    "club": "Brighton & Hove Albion",
+    "goals": 1
+   },
+   {
+    "name": "Robin Roefs",
+    "number": 13,
+    "position": "GK",
+    "club": "Sunderland",
+    "goals": 0
+   },
+   {
+    "name": "Tijjani Reijnders",
+    "number": 14,
+    "position": "MF",
+    "club": "Manchester City",
+    "goals": 7
+   },
+   {
+    "name": "Micky van de Ven",
+    "number": 15,
+    "position": "DF",
+    "club": "Tottenham Hotspur",
+    "goals": 1
+   },
+   {
+    "name": "Guus Til",
+    "number": 16,
+    "position": "MF",
+    "club": "PSV Eindhoven",
+    "goals": 1
+   },
+   {
+    "name": "Noa Lang",
+    "number": 17,
+    "position": "FW",
+    "club": "Galatasaray",
+    "goals": 3
+   },
+   {
+    "name": "Donyell Malen",
+    "number": 18,
+    "position": "FW",
+    "club": "Roma",
+    "goals": 13
+   },
+   {
+    "name": "Brian Brobbey",
+    "number": 19,
+    "position": "FW",
+    "club": "Sunderland",
+    "goals": 1
+   },
+   {
+    "name": "Teun Koopmeiners",
+    "number": 20,
+    "position": "MF",
+    "club": "Juventus",
+    "goals": 3
+   },
+   {
+    "name": "Frenkie de Jong",
+    "number": 21,
+    "position": "MF",
+    "club": "Barcelona",
+    "goals": 2
+   },
+   {
+    "name": "Denzel Dumfries",
+    "number": 22,
+    "position": "DF",
+    "club": "Inter Milan",
+    "goals": 11
+   },
+   {
+    "name": "Mark Flekken",
+    "number": 23,
+    "position": "GK",
+    "club": "Bayer Leverkusen",
+    "goals": 0
+   },
+   {
+    "name": "Crysencio Summerville",
+    "number": 24,
+    "position": "FW",
+    "club": "West Ham United",
+    "goals": 0
+   },
+   {
+    "name": "Jorrel Hato",
+    "number": 25,
+    "position": "DF",
+    "club": "Chelsea",
+    "goals": 0
+   },
+   {
+    "name": "Quinten Timber",
+    "number": 26,
+    "position": "MF",
+    "club": "Marseille",
+    "goals": 1
+   }
+  ],
+  "Sweden": [
+   {
+    "name": "Jacob Widell Zetterström",
+    "number": 1,
+    "position": "GK",
+    "club": "Derby County",
+    "goals": 0
+   },
+   {
+    "name": "Gustaf Lagerbielke",
+    "number": 2,
+    "position": "DF",
+    "club": "Braga",
+    "goals": 2
+   },
+   {
+    "name": "Victor Lindelöf",
+    "number": 3,
+    "position": "DF",
+    "club": "Aston Villa",
+    "goals": 3
+   },
+   {
+    "name": "Isak Hien",
+    "number": 4,
+    "position": "DF",
+    "club": "Atalanta",
+    "goals": 0
+   },
+   {
+    "name": "Gabriel Gudmundsson",
+    "number": 5,
+    "position": "DF",
+    "club": "Leeds United",
+    "goals": 0
+   },
+   {
+    "name": "Herman Johansson",
+    "number": 6,
+    "position": "DF",
+    "club": "FC Dallas",
+    "goals": 0
+   },
+   {
+    "name": "Lucas Bergvall",
+    "number": 7,
+    "position": "MF",
+    "club": "Tottenham Hotspur",
+    "goals": 0
+   },
+   {
+    "name": "Daniel Svensson",
+    "number": 8,
+    "position": "DF",
+    "club": "Borussia Dortmund",
+    "goals": 0
+   },
+   {
+    "name": "Alexander Isak",
+    "number": 9,
+    "position": "FW",
+    "club": "Liverpool",
+    "goals": 17
+   },
+   {
+    "name": "Benjamin Nygren",
+    "number": 10,
+    "position": "MF",
+    "club": "Celtic",
+    "goals": 3
+   },
+   {
+    "name": "Anthony Elanga",
+    "number": 11,
+    "position": "FW",
+    "club": "Newcastle United",
+    "goals": 6
+   },
+   {
+    "name": "Viktor Johansson",
+    "number": 12,
+    "position": "GK",
+    "club": "Stoke City",
+    "goals": 0
+   },
+   {
+    "name": "Ken Sema",
+    "number": 13,
+    "position": "MF",
+    "club": "Pafos",
+    "goals": 5
+   },
+   {
+    "name": "Hjalmar Ekdal",
+    "number": 14,
+    "position": "DF",
+    "club": "Burnley",
+    "goals": 0
+   },
+   {
+    "name": "Carl Starfelt",
+    "number": 15,
+    "position": "DF",
+    "club": "Celta Vigo",
+    "goals": 0
+   },
+   {
+    "name": "Jesper Karlström",
+    "number": 16,
+    "position": "MF",
+    "club": "Udinese",
+    "goals": 0
+   },
+   {
+    "name": "Viktor Gyökeres",
+    "number": 17,
+    "position": "FW",
+    "club": "Arsenal",
+    "goals": 19
+   },
+   {
+    "name": "Yasin Ayari",
+    "number": 18,
+    "position": "MF",
+    "club": "Brighton & Hove Albion",
+    "goals": 3
+   },
+   {
+    "name": "Mattias Svanberg",
+    "number": 19,
+    "position": "MF",
+    "club": "VfL Wolfsburg",
+    "goals": 2
+   },
+   {
+    "name": "Eric Smith",
+    "number": 20,
+    "position": "DF",
+    "club": "FC St. Pauli",
+    "goals": 0
+   },
+   {
+    "name": "Alexander Bernhardsson",
+    "number": 21,
+    "position": "DF",
+    "club": "Holstein Kiel",
+    "goals": 0
+   },
+   {
+    "name": "Besfort Zeneli",
+    "number": 22,
+    "position": "MF",
+    "club": "Union Saint-Gilloise",
+    "goals": 0
+   },
+   {
+    "name": "Kristoffer Nordfeldt",
+    "number": 23,
+    "position": "GK",
+    "club": "AIK",
+    "goals": 0
+   },
+   {
+    "name": "Elliot Stroud",
+    "number": 24,
+    "position": "DF",
+    "club": "Mjällby AIF",
+    "goals": 0
+   },
+   {
+    "name": "Gustaf Nilsson",
+    "number": 25,
+    "position": "FW",
+    "club": "Club Brugge",
+    "goals": 3
+   },
+   {
+    "name": "Taha Ali",
+    "number": 26,
+    "position": "FW",
+    "club": "Malmö FF",
+    "goals": 0
+   }
+  ],
+  "Tunisia": [
+   {
+    "name": "Mouhib Chamakh",
+    "number": 1,
+    "position": "GK",
+    "club": "Club Africain",
+    "goals": 0
+   },
+   {
+    "name": "Ali Abdi",
+    "number": 2,
+    "position": "DF",
+    "club": "Nice",
+    "goals": 7
+   },
+   {
+    "name": "Montassar Talbi",
+    "number": 3,
+    "position": "DF",
+    "club": "Lorient",
+    "goals": 4
+   },
+   {
+    "name": "Omar Rekik",
+    "number": 4,
+    "position": "DF",
+    "club": "Maribor",
+    "goals": 0
+   },
+   {
+    "name": "Adem Arous",
+    "number": 5,
+    "position": "DF",
+    "club": "Kasımpaşa",
+    "goals": 0
+   },
+   {
+    "name": "Dylan Bronn",
+    "number": 6,
+    "position": "DF",
+    "club": "Servette",
+    "goals": 2
+   },
+   {
+    "name": "Elias Achouri",
+    "number": 7,
+    "position": "FW",
+    "club": "Copenhagen",
+    "goals": 4
+   },
+   {
+    "name": "Elias Saad",
+    "number": 8,
+    "position": "FW",
+    "club": "Hannover 96",
+    "goals": 4
+   },
+   {
+    "name": "Hazem Mastouri",
+    "number": 9,
+    "position": "FW",
+    "club": "Dynamo Makhachkala",
+    "goals": 4
+   },
+   {
+    "name": "Hannibal Mejbri",
+    "number": 10,
+    "position": "MF",
+    "club": "Burnley",
+    "goals": 1
+   },
+   {
+    "name": "Ismaël Gharbi",
+    "number": 11,
+    "position": "MF",
+    "club": "FC Augsburg",
+    "goals": 2
+   },
+   {
+    "name": "Mortadha Ben Ouanes",
+    "number": 12,
+    "position": "DF",
+    "club": "Kasımpaşa",
+    "goals": 0
+   },
+   {
+    "name": "Rani Khedira",
+    "number": 13,
+    "position": "MF",
+    "club": "Union Berlin",
+    "goals": 0
+   },
+   {
+    "name": "Khalil Ayari",
+    "number": 14,
+    "position": "MF",
+    "club": "Paris Saint-Germain",
+    "goals": 0
+   },
+   {
+    "name": "Hadj Mahmoud",
+    "number": 15,
+    "position": "MF",
+    "club": "Lugano",
+    "goals": 0
+   },
+   {
+    "name": "Aymen Dahmen",
+    "number": 16,
+    "position": "GK",
+    "club": "CS Sfaxien",
+    "goals": 0
+   },
+   {
+    "name": "Ellyes Skhiri",
+    "number": 17,
+    "position": "MF",
+    "club": "Eintracht Frankfurt",
+    "goals": 4
+   },
+   {
+    "name": "Rayan Elloumi",
+    "number": 18,
+    "position": "FW",
+    "club": "Vancouver Whitecaps FC",
+    "goals": 0
+   },
+   {
+    "name": "Firas Chaouat",
+    "number": 19,
+    "position": "FW",
+    "club": "Club Africain",
+    "goals": 6
+   },
+   {
+    "name": "Yan Valery",
+    "number": 20,
+    "position": "DF",
+    "club": "Young Boys",
+    "goals": 0
+   },
+   {
+    "name": "Mohamed Amine Ben Hamida",
+    "number": 21,
+    "position": "DF",
+    "club": "Espérance de Tunis",
+    "goals": 0
+   },
+   {
+    "name": "Sabri Ben Hessen",
+    "number": 22,
+    "position": "GK",
+    "club": "Étoile du Sahel",
+    "goals": 0
+   },
+   {
+    "name": "Moutaz Neffati",
+    "number": 23,
+    "position": "DF",
+    "club": "IFK Norrköping",
+    "goals": 0
+   },
+   {
+    "name": "Raed Chikhaoui",
+    "number": 24,
+    "position": "DF",
+    "club": "US Monastir",
+    "goals": 0
+   },
+   {
+    "name": "Anis Ben Slimane",
+    "number": 25,
+    "position": "MF",
+    "club": "Norwich City",
+    "goals": 4
+   },
+   {
+    "name": "Sebastian Tounekti",
+    "number": 26,
+    "position": "MF",
+    "club": "Celtic",
+    "goals": 1
+   }
+  ],
+  "Belgium": [
+   {
+    "name": "Thibaut Courtois",
+    "number": 1,
+    "position": "GK",
+    "club": "Real Madrid",
+    "goals": 0
+   },
+   {
+    "name": "Zeno Debast",
+    "number": 2,
+    "position": "DF",
+    "club": "Sporting CP",
+    "goals": 1
+   },
+   {
+    "name": "Arthur Theate",
+    "number": 3,
+    "position": "DF",
+    "club": "Eintracht Frankfurt",
+    "goals": 1
+   },
+   {
+    "name": "Brandon Mechele",
+    "number": 4,
+    "position": "DF",
+    "club": "Club Brugge",
+    "goals": 1
+   },
+   {
+    "name": "Maxim De Cuyper",
+    "number": 5,
+    "position": "DF",
+    "club": "Brighton & Hove Albion",
+    "goals": 4
+   },
+   {
+    "name": "Axel Witsel",
+    "number": 6,
+    "position": "MF",
+    "club": "Girona",
+    "goals": 12
+   },
+   {
+    "name": "Kevin De Bruyne",
+    "number": 7,
+    "position": "MF",
+    "club": "Napoli",
+    "goals": 36
+   },
+   {
+    "name": "Youri Tielemans",
+    "number": 8,
+    "position": "MF",
+    "club": "Aston Villa",
+    "goals": 13
+   },
+   {
+    "name": "Romelu Lukaku",
+    "number": 9,
+    "position": "FW",
+    "club": "Napoli",
+    "goals": 90
+   },
+   {
+    "name": "Leandro Trossard",
+    "number": 10,
+    "position": "FW",
+    "club": "Arsenal",
+    "goals": 11
+   },
+   {
+    "name": "Jérémy Doku",
+    "number": 11,
+    "position": "FW",
+    "club": "Manchester City",
+    "goals": 7
+   },
+   {
+    "name": "Senne Lammens",
+    "number": 12,
+    "position": "GK",
+    "club": "Manchester United",
+    "goals": 0
+   },
+   {
+    "name": "Mike Penders",
+    "number": 13,
+    "position": "GK",
+    "club": "Strasbourg",
+    "goals": 0
+   },
+   {
+    "name": "Dodi Lukébakio",
+    "number": 14,
+    "position": "FW",
+    "club": "Benfica",
+    "goals": 5
+   },
+   {
+    "name": "Thomas Meunier",
+    "number": 15,
+    "position": "DF",
+    "club": "Lille",
+    "goals": 10
+   },
+   {
+    "name": "Koni De Winter",
+    "number": 16,
+    "position": "DF",
+    "club": "Milan",
+    "goals": 0
+   },
+   {
+    "name": "Charles De Ketelaere",
+    "number": 17,
+    "position": "FW",
+    "club": "Atalanta",
+    "goals": 5
+   },
+   {
+    "name": "Joaquin Seys",
+    "number": 18,
+    "position": "DF",
+    "club": "Club Brugge",
+    "goals": 0
+   },
+   {
+    "name": "Diego Moreira",
+    "number": 19,
+    "position": "MF",
+    "club": "Strasbourg",
+    "goals": 0
+   },
+   {
+    "name": "Hans Vanaken",
+    "number": 20,
+    "position": "MF",
+    "club": "Club Brugge",
+    "goals": 7
+   },
+   {
+    "name": "Timothy Castagne",
+    "number": 21,
+    "position": "DF",
+    "club": "Fulham",
+    "goals": 2
+   },
+   {
+    "name": "Alexis Saelemaekers",
+    "number": 22,
+    "position": "MF",
+    "club": "Milan",
+    "goals": 2
+   },
+   {
+    "name": "Nicolas Raskin",
+    "number": 23,
+    "position": "MF",
+    "club": "Rangers",
+    "goals": 1
+   },
+   {
+    "name": "Amadou Onana",
+    "number": 24,
+    "position": "MF",
+    "club": "Aston Villa",
+    "goals": 1
+   },
+   {
+    "name": "Nathan Ngoy",
+    "number": 25,
+    "position": "DF",
+    "club": "Lille",
+    "goals": 0
+   },
+   {
+    "name": "Matias Fernandez-Pardo",
+    "number": 26,
+    "position": "FW",
+    "club": "Lille",
+    "goals": 0
+   }
+  ],
+  "Egypt": [
+   {
+    "name": "Mohamed El Shenawy",
+    "number": 1,
+    "position": "GK",
+    "club": "Al Ahly",
+    "goals": 0
+   },
+   {
+    "name": "Yasser Ibrahim",
+    "number": 2,
+    "position": "DF",
+    "club": "Al Ahly",
+    "goals": 1
+   },
+   {
+    "name": "Mohamed Hany",
+    "number": 3,
+    "position": "DF",
+    "club": "Al Ahly",
+    "goals": 0
+   },
+   {
+    "name": "Hossam Abdelmaguid",
+    "number": 4,
+    "position": "DF",
+    "club": "Zamalek",
+    "goals": 0
+   },
+   {
+    "name": "Ramy Rabia",
+    "number": 5,
+    "position": "DF",
+    "club": "Al-Ain",
+    "goals": 5
+   },
+   {
+    "name": "Mohamed Abdelmonem",
+    "number": 6,
+    "position": "DF",
+    "club": "Nice",
+    "goals": 3
+   },
+   {
+    "name": "Trézéguet",
+    "number": 7,
+    "position": "FW",
+    "club": "Al Ahly",
+    "goals": 23
+   },
+   {
+    "name": "Emam Ashour",
+    "number": 8,
+    "position": "MF",
+    "club": "Al Ahly",
+    "goals": 0
+   },
+   {
+    "name": "Hamza Abdelkarim",
+    "number": 9,
+    "position": "FW",
+    "club": "Barcelona",
+    "goals": 0
+   },
+   {
+    "name": "Mohamed Salah",
+    "number": 10,
+    "position": "FW",
+    "club": "Liverpool",
+    "goals": 67
+   },
+   {
+    "name": "Mostafa Ziko",
+    "number": 11,
+    "position": "MF",
+    "club": "Pyramids",
+    "goals": 1
+   },
+   {
+    "name": "Haissem Hassan",
+    "number": 12,
+    "position": "FW",
+    "club": "Oviedo",
+    "goals": 0
+   },
+   {
+    "name": "Ahmed Fatouh",
+    "number": 13,
+    "position": "DF",
+    "club": "Zamalek",
+    "goals": 1
+   },
+   {
+    "name": "Hamdy Fathy",
+    "number": 14,
+    "position": "MF",
+    "club": "Al-Wakrah",
+    "goals": 3
+   },
+   {
+    "name": "Karim Hafez",
+    "number": 15,
+    "position": "DF",
+    "club": "Pyramids",
+    "goals": 0
+   },
+   {
+    "name": "El Mahdy Soliman",
+    "number": 16,
+    "position": "GK",
+    "club": "Zamalek",
+    "goals": 0
+   },
+   {
+    "name": "Mohanad Lasheen",
+    "number": 17,
+    "position": "MF",
+    "club": "Pyramids",
+    "goals": 0
+   },
+   {
+    "name": "Nabil Emad",
+    "number": 18,
+    "position": "MF",
+    "club": "Al-Najma",
+    "goals": 0
+   },
+   {
+    "name": "Marwan Attia",
+    "number": 19,
+    "position": "MF",
+    "club": "Al Ahly",
+    "goals": 1
+   },
+   {
+    "name": "Ibrahim Adel",
+    "number": 20,
+    "position": "FW",
+    "club": "Nordsjælland",
+    "goals": 3
+   },
+   {
+    "name": "Mahmoud Saber",
+    "number": 21,
+    "position": "MF",
+    "club": "ZED",
+    "goals": 1
+   },
+   {
+    "name": "Omar Marmoush",
+    "number": 22,
+    "position": "FW",
+    "club": "Manchester City",
+    "goals": 11
+   },
+   {
+    "name": "Mostafa Shobeir",
+    "number": 23,
+    "position": "GK",
+    "club": "Al Ahly",
+    "goals": 0
+   },
+   {
+    "name": "Tarek Alaa",
+    "number": 24,
+    "position": "DF",
+    "club": "ZED",
+    "goals": 0
+   },
+   {
+    "name": "Zizo",
+    "number": 25,
+    "position": "FW",
+    "club": "Al Ahly",
+    "goals": 5
+   },
+   {
+    "name": "Mohamed Alaa",
+    "number": 26,
+    "position": "GK",
+    "club": "El Gouna",
+    "goals": 0
+   }
+  ],
+  "Iran": [
+   {
+    "name": "Alireza Beiranvand",
+    "number": 1,
+    "position": "GK",
+    "club": "Tractor",
+    "goals": 0
+   },
+   {
+    "name": "Saleh Hardani",
+    "number": 2,
+    "position": "DF",
+    "club": "Esteghlal",
+    "goals": 1
+   },
+   {
+    "name": "Ehsan Hajsafi",
+    "number": 3,
+    "position": "DF",
+    "club": "Sepahan",
+    "goals": 7
+   },
+   {
+    "name": "Shojae Khalilzadeh",
+    "number": 4,
+    "position": "DF",
+    "club": "Tractor",
+    "goals": 2
+   },
+   {
+    "name": "Milad Mohammadi",
+    "number": 5,
+    "position": "DF",
+    "club": "Persepolis",
+    "goals": 1
+   },
+   {
+    "name": "Saeid Ezatolahi",
+    "number": 6,
+    "position": "MF",
+    "club": "Shabab Al-Ahli",
+    "goals": 1
+   },
+   {
+    "name": "Alireza Jahanbakhsh",
+    "number": 7,
+    "position": "MF",
+    "club": "Dender",
+    "goals": 17
+   },
+   {
+    "name": "Mohammad Mohebi",
+    "number": 8,
+    "position": "MF",
+    "club": "Rostov",
+    "goals": 14
+   },
+   {
+    "name": "Mehdi Taremi",
+    "number": 9,
+    "position": "FW",
+    "club": "Olympiacos",
+    "goals": 60
+   },
+   {
+    "name": "Mehdi Ghayedi",
+    "number": 10,
+    "position": "FW",
+    "club": "Al-Nasr",
+    "goals": 10
+   },
+   {
+    "name": "Ali Alipour",
+    "number": 11,
+    "position": "FW",
+    "club": "Persepolis",
+    "goals": 1
+   },
+   {
+    "name": "Payam Niazmand",
+    "number": 12,
+    "position": "GK",
+    "club": "Persepolis",
+    "goals": 0
+   },
+   {
+    "name": "Hossein Kanaanizadegan",
+    "number": 13,
+    "position": "DF",
+    "club": "Persepolis",
+    "goals": 6
+   },
+   {
+    "name": "Saman Ghoddos",
+    "number": 14,
+    "position": "MF",
+    "club": "Kalba",
+    "goals": 3
+   },
+   {
+    "name": "Rouzbeh Cheshmi",
+    "number": 15,
+    "position": "MF",
+    "club": "Esteghlal",
+    "goals": 3
+   },
+   {
+    "name": "Mehdi Torabi",
+    "number": 16,
+    "position": "MF",
+    "club": "Tractor",
+    "goals": 7
+   },
+   {
+    "name": "Aria Yousefi",
+    "number": 17,
+    "position": "DF",
+    "club": "Sepahan",
+    "goals": 1
+   },
+   {
+    "name": "Amirhossein Hosseinzadeh",
+    "number": 18,
+    "position": "FW",
+    "club": "Tractor",
+    "goals": 5
+   },
+   {
+    "name": "Ali Nemati",
+    "number": 19,
+    "position": "DF",
+    "club": "Foolad",
+    "goals": 0
+   },
+   {
+    "name": "Shahriyar Moghanlou",
+    "number": 20,
+    "position": "FW",
+    "club": "Kalba",
+    "goals": 2
+   },
+   {
+    "name": "Mohammad Ghorbani",
+    "number": 21,
+    "position": "MF",
+    "club": "Al-Wahda",
+    "goals": 0
+   },
+   {
+    "name": "Hossein Hosseini",
+    "number": 22,
+    "position": "GK",
+    "club": "Sepahan",
+    "goals": 0
+   },
+   {
+    "name": "Ramin Rezaeian",
+    "number": 23,
+    "position": "DF",
+    "club": "Foolad",
+    "goals": 7
+   },
+   {
+    "name": "Dennis Eckert",
+    "number": 24,
+    "position": "FW",
+    "club": "Standard Liège",
+    "goals": 0
+   },
+   {
+    "name": "Danial Eiri",
+    "number": 25,
+    "position": "DF",
+    "club": "Malavan",
+    "goals": 0
+   },
+   {
+    "name": "Amirmohammad Razzaghinia",
+    "number": 26,
+    "position": "MF",
+    "club": "Esteghlal",
+    "goals": 0
+   }
+  ],
+  "New Zealand": [
+   {
+    "name": "Max Crocombe",
+    "number": 1,
+    "position": "GK",
+    "club": "Millwall",
+    "goals": 0
+   },
+   {
+    "name": "Tim Payne",
+    "number": 2,
+    "position": "DF",
+    "club": "Wellington Phoenix",
+    "goals": 3
+   },
+   {
+    "name": "Francis de Vries",
+    "number": 3,
+    "position": "DF",
+    "club": "Auckland FC",
+    "goals": 1
+   },
+   {
+    "name": "Tyler Bindon",
+    "number": 4,
+    "position": "DF",
+    "club": "Sheffield United",
+    "goals": 3
+   },
+   {
+    "name": "Michael Boxall",
+    "number": 5,
+    "position": "DF",
+    "club": "Minnesota United FC",
+    "goals": 1
+   },
+   {
+    "name": "Joe Bell",
+    "number": 6,
+    "position": "MF",
+    "club": "Viking",
+    "goals": 1
+   },
+   {
+    "name": "Matthew Garbett",
+    "number": 7,
+    "position": "MF",
+    "club": "Peterborough United",
+    "goals": 5
+   },
+   {
+    "name": "Marko Stamenić",
+    "number": 8,
+    "position": "MF",
+    "club": "Swansea City",
+    "goals": 3
+   },
+   {
+    "name": "Chris Wood",
+    "number": 9,
+    "position": "FW",
+    "club": "Nottingham Forest",
+    "goals": 45
+   },
+   {
+    "name": "Sarpreet Singh",
+    "number": 10,
+    "position": "MF",
+    "club": "Wellington Phoenix",
+    "goals": 3
+   },
+   {
+    "name": "Elijah Just",
+    "number": 11,
+    "position": "MF",
+    "club": "Motherwell",
+    "goals": 9
+   },
+   {
+    "name": "Alex Paulsen",
+    "number": 12,
+    "position": "GK",
+    "club": "Lechia Gdańsk",
+    "goals": 0
+   },
+   {
+    "name": "Liberato Cacace",
+    "number": 13,
+    "position": "DF",
+    "club": "Wrexham",
+    "goals": 1
+   },
+   {
+    "name": "Alex Rufer",
+    "number": 14,
+    "position": "MF",
+    "club": "Wellington Phoenix",
+    "goals": 0
+   },
+   {
+    "name": "Nando Pijnaker",
+    "number": 15,
+    "position": "DF",
+    "club": "Auckland FC",
+    "goals": 0
+   },
+   {
+    "name": "Finn Surman",
+    "number": 16,
+    "position": "DF",
+    "club": "Portland Timbers",
+    "goals": 2
+   },
+   {
+    "name": "Kosta Barbarouses",
+    "number": 17,
+    "position": "FW",
+    "club": "Western Sydney Wanderers",
+    "goals": 10
+   },
+   {
+    "name": "Ben Waine",
+    "number": 18,
+    "position": "FW",
+    "club": "Port Vale",
+    "goals": 9
+   },
+   {
+    "name": "Ben Old",
+    "number": 19,
+    "position": "MF",
+    "club": "Saint-Étienne",
+    "goals": 2
+   },
+   {
+    "name": "Callum McCowatt",
+    "number": 20,
+    "position": "MF",
+    "club": "Silkeborg",
+    "goals": 4
+   },
+   {
+    "name": "Jesse Randall",
+    "number": 21,
+    "position": "FW",
+    "club": "Auckland FC",
+    "goals": 2
+   },
+   {
+    "name": "Michael Woud",
+    "number": 22,
+    "position": "GK",
+    "club": "Auckland FC",
+    "goals": 0
+   },
+   {
+    "name": "Ryan Thomas",
+    "number": 23,
+    "position": "MF",
+    "club": "PEC Zwolle",
+    "goals": 3
+   },
+   {
+    "name": "Callan Elliot",
+    "number": 24,
+    "position": "DF",
+    "club": "Auckland FC",
+    "goals": 0
+   },
+   {
+    "name": "Lachlan Bayliss",
+    "number": 25,
+    "position": "MF",
+    "club": "Newcastle Jets",
+    "goals": 0
+   },
+   {
+    "name": "Tommy Smith",
+    "number": 26,
+    "position": "DF",
+    "club": "Braintree Town",
+    "goals": 2
+   }
+  ],
+  "Cape Verde": [
+   {
+    "name": "Vozinha",
+    "number": 1,
+    "position": "GK",
+    "club": "Chaves",
+    "goals": 0
+   },
+   {
+    "name": "Stopira",
+    "number": 2,
+    "position": "DF",
+    "club": "Torreense",
+    "goals": 4
+   },
+   {
+    "name": "Diney",
+    "number": 3,
+    "position": "DF",
+    "club": "Al-Bataeh",
+    "goals": 2
+   },
+   {
+    "name": "Roberto Lopes",
+    "number": 4,
+    "position": "DF",
+    "club": "Shamrock Rovers",
+    "goals": 0
+   },
+   {
+    "name": "Logan Costa",
+    "number": 5,
+    "position": "DF",
+    "club": "Villarreal",
+    "goals": 0
+   },
+   {
+    "name": "Kevin Pina",
+    "number": 6,
+    "position": "MF",
+    "club": "Krasnodar",
+    "goals": 3
+   },
+   {
+    "name": "Jovane Cabral",
+    "number": 7,
+    "position": "MF",
+    "club": "Estrela Amadora",
+    "goals": 2
+   },
+   {
+    "name": "João Paulo",
+    "number": 8,
+    "position": "MF",
+    "club": "FCSB",
+    "goals": 1
+   },
+   {
+    "name": "Gilson Benchimol",
+    "number": 9,
+    "position": "FW",
+    "club": "Akron Tolyatti",
+    "goals": 6
+   },
+   {
+    "name": "Jamiro Monteiro",
+    "number": 10,
+    "position": "MF",
+    "club": "PEC Zwolle",
+    "goals": 5
+   },
+   {
+    "name": "Garry Rodrigues",
+    "number": 11,
+    "position": "MF",
+    "club": "Apollon Limassol",
+    "goals": 9
+   },
+   {
+    "name": "Márcio Rosa",
+    "number": 12,
+    "position": "GK",
+    "club": "Montana",
+    "goals": 0
+   },
+   {
+    "name": "Sidny Lopes Cabral",
+    "number": 13,
+    "position": "DF",
+    "club": "Benfica",
+    "goals": 3
+   },
+   {
+    "name": "Deroy Duarte",
+    "number": 14,
+    "position": "MF",
+    "club": "Ludogorets Razgrad",
+    "goals": 0
+   },
+   {
+    "name": "Laros Duarte",
+    "number": 15,
+    "position": "MF",
+    "club": "Puskás Akadémia",
+    "goals": 1
+   },
+   {
+    "name": "Yannick Semedo",
+    "number": 16,
+    "position": "MF",
+    "club": "Farense",
+    "goals": 1
+   },
+   {
+    "name": "Willy Semedo",
+    "number": 17,
+    "position": "MF",
+    "club": "Omonia",
+    "goals": 2
+   },
+   {
+    "name": "Telmo Arcanjo",
+    "number": 18,
+    "position": "MF",
+    "club": "Vitória de Guimarães",
+    "goals": 1
+   },
+   {
+    "name": "Dailon Livramento",
+    "number": 19,
+    "position": "FW",
+    "club": "Casa Pia",
+    "goals": 7
+   },
+   {
+    "name": "Ryan Mendes",
+    "number": 20,
+    "position": "FW",
+    "club": "Iğdır",
+    "goals": 22
+   },
+   {
+    "name": "Nuno da Costa",
+    "number": 21,
+    "position": "MF",
+    "club": "İstanbul Başakşehir",
+    "goals": 1
+   },
+   {
+    "name": "Steven Moreira",
+    "number": 22,
+    "position": "DF",
+    "club": "Columbus Crew",
+    "goals": 0
+   },
+   {
+    "name": "CJ dos Santos",
+    "number": 23,
+    "position": "GK",
+    "club": "San Diego FC",
+    "goals": 0
+   },
+   {
+    "name": "Wagner Pina",
+    "number": 24,
+    "position": "DF",
+    "club": "Trabzonspor",
+    "goals": 0
+   },
+   {
+    "name": "Kelvin Pires",
+    "number": 25,
+    "position": "DF",
+    "club": "SJK",
+    "goals": 1
+   },
+   {
+    "name": "Hélio Varela",
+    "number": 26,
+    "position": "MF",
+    "club": "Maccabi Tel Aviv",
+    "goals": 0
+   }
+  ],
+  "Saudi Arabia": [
+   {
+    "name": "Nawaf Al-Aqidi",
+    "number": 1,
+    "position": "GK",
+    "club": "Al-Nassr",
+    "goals": 0
+   },
+   {
+    "name": "Ali Majrashi",
+    "number": 2,
+    "position": "DF",
+    "club": "Al-Ahli",
+    "goals": 0
+   },
+   {
+    "name": "Ali Lajami",
+    "number": 3,
+    "position": "DF",
+    "club": "Al-Hilal",
+    "goals": 1
+   },
+   {
+    "name": "Abdulelah Al-Amri",
+    "number": 4,
+    "position": "DF",
+    "club": "Al-Nassr",
+    "goals": 1
+   },
+   {
+    "name": "Hassan Al-Tambakti",
+    "number": 5,
+    "position": "DF",
+    "club": "Al-Hilal",
+    "goals": 0
+   },
+   {
+    "name": "Nasser Al-Dawsari",
+    "number": 6,
+    "position": "MF",
+    "club": "Al-Hilal",
+    "goals": 0
+   },
+   {
+    "name": "Musab Al-Juwayr",
+    "number": 7,
+    "position": "MF",
+    "club": "Al-Qadsiah",
+    "goals": 6
+   },
+   {
+    "name": "Ayman Yahya",
+    "number": 8,
+    "position": "FW",
+    "club": "Al-Nassr",
+    "goals": 0
+   },
+   {
+    "name": "Firas Al-Buraikan",
+    "number": 9,
+    "position": "FW",
+    "club": "Al-Ahli",
+    "goals": 15
+   },
+   {
+    "name": "Salem Al-Dawsari",
+    "number": 10,
+    "position": "FW",
+    "club": "Al-Hilal",
+    "goals": 26
+   },
+   {
+    "name": "Saleh Al-Shehri",
+    "number": 11,
+    "position": "FW",
+    "club": "Al-Ittihad",
+    "goals": 18
+   },
+   {
+    "name": "Saud Abdulhamid",
+    "number": 12,
+    "position": "DF",
+    "club": "Lens",
+    "goals": 1
+   },
+   {
+    "name": "Nawaf Boushal",
+    "number": 13,
+    "position": "DF",
+    "club": "Al-Nassr",
+    "goals": 0
+   },
+   {
+    "name": "Hassan Kadesh",
+    "number": 14,
+    "position": "DF",
+    "club": "Al-Ittihad",
+    "goals": 2
+   },
+   {
+    "name": "Abdullah Al-Khaibari",
+    "number": 15,
+    "position": "MF",
+    "club": "Al-Nassr",
+    "goals": 0
+   },
+   {
+    "name": "Ziyad Al-Johani",
+    "number": 16,
+    "position": "MF",
+    "club": "Al-Ahli",
+    "goals": 0
+   },
+   {
+    "name": "Khalid Al-Ghannam",
+    "number": 17,
+    "position": "FW",
+    "club": "Al-Ettifaq",
+    "goals": 0
+   },
+   {
+    "name": "Alaa Al-Hejji",
+    "number": 18,
+    "position": "MF",
+    "club": "Neom",
+    "goals": 0
+   },
+   {
+    "name": "Abdullah Al-Hamdan",
+    "number": 19,
+    "position": "FW",
+    "club": "Al-Nassr",
+    "goals": 11
+   },
+   {
+    "name": "Sultan Mandash",
+    "number": 20,
+    "position": "FW",
+    "club": "Al-Hilal",
+    "goals": 1
+   },
+   {
+    "name": "Mohammed Al-Owais",
+    "number": 21,
+    "position": "GK",
+    "club": "Al-Ula",
+    "goals": 0
+   },
+   {
+    "name": "Ahmed Al-Kassar",
+    "number": 22,
+    "position": "GK",
+    "club": "Al-Qadsiah",
+    "goals": 0
+   },
+   {
+    "name": "Mohamed Kanno",
+    "number": 23,
+    "position": "MF",
+    "club": "Al-Hilal",
+    "goals": 8
+   },
+   {
+    "name": "Moteb Al-Harbi",
+    "number": 24,
+    "position": "DF",
+    "club": "Al-Hilal",
+    "goals": 0
+   },
+   {
+    "name": "Jehad Thakri",
+    "number": 25,
+    "position": "DF",
+    "club": "Al-Qadsiah",
+    "goals": 0
+   },
+   {
+    "name": "Mohammed Abu Al-Shamat",
+    "number": 26,
+    "position": "DF",
+    "club": "Al-Qadsiah",
+    "goals": 0
+   }
+  ],
+  "Spain": [
+   {
+    "name": "David Raya",
+    "number": 1,
+    "position": "GK",
+    "club": "Arsenal",
+    "goals": 0
+   },
+   {
+    "name": "Marc Pubill",
+    "number": 2,
+    "position": "DF",
+    "club": "Atlético Madrid",
+    "goals": 0
+   },
+   {
+    "name": "Álex Grimaldo",
+    "number": 3,
+    "position": "DF",
+    "club": "Bayer Leverkusen",
+    "goals": 0
+   },
+   {
+    "name": "Eric García",
+    "number": 4,
+    "position": "DF",
+    "club": "Barcelona",
+    "goals": 0
+   },
+   {
+    "name": "Marcos Llorente",
+    "number": 5,
+    "position": "DF",
+    "club": "Atlético Madrid",
+    "goals": 0
+   },
+   {
+    "name": "Mikel Merino",
+    "number": 6,
+    "position": "MF",
+    "club": "Arsenal",
+    "goals": 10
+   },
+   {
+    "name": "Ferran Torres",
+    "number": 7,
+    "position": "FW",
+    "club": "Barcelona",
+    "goals": 23
+   },
+   {
+    "name": "Fabián Ruiz",
+    "number": 8,
+    "position": "MF",
+    "club": "Paris Saint-Germain",
+    "goals": 6
+   },
+   {
+    "name": "Gavi",
+    "number": 9,
+    "position": "MF",
+    "club": "Barcelona",
+    "goals": 5
+   },
+   {
+    "name": "Dani Olmo",
+    "number": 10,
+    "position": "FW",
+    "club": "Barcelona",
+    "goals": 12
+   },
+   {
+    "name": "Yéremy Pino",
+    "number": 11,
+    "position": "FW",
+    "club": "Crystal Palace",
+    "goals": 4
+   },
+   {
+    "name": "Pedro Porro",
+    "number": 12,
+    "position": "DF",
+    "club": "Tottenham Hotspur",
+    "goals": 0
+   },
+   {
+    "name": "Joan Garcia",
+    "number": 13,
+    "position": "GK",
+    "club": "Barcelona",
+    "goals": 0
+   },
+   {
+    "name": "Aymeric Laporte",
+    "number": 14,
+    "position": "DF",
+    "club": "Athletic Bilbao",
+    "goals": 2
+   },
+   {
+    "name": "Álex Baena",
+    "number": 15,
+    "position": "MF",
+    "club": "Atlético Madrid",
+    "goals": 2
+   },
+   {
+    "name": "Rodri",
+    "number": 16,
+    "position": "MF",
+    "club": "Manchester City",
+    "goals": 4
+   },
+   {
+    "name": "Nico Williams",
+    "number": 17,
+    "position": "FW",
+    "club": "Athletic Bilbao",
+    "goals": 6
+   },
+   {
+    "name": "Martín Zubimendi",
+    "number": 18,
+    "position": "MF",
+    "club": "Arsenal",
+    "goals": 3
+   },
+   {
+    "name": "Lamine Yamal",
+    "number": 19,
+    "position": "FW",
+    "club": "Barcelona",
+    "goals": 6
+   },
+   {
+    "name": "Pedri",
+    "number": 20,
+    "position": "MF",
+    "club": "Barcelona",
+    "goals": 5
+   },
+   {
+    "name": "Mikel Oyarzabal",
+    "number": 21,
+    "position": "FW",
+    "club": "Real Sociedad",
+    "goals": 24
+   },
+   {
+    "name": "Pau Cubarsí",
+    "number": 22,
+    "position": "DF",
+    "club": "Barcelona",
+    "goals": 0
+   },
+   {
+    "name": "Unai Simón",
+    "number": 23,
+    "position": "GK",
+    "club": "Athletic Bilbao",
+    "goals": 0
+   },
+   {
+    "name": "Marc Cucurella",
+    "number": 24,
+    "position": "DF",
+    "club": "Chelsea",
+    "goals": 1
+   },
+   {
+    "name": "Víctor Muñoz",
+    "number": 25,
+    "position": "FW",
+    "club": "Osasuna",
+    "goals": 1
+   },
+   {
+    "name": "Borja Iglesias",
+    "number": 26,
+    "position": "FW",
+    "club": "Celta Vigo",
+    "goals": 0
+   }
+  ],
+  "Uruguay": [
+   {
+    "name": "Sergio Rochet",
+    "number": 1,
+    "position": "GK",
+    "club": "Internacional",
+    "goals": 0
+   },
+   {
+    "name": "José María Giménez",
+    "number": 2,
+    "position": "DF",
+    "club": "Atlético Madrid",
+    "goals": 8
+   },
+   {
+    "name": "Sebastián Cáceres",
+    "number": 3,
+    "position": "DF",
+    "club": "América",
+    "goals": 0
+   },
+   {
+    "name": "Ronald Araújo",
+    "number": 4,
+    "position": "DF",
+    "club": "Barcelona",
+    "goals": 1
+   },
+   {
+    "name": "Manuel Ugarte",
+    "number": 5,
+    "position": "MF",
+    "club": "Manchester United",
+    "goals": 1
+   },
+   {
+    "name": "Rodrigo Bentancur",
+    "number": 6,
+    "position": "MF",
+    "club": "Tottenham Hotspur",
+    "goals": 3
+   },
+   {
+    "name": "Nicolás de la Cruz",
+    "number": 7,
+    "position": "MF",
+    "club": "Flamengo",
+    "goals": 5
+   },
+   {
+    "name": "Federico Valverde",
+    "number": 8,
+    "position": "MF",
+    "club": "Real Madrid",
+    "goals": 9
+   },
+   {
+    "name": "Darwin Núñez",
+    "number": 9,
+    "position": "FW",
+    "club": "Al-Hilal",
+    "goals": 13
+   },
+   {
+    "name": "Giorgian de Arrascaeta",
+    "number": 10,
+    "position": "MF",
+    "club": "Flamengo",
+    "goals": 13
+   },
+   {
+    "name": "Facundo Pellistri",
+    "number": 11,
+    "position": "FW",
+    "club": "Panathinaikos",
+    "goals": 2
+   },
+   {
+    "name": "Santiago Mele",
+    "number": 12,
+    "position": "GK",
+    "club": "Monterrey",
+    "goals": 0
+   },
+   {
+    "name": "Guillermo Varela",
+    "number": 13,
+    "position": "DF",
+    "club": "Flamengo",
+    "goals": 0
+   },
+   {
+    "name": "Agustín Canobbio",
+    "number": 14,
+    "position": "MF",
+    "club": "Fluminense",
+    "goals": 1
+   },
+   {
+    "name": "Emiliano Martínez",
+    "number": 15,
+    "position": "MF",
+    "club": "Palmeiras",
+    "goals": 0
+   },
+   {
+    "name": "Mathías Olivera",
+    "number": 16,
+    "position": "DF",
+    "club": "Napoli",
+    "goals": 2
+   },
+   {
+    "name": "Matías Viña",
+    "number": 17,
+    "position": "DF",
+    "club": "River Plate",
+    "goals": 1
+   },
+   {
+    "name": "Brian Rodríguez",
+    "number": 18,
+    "position": "FW",
+    "club": "América",
+    "goals": 4
+   },
+   {
+    "name": "Rodrigo Aguirre",
+    "number": 19,
+    "position": "FW",
+    "club": "UANL",
+    "goals": 3
+   },
+   {
+    "name": "Maximiliano Araújo",
+    "number": 20,
+    "position": "MF",
+    "club": "Sporting CP",
+    "goals": 3
+   },
+   {
+    "name": "Federico Viñas",
+    "number": 21,
+    "position": "FW",
+    "club": "Oviedo",
+    "goals": 2
+   },
+   {
+    "name": "Joaquín Piquerez",
+    "number": 22,
+    "position": "MF",
+    "club": "Palmeiras",
+    "goals": 0
+   },
+   {
+    "name": "Fernando Muslera",
+    "number": 23,
+    "position": "GK",
+    "club": "Estudiantes",
+    "goals": 0
+   },
+   {
+    "name": "Santiago Bueno",
+    "number": 24,
+    "position": "DF",
+    "club": "Wolverhampton Wanderers",
+    "goals": 0
+   },
+   {
+    "name": "Juan Manuel Sanabria",
+    "number": 25,
+    "position": "MF",
+    "club": "Real Salt Lake",
+    "goals": 1
+   },
+   {
+    "name": "Rodrigo Zalazar",
+    "number": 26,
+    "position": "MF",
+    "club": "Braga",
+    "goals": 2
+   }
+  ],
+  "France": [
+   {
+    "name": "Brice Samba",
+    "number": 1,
+    "position": "GK",
+    "club": "Rennes",
+    "goals": 0
+   },
+   {
+    "name": "Malo Gusto",
+    "number": 2,
+    "position": "DF",
+    "club": "Chelsea",
+    "goals": 0
+   },
+   {
+    "name": "Lucas Digne",
+    "number": 3,
+    "position": "DF",
+    "club": "Aston Villa",
+    "goals": 0
+   },
+   {
+    "name": "Dayot Upamecano",
+    "number": 4,
+    "position": "DF",
+    "club": "Bayern Munich",
+    "goals": 2
+   },
+   {
+    "name": "Jules Koundé",
+    "number": 5,
+    "position": "DF",
+    "club": "Barcelona",
+    "goals": 0
+   },
+   {
+    "name": "Manu Koné",
+    "number": 6,
+    "position": "MF",
+    "club": "Roma",
+    "goals": 0
+   },
+   {
+    "name": "Ousmane Dembélé",
+    "number": 7,
+    "position": "FW",
+    "club": "Paris Saint-Germain",
+    "goals": 7
+   },
+   {
+    "name": "Aurélien Tchouaméni",
+    "number": 8,
+    "position": "MF",
+    "club": "Real Madrid",
+    "goals": 3
+   },
+   {
+    "name": "Marcus Thuram",
+    "number": 9,
+    "position": "FW",
+    "club": "Inter Milan",
+    "goals": 3
+   },
+   {
+    "name": "Kylian Mbappé",
+    "number": 10,
+    "position": "FW",
+    "club": "Real Madrid",
+    "goals": 56
+   },
+   {
+    "name": "Michael Olise",
+    "number": 11,
+    "position": "FW",
+    "club": "Bayern Munich",
+    "goals": 4
+   },
+   {
+    "name": "Bradley Barcola",
+    "number": 12,
+    "position": "FW",
+    "club": "Paris Saint-Germain",
+    "goals": 3
+   },
+   {
+    "name": "N'Golo Kanté",
+    "number": 13,
+    "position": "MF",
+    "club": "Fenerbahçe",
+    "goals": 2
+   },
+   {
+    "name": "Adrien Rabiot",
+    "number": 14,
+    "position": "MF",
+    "club": "Milan",
+    "goals": 7
+   },
+   {
+    "name": "Ibrahima Konaté",
+    "number": 15,
+    "position": "DF",
+    "club": "Liverpool",
+    "goals": 0
+   },
+   {
+    "name": "Mike Maignan",
+    "number": 16,
+    "position": "GK",
+    "club": "Milan",
+    "goals": 0
+   },
+   {
+    "name": "William Saliba",
+    "number": 17,
+    "position": "DF",
+    "club": "Arsenal",
+    "goals": 0
+   },
+   {
+    "name": "Warren Zaïre-Emery",
+    "number": 18,
+    "position": "MF",
+    "club": "Paris Saint-Germain",
+    "goals": 1
+   },
+   {
+    "name": "Théo Hernandez",
+    "number": 19,
+    "position": "DF",
+    "club": "Al-Hilal",
+    "goals": 2
+   },
+   {
+    "name": "Désiré Doué",
+    "number": 20,
+    "position": "FW",
+    "club": "Paris Saint-Germain",
+    "goals": 2
+   },
+   {
+    "name": "Lucas Hernandez",
+    "number": 21,
+    "position": "DF",
+    "club": "Paris Saint-Germain",
+    "goals": 0
+   },
+   {
+    "name": "Jean-Philippe Mateta",
+    "number": 22,
+    "position": "FW",
+    "club": "Crystal Palace",
+    "goals": 2
+   },
+   {
+    "name": "Robin Risser",
+    "number": 23,
+    "position": "GK",
+    "club": "Lens",
+    "goals": 0
+   },
+   {
+    "name": "Rayan Cherki",
+    "number": 24,
+    "position": "MF",
+    "club": "Manchester City",
+    "goals": 1
+   },
+   {
+    "name": "Maghnes Akliouche",
+    "number": 25,
+    "position": "MF",
+    "club": "Monaco",
+    "goals": 1
+   },
+   {
+    "name": "Maxence Lacroix",
+    "number": 26,
+    "position": "DF",
+    "club": "Crystal Palace",
+    "goals": 0
+   }
+  ],
+  "Iraq": [
+   {
+    "name": "Fahad Talib",
+    "number": 1,
+    "position": "GK",
+    "club": "Al-Talaba",
+    "goals": 0
+   },
+   {
+    "name": "Rebin Sulaka",
+    "number": 2,
+    "position": "DF",
+    "club": "Port",
+    "goals": 1
+   },
+   {
+    "name": "Hussein Ali",
+    "number": 3,
+    "position": "DF",
+    "club": "Pogoń Szczecin",
+    "goals": 1
+   },
+   {
+    "name": "Zaid Tahseen",
+    "number": 4,
+    "position": "DF",
+    "club": "Pakhtakor",
+    "goals": 1
+   },
+   {
+    "name": "Akam Hashim",
+    "number": 5,
+    "position": "DF",
+    "club": "Al-Zawraa",
+    "goals": 1
+   },
+   {
+    "name": "Manaf Younis",
+    "number": 6,
+    "position": "DF",
+    "club": "Al-Shorta",
+    "goals": 1
+   },
+   {
+    "name": "Youssef Amyn",
+    "number": 7,
+    "position": "MF",
+    "club": "AEK Larnaca",
+    "goals": 2
+   },
+   {
+    "name": "Ibrahim Bayesh",
+    "number": 8,
+    "position": "MF",
+    "club": "Al-Dhafra",
+    "goals": 8
+   },
+   {
+    "name": "Ali Al-Hamadi",
+    "number": 9,
+    "position": "FW",
+    "club": "Luton Town",
+    "goals": 5
+   },
+   {
+    "name": "Mohanad Ali",
+    "number": 10,
+    "position": "FW",
+    "club": "Dibba",
+    "goals": 27
+   },
+   {
+    "name": "Ahmed Qasem",
+    "number": 11,
+    "position": "FW",
+    "club": "Nashville SC",
+    "goals": 0
+   },
+   {
+    "name": "Jalal Hassan",
+    "number": 12,
+    "position": "GK",
+    "club": "Al-Zawraa",
+    "goals": 0
+   },
+   {
+    "name": "Ali Yousif",
+    "number": 13,
+    "position": "FW",
+    "club": "Al-Talaba",
+    "goals": 1
+   },
+   {
+    "name": "Zidane Iqbal",
+    "number": 14,
+    "position": "MF",
+    "club": "Utrecht",
+    "goals": 2
+   },
+   {
+    "name": "Ahmed Yahya",
+    "number": 15,
+    "position": "DF",
+    "club": "Al-Shorta",
+    "goals": 0
+   },
+   {
+    "name": "Amir Al-Ammari",
+    "number": 16,
+    "position": "MF",
+    "club": "Cracovia",
+    "goals": 3
+   },
+   {
+    "name": "Ali Jasim",
+    "number": 17,
+    "position": "FW",
+    "club": "Al-Najma",
+    "goals": 2
+   },
+   {
+    "name": "Aymen Hussein",
+    "number": 18,
+    "position": "FW",
+    "club": "Al-Karma",
+    "goals": 33
+   },
+   {
+    "name": "Kevin Yakob",
+    "number": 19,
+    "position": "MF",
+    "club": "AGF",
+    "goals": 0
+   },
+   {
+    "name": "Aimar Sher",
+    "number": 20,
+    "position": "MF",
+    "club": "Sarpsborg 08",
+    "goals": 0
+   },
+   {
+    "name": "Marko Farji",
+    "number": 21,
+    "position": "FW",
+    "club": "Venezia",
+    "goals": 0
+   },
+   {
+    "name": "Ahmed Basil",
+    "number": 22,
+    "position": "GK",
+    "club": "Al-Shorta",
+    "goals": 0
+   },
+   {
+    "name": "Merchas Doski",
+    "number": 23,
+    "position": "DF",
+    "club": "Viktoria Plzeň",
+    "goals": 0
+   },
+   {
+    "name": "Zaid Ismail",
+    "number": 24,
+    "position": "MF",
+    "club": "Al-Talaba",
+    "goals": 0
+   },
+   {
+    "name": "Mustafa Saadoon",
+    "number": 25,
+    "position": "DF",
+    "club": "Al-Shorta",
+    "goals": 0
+   },
+   {
+    "name": "Frans Putros",
+    "number": 26,
+    "position": "DF",
+    "club": "Persib",
+    "goals": 0
+   }
+  ],
+  "Norway": [
+   {
+    "name": "Ørjan Nyland",
+    "number": 1,
+    "position": "GK",
+    "club": "Sevilla",
+    "goals": 0
+   },
+   {
+    "name": "Morten Thorsby",
+    "number": 2,
+    "position": "MF",
+    "club": "Cremonese",
+    "goals": 0
+   },
+   {
+    "name": "Kristoffer Ajer",
+    "number": 3,
+    "position": "DF",
+    "club": "Brentford",
+    "goals": 2
+   },
+   {
+    "name": "Leo Østigård",
+    "number": 4,
+    "position": "DF",
+    "club": "Genoa",
+    "goals": 1
+   },
+   {
+    "name": "David Møller Wolfe",
+    "number": 5,
+    "position": "DF",
+    "club": "Wolverhampton Wanderers",
+    "goals": 1
+   },
+   {
+    "name": "Patrick Berg",
+    "number": 6,
+    "position": "MF",
+    "club": "Bodø/Glimt",
+    "goals": 0
+   },
+   {
+    "name": "Alexander Sørloth",
+    "number": 7,
+    "position": "FW",
+    "club": "Atlético Madrid",
+    "goals": 26
+   },
+   {
+    "name": "Sander Berge",
+    "number": 8,
+    "position": "MF",
+    "club": "Fulham",
+    "goals": 1
+   },
+   {
+    "name": "Erling Haaland",
+    "number": 9,
+    "position": "FW",
+    "club": "Manchester City",
+    "goals": 55
+   },
+   {
+    "name": "Martin Ødegaard",
+    "number": 10,
+    "position": "MF",
+    "club": "Arsenal",
+    "goals": 4
+   },
+   {
+    "name": "Jørgen Strand Larsen",
+    "number": 11,
+    "position": "FW",
+    "club": "Crystal Palace",
+    "goals": 6
+   },
+   {
+    "name": "Sander Tangvik",
+    "number": 12,
+    "position": "GK",
+    "club": "Hamburger SV",
+    "goals": 0
+   },
+   {
+    "name": "Egil Selvik",
+    "number": 13,
+    "position": "GK",
+    "club": "Watford",
+    "goals": 0
+   },
+   {
+    "name": "Fredrik Aursnes",
+    "number": 14,
+    "position": "MF",
+    "club": "Benfica",
+    "goals": 1
+   },
+   {
+    "name": "Fredrik André Bjørkan",
+    "number": 15,
+    "position": "DF",
+    "club": "Bodø/Glimt",
+    "goals": 1
+   },
+   {
+    "name": "Marcus Holmgren Pedersen",
+    "number": 16,
+    "position": "DF",
+    "club": "Torino",
+    "goals": 0
+   },
+   {
+    "name": "Torbjørn Heggem",
+    "number": 17,
+    "position": "DF",
+    "club": "Bologna",
+    "goals": 0
+   },
+   {
+    "name": "Kristian Thorstvedt",
+    "number": 18,
+    "position": "MF",
+    "club": "Sassuolo",
+    "goals": 4
+   },
+   {
+    "name": "Thelo Aasgaard",
+    "number": 19,
+    "position": "MF",
+    "club": "Rangers",
+    "goals": 5
+   },
+   {
+    "name": "Antonio Nusa",
+    "number": 20,
+    "position": "FW",
+    "club": "RB Leipzig",
+    "goals": 8
+   },
+   {
+    "name": "Andreas Schjelderup",
+    "number": 21,
+    "position": "MF",
+    "club": "Benfica",
+    "goals": 1
+   },
+   {
+    "name": "Oscar Bobb",
+    "number": 22,
+    "position": "MF",
+    "club": "Fulham",
+    "goals": 2
+   },
+   {
+    "name": "Jens Petter Hauge",
+    "number": 23,
+    "position": "MF",
+    "club": "Bodø/Glimt",
+    "goals": 1
+   },
+   {
+    "name": "Sondre Langås",
+    "number": 24,
+    "position": "DF",
+    "club": "Derby County",
+    "goals": 0
+   },
+   {
+    "name": "Henrik Falchener",
+    "number": 25,
+    "position": "DF",
+    "club": "Viking",
+    "goals": 0
+   },
+   {
+    "name": "Julian Ryerson",
+    "number": 26,
+    "position": "FW",
+    "club": "Borussia Dortmund",
+    "goals": 1
+   }
+  ],
+  "Senegal": [
+   {
+    "name": "Yehvann Diouf",
+    "number": 1,
+    "position": "GK",
+    "club": "Nice",
+    "goals": 0
+   },
+   {
+    "name": "Mamadou Sarr",
+    "number": 2,
+    "position": "DF",
+    "club": "Chelsea",
+    "goals": 0
+   },
+   {
+    "name": "Kalidou Koulibaly",
+    "number": 3,
+    "position": "DF",
+    "club": "Al-Hilal",
+    "goals": 2
+   },
+   {
+    "name": "Abdoulaye Seck",
+    "number": 4,
+    "position": "DF",
+    "club": "Maccabi Haifa",
+    "goals": 4
+   },
+   {
+    "name": "Idrissa Gueye",
+    "number": 5,
+    "position": "MF",
+    "club": "Everton",
+    "goals": 7
+   },
+   {
+    "name": "Pathé Ciss",
+    "number": 6,
+    "position": "MF",
+    "club": "Rayo Vallecano",
+    "goals": 0
+   },
+   {
+    "name": "Assane Diao",
+    "number": 7,
+    "position": "FW",
+    "club": "Como",
+    "goals": 0
+   },
+   {
+    "name": "Lamine Camara",
+    "number": 8,
+    "position": "MF",
+    "club": "Monaco",
+    "goals": 7
+   },
+   {
+    "name": "Bamba Dieng",
+    "number": 9,
+    "position": "FW",
+    "club": "Lorient",
+    "goals": 2
+   },
+   {
+    "name": "Sadio Mané",
+    "number": 10,
+    "position": "FW",
+    "club": "Al-Nassr",
+    "goals": 55
+   },
+   {
+    "name": "Nicolas Jackson",
+    "number": 11,
+    "position": "FW",
+    "club": "Bayern Munich",
+    "goals": 8
+   },
+   {
+    "name": "Cherif Ndiaye",
+    "number": 12,
+    "position": "FW",
+    "club": "Samsunspor",
+    "goals": 4
+   },
+   {
+    "name": "Iliman Ndiaye",
+    "number": 13,
+    "position": "FW",
+    "club": "Everton",
+    "goals": 4
+   },
+   {
+    "name": "Ismail Jakobs",
+    "number": 14,
+    "position": "DF",
+    "club": "Galatasaray",
+    "goals": 0
+   },
+   {
+    "name": "Krépin Diatta",
+    "number": 15,
+    "position": "DF",
+    "club": "Monaco",
+    "goals": 2
+   },
+   {
+    "name": "Édouard Mendy",
+    "number": 16,
+    "position": "GK",
+    "club": "Al-Ahli",
+    "goals": 0
+   },
+   {
+    "name": "Pape Matar Sarr",
+    "number": 17,
+    "position": "MF",
+    "club": "Tottenham Hotspur",
+    "goals": 4
+   },
+   {
+    "name": "Ismaïla Sarr",
+    "number": 18,
+    "position": "FW",
+    "club": "Crystal Palace",
+    "goals": 19
+   },
+   {
+    "name": "Moussa Niakhaté",
+    "number": 19,
+    "position": "DF",
+    "club": "Lyon",
+    "goals": 0
+   },
+   {
+    "name": "Ibrahim Mbaye",
+    "number": 20,
+    "position": "FW",
+    "club": "Paris Saint-Germain",
+    "goals": 3
+   },
+   {
+    "name": "Habib Diarra",
+    "number": 21,
+    "position": "MF",
+    "club": "Sunderland",
+    "goals": 4
+   },
+   {
+    "name": "Bara Sapoko Ndiaye",
+    "number": 22,
+    "position": "MF",
+    "club": "Bayern Munich",
+    "goals": 0
+   },
+   {
+    "name": "Mory Diaw",
+    "number": 23,
+    "position": "GK",
+    "club": "Le Havre",
+    "goals": 0
+   },
+   {
+    "name": "Antoine Mendy",
+    "number": 24,
+    "position": "DF",
+    "club": "Nice",
+    "goals": 0
+   },
+   {
+    "name": "El Hadji Malick Diouf",
+    "number": 25,
+    "position": "DF",
+    "club": "West Ham United",
+    "goals": 1
+   },
+   {
+    "name": "Pape Gueye",
+    "number": 26,
+    "position": "MF",
+    "club": "Villarreal",
+    "goals": 5
+   }
+  ],
+  "Algeria": [
+   {
+    "name": "Melvin Mastil",
+    "number": 1,
+    "position": "GK",
+    "club": "Stade Nyonnais",
+    "goals": 0
+   },
+   {
+    "name": "Aïssa Mandi",
+    "number": 2,
+    "position": "DF",
+    "club": "Lille",
+    "goals": 7
+   },
+   {
+    "name": "Achref Abada",
+    "number": 3,
+    "position": "DF",
+    "club": "USM Alger",
+    "goals": 1
+   },
+   {
+    "name": "Mohamed Amine Tougai",
+    "number": 4,
+    "position": "DF",
+    "club": "Espérance de Tunis",
+    "goals": 2
+   },
+   {
+    "name": "Zineddine Belaïd",
+    "number": 5,
+    "position": "DF",
+    "club": "JS Kabylie",
+    "goals": 1
+   },
+   {
+    "name": "Ramiz Zerrouki",
+    "number": 6,
+    "position": "MF",
+    "club": "Twente",
+    "goals": 3
+   },
+   {
+    "name": "Riyad Mahrez",
+    "number": 7,
+    "position": "FW",
+    "club": "Al-Ahli",
+    "goals": 38
+   },
+   {
+    "name": "Houssem Aouar",
+    "number": 8,
+    "position": "MF",
+    "club": "Al-Ittihad",
+    "goals": 6
+   },
+   {
+    "name": "Amine Gouiri",
+    "number": 9,
+    "position": "FW",
+    "club": "Marseille",
+    "goals": 8
+   },
+   {
+    "name": "Farès Chaïbi",
+    "number": 10,
+    "position": "MF",
+    "club": "Eintracht Frankfurt",
+    "goals": 3
+   },
+   {
+    "name": "Anis Hadj Moussa",
+    "number": 11,
+    "position": "FW",
+    "club": "Feyenoord",
+    "goals": 0
+   },
+   {
+    "name": "Nadhir Benbouali",
+    "number": 12,
+    "position": "FW",
+    "club": "Győri ETO",
+    "goals": 1
+   },
+   {
+    "name": "Jaouen Hadjam",
+    "number": 13,
+    "position": "DF",
+    "club": "Young Boys",
+    "goals": 3
+   },
+   {
+    "name": "Hicham Boudaoui",
+    "number": 14,
+    "position": "MF",
+    "club": "Nice",
+    "goals": 0
+   },
+   {
+    "name": "Rayan Aït-Nouri",
+    "number": 15,
+    "position": "DF",
+    "club": "Manchester City",
+    "goals": 0
+   },
+   {
+    "name": "Oussama Benbot",
+    "number": 16,
+    "position": "GK",
+    "club": "USM Alger",
+    "goals": 0
+   },
+   {
+    "name": "Rafik Belghali",
+    "number": 17,
+    "position": "DF",
+    "club": "Hellas Verona",
+    "goals": 1
+   },
+   {
+    "name": "Mohamed Amoura",
+    "number": 18,
+    "position": "FW",
+    "club": "VfL Wolfsburg",
+    "goals": 19
+   },
+   {
+    "name": "Nabil Bentaleb",
+    "number": 19,
+    "position": "MF",
+    "club": "Lille",
+    "goals": 6
+   },
+   {
+    "name": "Adil Boulbina",
+    "number": 20,
+    "position": "FW",
+    "club": "Al-Duhail",
+    "goals": 6
+   },
+   {
+    "name": "Ramy Bensebaini",
+    "number": 21,
+    "position": "DF",
+    "club": "Borussia Dortmund",
+    "goals": 7
+   },
+   {
+    "name": "Ibrahim Maza",
+    "number": 22,
+    "position": "MF",
+    "club": "Bayer Leverkusen",
+    "goals": 2
+   },
+   {
+    "name": "Luca Zidane",
+    "number": 23,
+    "position": "GK",
+    "club": "Granada",
+    "goals": 0
+   },
+   {
+    "name": "Yacine Titraoui",
+    "number": 24,
+    "position": "MF",
+    "club": "Charleroi",
+    "goals": 0
+   },
+   {
+    "name": "Farès Ghedjemis",
+    "number": 25,
+    "position": "FW",
+    "club": "Frosinone",
+    "goals": 1
+   },
+   {
+    "name": "Samir Chergui",
+    "number": 26,
+    "position": "DF",
+    "club": "Paris FC",
+    "goals": 0
+   }
+  ],
+  "Argentina": [
+   {
+    "name": "Juan Musso",
+    "number": 1,
+    "position": "GK",
+    "club": "Atlético Madrid",
+    "goals": 0
+   },
+   {
+    "name": "Leonardo Balerdi",
+    "number": 2,
+    "position": "DF",
+    "club": "Marseille",
+    "goals": 0
+   },
+   {
+    "name": "Nicolás Tagliafico",
+    "number": 3,
+    "position": "DF",
+    "club": "Lyon",
+    "goals": 1
+   },
+   {
+    "name": "Gonzalo Montiel",
+    "number": 4,
+    "position": "DF",
+    "club": "River Plate",
+    "goals": 2
+   },
+   {
+    "name": "Leandro Paredes",
+    "number": 5,
+    "position": "MF",
+    "club": "Boca Juniors",
+    "goals": 5
+   },
+   {
+    "name": "Lisandro Martínez",
+    "number": 6,
+    "position": "DF",
+    "club": "Manchester United",
+    "goals": 1
+   },
+   {
+    "name": "Rodrigo De Paul",
+    "number": 7,
+    "position": "MF",
+    "club": "Inter Miami CF",
+    "goals": 2
+   },
+   {
+    "name": "Valentín Barco",
+    "number": 8,
+    "position": "MF",
+    "club": "Strasbourg",
+    "goals": 1
+   },
+   {
+    "name": "Julián Alvarez",
+    "number": 9,
+    "position": "FW",
+    "club": "Atlético Madrid",
+    "goals": 14
+   },
+   {
+    "name": "Lionel Messi",
+    "number": 10,
+    "position": "FW",
+    "club": "Inter Miami CF",
+    "goals": 116
+   },
+   {
+    "name": "Giovani Lo Celso",
+    "number": 11,
+    "position": "MF",
+    "club": "Real Betis",
+    "goals": 4
+   },
+   {
+    "name": "Gerónimo Rulli",
+    "number": 12,
+    "position": "GK",
+    "club": "Marseille",
+    "goals": 0
+   },
+   {
+    "name": "Cristian Romero",
+    "number": 13,
+    "position": "DF",
+    "club": "Tottenham Hotspur",
+    "goals": 3
+   },
+   {
+    "name": "Exequiel Palacios",
+    "number": 14,
+    "position": "MF",
+    "club": "Bayer Leverkusen",
+    "goals": 0
+   },
+   {
+    "name": "Nicolás González",
+    "number": 15,
+    "position": "MF",
+    "club": "Atlético Madrid",
+    "goals": 6
+   },
+   {
+    "name": "Thiago Almada",
+    "number": 16,
+    "position": "FW",
+    "club": "Atlético Madrid",
+    "goals": 4
+   },
+   {
+    "name": "Giuliano Simeone",
+    "number": 17,
+    "position": "FW",
+    "club": "Atlético Madrid",
+    "goals": 1
+   },
+   {
+    "name": "Nico Paz",
+    "number": 18,
+    "position": "FW",
+    "club": "Como",
+    "goals": 1
+   },
+   {
+    "name": "Nicolás Otamendi",
+    "number": 19,
+    "position": "DF",
+    "club": "Benfica",
+    "goals": 8
+   },
+   {
+    "name": "Alexis Mac Allister",
+    "number": 20,
+    "position": "MF",
+    "club": "Liverpool",
+    "goals": 6
+   },
+   {
+    "name": "José Manuel López",
+    "number": 21,
+    "position": "FW",
+    "club": "Palmeiras",
+    "goals": 0
+   },
+   {
+    "name": "Lautaro Martínez",
+    "number": 22,
+    "position": "FW",
+    "club": "Inter Milan",
+    "goals": 36
+   },
+   {
+    "name": "Emiliano Martínez",
+    "number": 23,
+    "position": "GK",
+    "club": "Aston Villa",
+    "goals": 0
+   },
+   {
+    "name": "Enzo Fernández",
+    "number": 24,
+    "position": "MF",
+    "club": "Chelsea",
+    "goals": 6
+   },
+   {
+    "name": "Facundo Medina",
+    "number": 25,
+    "position": "DF",
+    "club": "Marseille",
+    "goals": 0
+   },
+   {
+    "name": "Nahuel Molina",
+    "number": 26,
+    "position": "DF",
+    "club": "Atlético Madrid",
+    "goals": 1
+   }
+  ],
+  "Austria": [
+   {
+    "name": "Alexander Schlager",
+    "number": 1,
+    "position": "GK",
+    "club": "Red Bull Salzburg",
+    "goals": 0
+   },
+   {
+    "name": "David Affengruber",
+    "number": 2,
+    "position": "DF",
+    "club": "Elche",
+    "goals": 0
+   },
+   {
+    "name": "Kevin Danso",
+    "number": 3,
+    "position": "DF",
+    "club": "Tottenham Hotspur",
+    "goals": 0
+   },
+   {
+    "name": "Xaver Schlager",
+    "number": 4,
+    "position": "MF",
+    "club": "RB Leipzig",
+    "goals": 4
+   },
+   {
+    "name": "Stefan Posch",
+    "number": 5,
+    "position": "DF",
+    "club": "Mainz 05",
+    "goals": 5
+   },
+   {
+    "name": "Nicolas Seiwald",
+    "number": 6,
+    "position": "MF",
+    "club": "RB Leipzig",
+    "goals": 1
+   },
+   {
+    "name": "Marko Arnautović",
+    "number": 7,
+    "position": "FW",
+    "club": "Red Star Belgrade",
+    "goals": 47
+   },
+   {
+    "name": "David Alaba",
+    "number": 8,
+    "position": "DF",
+    "club": "Real Madrid",
+    "goals": 15
+   },
+   {
+    "name": "Marcel Sabitzer",
+    "number": 9,
+    "position": "MF",
+    "club": "Borussia Dortmund",
+    "goals": 26
+   },
+   {
+    "name": "Florian Grillitsch",
+    "number": 10,
+    "position": "MF",
+    "club": "Braga",
+    "goals": 1
+   },
+   {
+    "name": "Michael Gregoritsch",
+    "number": 11,
+    "position": "FW",
+    "club": "FC Augsburg",
+    "goals": 24
+   },
+   {
+    "name": "Florian Wiegele",
+    "number": 12,
+    "position": "GK",
+    "club": "Viktoria Plzeň",
+    "goals": 0
+   },
+   {
+    "name": "Patrick Pentz",
+    "number": 13,
+    "position": "GK",
+    "club": "Brøndby",
+    "goals": 0
+   },
+   {
+    "name": "Saša Kalajdžić",
+    "number": 14,
+    "position": "FW",
+    "club": "LASK",
+    "goals": 4
+   },
+   {
+    "name": "Philipp Lienhart",
+    "number": 15,
+    "position": "DF",
+    "club": "SC Freiburg",
+    "goals": 3
+   },
+   {
+    "name": "Phillipp Mwene",
+    "number": 16,
+    "position": "DF",
+    "club": "Mainz 05",
+    "goals": 0
+   },
+   {
+    "name": "Carney Chukwuemeka",
+    "number": 17,
+    "position": "MF",
+    "club": "Borussia Dortmund",
+    "goals": 1
+   },
+   {
+    "name": "Romano Schmid",
+    "number": 18,
+    "position": "MF",
+    "club": "Werder Bremen",
+    "goals": 3
+   },
+   {
+    "name": "Konrad Laimer",
+    "number": 20,
+    "position": "MF",
+    "club": "Bayern Munich",
+    "goals": 7
+   },
+   {
+    "name": "Patrick Wimmer",
+    "number": 21,
+    "position": "FW",
+    "club": "VfL Wolfsburg",
+    "goals": 1
+   },
+   {
+    "name": "Alexander Prass",
+    "number": 22,
+    "position": "MF",
+    "club": "TSG Hoffenheim",
+    "goals": 0
+   },
+   {
+    "name": "Marco Friedl",
+    "number": 23,
+    "position": "DF",
+    "club": "Werder Bremen",
+    "goals": 0
+   },
+   {
+    "name": "Paul Wanner",
+    "number": 24,
+    "position": "MF",
+    "club": "PSV Eindhoven",
+    "goals": 0
+   },
+   {
+    "name": "Michael Svoboda",
+    "number": 25,
+    "position": "DF",
+    "club": "Venezia",
+    "goals": 0
+   },
+   {
+    "name": "Alessandro Schöpf",
+    "number": 26,
+    "position": "MF",
+    "club": "Wolfsberger AC",
+    "goals": 6
+   }
+  ],
+  "Jordan": [
+   {
+    "name": "Yazeed Abulaila",
+    "number": 1,
+    "position": "GK",
+    "club": "Al-Hussein",
+    "goals": 0
+   },
+   {
+    "name": "Mohammad Abu Hashish",
+    "number": 2,
+    "position": "DF",
+    "club": "Al-Karma",
+    "goals": 1
+   },
+   {
+    "name": "Abdallah Nasib",
+    "number": 3,
+    "position": "DF",
+    "club": "Al-Zawraa",
+    "goals": 3
+   },
+   {
+    "name": "Husam Abu Dahab",
+    "number": 4,
+    "position": "DF",
+    "club": "Al-Faisaly",
+    "goals": 0
+   },
+   {
+    "name": "Yazan Al-Arab",
+    "number": 5,
+    "position": "DF",
+    "club": "FC Seoul",
+    "goals": 3
+   },
+   {
+    "name": "Amer Jamous",
+    "number": 6,
+    "position": "MF",
+    "club": "Al-Zawraa",
+    "goals": 1
+   },
+   {
+    "name": "Mohammad Abu Zrayq",
+    "number": 7,
+    "position": "FW",
+    "club": "Raja Casablanca",
+    "goals": 5
+   },
+   {
+    "name": "Noor Al-Rawabdeh",
+    "number": 8,
+    "position": "MF",
+    "club": "Selangor",
+    "goals": 3
+   },
+   {
+    "name": "Ali Olwan",
+    "number": 9,
+    "position": "FW",
+    "club": "Al-Sailiya",
+    "goals": 29
+   },
+   {
+    "name": "Musa Al-Taamari",
+    "number": 10,
+    "position": "FW",
+    "club": "Rennes",
+    "goals": 24
+   },
+   {
+    "name": "Odeh Al-Fakhouri",
+    "number": 11,
+    "position": "FW",
+    "club": "Pyramids",
+    "goals": 1
+   },
+   {
+    "name": "Nour Bani Attiah",
+    "number": 12,
+    "position": "GK",
+    "club": "Al-Faisaly",
+    "goals": 0
+   },
+   {
+    "name": "Mahmoud Al-Mardi",
+    "number": 13,
+    "position": "FW",
+    "club": "Al-Hussein",
+    "goals": 9
+   },
+   {
+    "name": "Rajaei Ayed",
+    "number": 14,
+    "position": "MF",
+    "club": "Al-Hussein",
+    "goals": 0
+   },
+   {
+    "name": "Ibrahim Sadeh",
+    "number": 15,
+    "position": "MF",
+    "club": "Al-Karma",
+    "goals": 3
+   },
+   {
+    "name": "Mo Abualnadi",
+    "number": 16,
+    "position": "DF",
+    "club": "Selangor",
+    "goals": 0
+   },
+   {
+    "name": "Salim Obaid",
+    "number": 17,
+    "position": "DF",
+    "club": "Al-Hussein",
+    "goals": 0
+   },
+   {
+    "name": "Ibrahim Sabra",
+    "number": 18,
+    "position": "FW",
+    "club": "Lokomotiva Zagreb",
+    "goals": 1
+   },
+   {
+    "name": "Saed Al-Rosan",
+    "number": 19,
+    "position": "DF",
+    "club": "Al-Hussein",
+    "goals": 2
+   },
+   {
+    "name": "Mohannad Abu Taha",
+    "number": 20,
+    "position": "MF",
+    "club": "Al-Quwa Al-Jawiya",
+    "goals": 1
+   },
+   {
+    "name": "Nizar Al-Rashdan",
+    "number": 21,
+    "position": "MF",
+    "club": "Qatar SC",
+    "goals": 4
+   },
+   {
+    "name": "Abdallah Al-Fakhouri",
+    "number": 22,
+    "position": "GK",
+    "club": "Al-Wehdat",
+    "goals": 0
+   },
+   {
+    "name": "Ihsan Haddad",
+    "number": 23,
+    "position": "DF",
+    "club": "Al-Hussein",
+    "goals": 2
+   },
+   {
+    "name": "Ali Azaizeh",
+    "number": 24,
+    "position": "FW",
+    "club": "Al-Shabab",
+    "goals": 0
+   },
+   {
+    "name": "Mohammad Al-Dawoud",
+    "number": 25,
+    "position": "MF",
+    "club": "Al-Wehdat",
+    "goals": 1
+   },
+   {
+    "name": "Anas Badawi",
+    "number": 26,
+    "position": "DF",
+    "club": "Al-Faisaly",
+    "goals": 0
+   }
+  ],
+  "Colombia": [
+   {
+    "name": "David Ospina",
+    "number": 1,
+    "position": "GK",
+    "club": "Atlético Nacional",
+    "goals": 0
+   },
+   {
+    "name": "Daniel Muñoz",
+    "number": 2,
+    "position": "DF",
+    "club": "Crystal Palace",
+    "goals": 3
+   },
+   {
+    "name": "Jhon Lucumí",
+    "number": 3,
+    "position": "DF",
+    "club": "Bologna",
+    "goals": 1
+   },
+   {
+    "name": "Santiago Arias",
+    "number": 4,
+    "position": "DF",
+    "club": "Independiente",
+    "goals": 0
+   },
+   {
+    "name": "Kevin Castaño",
+    "number": 5,
+    "position": "MF",
+    "club": "River Plate",
+    "goals": 0
+   },
+   {
+    "name": "Richard Ríos",
+    "number": 6,
+    "position": "MF",
+    "club": "Benfica",
+    "goals": 2
+   },
+   {
+    "name": "Luis Díaz",
+    "number": 7,
+    "position": "FW",
+    "club": "Bayern Munich",
+    "goals": 22
+   },
+   {
+    "name": "Jorge Carrascal",
+    "number": 8,
+    "position": "MF",
+    "club": "Flamengo",
+    "goals": 2
+   },
+   {
+    "name": "Jhon Córdoba",
+    "number": 9,
+    "position": "FW",
+    "club": "Krasnodar",
+    "goals": 6
+   },
+   {
+    "name": "James Rodríguez",
+    "number": 10,
+    "position": "MF",
+    "club": "Minnesota United FC",
+    "goals": 31
+   },
+   {
+    "name": "Jhon Arias",
+    "number": 11,
+    "position": "MF",
+    "club": "Palmeiras",
+    "goals": 4
+   },
+   {
+    "name": "Camilo Vargas",
+    "number": 12,
+    "position": "GK",
+    "club": "Atlas",
+    "goals": 0
+   },
+   {
+    "name": "Yerry Mina",
+    "number": 13,
+    "position": "DF",
+    "club": "Cagliari",
+    "goals": 8
+   },
+   {
+    "name": "Gustavo Puerta",
+    "number": 14,
+    "position": "DF",
+    "club": "Racing Santander",
+    "goals": 1
+   },
+   {
+    "name": "Juan Portilla",
+    "number": 15,
+    "position": "MF",
+    "club": "Athletico Paranaense",
+    "goals": 0
+   },
+   {
+    "name": "Jefferson Lerma",
+    "number": 16,
+    "position": "MF",
+    "club": "Crystal Palace",
+    "goals": 5
+   },
+   {
+    "name": "Johan Mojica",
+    "number": 17,
+    "position": "DF",
+    "club": "Mallorca",
+    "goals": 1
+   },
+   {
+    "name": "Willer Ditta",
+    "number": 18,
+    "position": "DF",
+    "club": "Cruz Azul",
+    "goals": 0
+   },
+   {
+    "name": "Cucho Hernández",
+    "number": 19,
+    "position": "FW",
+    "club": "Real Betis",
+    "goals": 2
+   },
+   {
+    "name": "Juan Fernando Quintero",
+    "number": 20,
+    "position": "MF",
+    "club": "River Plate",
+    "goals": 6
+   },
+   {
+    "name": "Jaminton Campaz",
+    "number": 21,
+    "position": "FW",
+    "club": "Rosario Central",
+    "goals": 1
+   },
+   {
+    "name": "Deiver Machado",
+    "number": 22,
+    "position": "DF",
+    "club": "Nantes",
+    "goals": 0
+   },
+   {
+    "name": "Davinson Sánchez",
+    "number": 23,
+    "position": "DF",
+    "club": "Galatasaray",
+    "goals": 4
+   },
+   {
+    "name": "Álvaro Montero",
+    "number": 24,
+    "position": "GK",
+    "club": "Vélez Sarsfield",
+    "goals": 0
+   },
+   {
+    "name": "Luis Suárez",
+    "number": 25,
+    "position": "FW",
+    "club": "Sporting CP",
+    "goals": 5
+   },
+   {
+    "name": "Andrés Gómez",
+    "number": 26,
+    "position": "FW",
+    "club": "Vasco da Gama",
+    "goals": 2
+   }
+  ],
+  "DR Congo": [
+   {
+    "name": "Lionel Mpasi",
+    "number": 1,
+    "position": "GK",
+    "club": "Le Havre",
+    "goals": 0
+   },
+   {
+    "name": "Aaron Wan-Bissaka",
+    "number": 2,
+    "position": "DF",
+    "club": "West Ham United",
+    "goals": 0
+   },
+   {
+    "name": "Steve Kapuadi",
+    "number": 3,
+    "position": "DF",
+    "club": "Widzew Łódź",
+    "goals": 0
+   },
+   {
+    "name": "Axel Tuanzebe",
+    "number": 4,
+    "position": "DF",
+    "club": "Burnley",
+    "goals": 1
+   },
+   {
+    "name": "Dylan Batubinsika",
+    "number": 5,
+    "position": "DF",
+    "club": "AEL",
+    "goals": 1
+   },
+   {
+    "name": "Ngal'ayel Mukau",
+    "number": 6,
+    "position": "MF",
+    "club": "Lille",
+    "goals": 0
+   },
+   {
+    "name": "Nathanaël Mbuku",
+    "number": 7,
+    "position": "MF",
+    "club": "Montpellier",
+    "goals": 2
+   },
+   {
+    "name": "Samuel Moutoussamy",
+    "number": 8,
+    "position": "MF",
+    "club": "Atromitos",
+    "goals": 0
+   },
+   {
+    "name": "Brian Cipenga",
+    "number": 9,
+    "position": "FW",
+    "club": "Castellón",
+    "goals": 0
+   },
+   {
+    "name": "Théo Bongonda",
+    "number": 10,
+    "position": "MF",
+    "club": "Spartak Moscow",
+    "goals": 7
+   },
+   {
+    "name": "Gaël Kakuta",
+    "number": 11,
+    "position": "FW",
+    "club": "AEL",
+    "goals": 5
+   },
+   {
+    "name": "Joris Kayembe",
+    "number": 12,
+    "position": "DF",
+    "club": "Genk",
+    "goals": 0
+   },
+   {
+    "name": "Meschak Elia",
+    "number": 13,
+    "position": "FW",
+    "club": "Alanyaspor",
+    "goals": 12
+   },
+   {
+    "name": "Noah Sadiki",
+    "number": 14,
+    "position": "MF",
+    "club": "Sunderland",
+    "goals": 0
+   },
+   {
+    "name": "Aaron Tshibola",
+    "number": 15,
+    "position": "MF",
+    "club": "Kilmarnock",
+    "goals": 1
+   },
+   {
+    "name": "Timothy Fayulu",
+    "number": 16,
+    "position": "GK",
+    "club": "Noah",
+    "goals": 0
+   },
+   {
+    "name": "Cédric Bakambu",
+    "number": 17,
+    "position": "FW",
+    "club": "Real Betis",
+    "goals": 21
+   },
+   {
+    "name": "Charles Pickel",
+    "number": 18,
+    "position": "MF",
+    "club": "Espanyol",
+    "goals": 1
+   },
+   {
+    "name": "Fiston Mayele",
+    "number": 19,
+    "position": "FW",
+    "club": "Pyramids",
+    "goals": 6
+   },
+   {
+    "name": "Yoane Wissa",
+    "number": 20,
+    "position": "FW",
+    "club": "Newcastle United",
+    "goals": 9
+   },
+   {
+    "name": "Matthieu Epolo",
+    "number": 21,
+    "position": "GK",
+    "club": "Standard Liège",
+    "goals": 0
+   },
+   {
+    "name": "Chancel Mbemba",
+    "number": 22,
+    "position": "DF",
+    "club": "Lille",
+    "goals": 7
+   },
+   {
+    "name": "Simon Banza",
+    "number": 23,
+    "position": "FW",
+    "club": "Al-Jazira",
+    "goals": 2
+   },
+   {
+    "name": "Gédéon Kalulu",
+    "number": 24,
+    "position": "DF",
+    "club": "Aris Limassol",
+    "goals": 0
+   },
+   {
+    "name": "Edo Kayembe",
+    "number": 25,
+    "position": "MF",
+    "club": "Watford",
+    "goals": 2
+   },
+   {
+    "name": "Arthur Masuaku",
+    "number": 26,
+    "position": "DF",
+    "club": "Lens",
+    "goals": 4
+   }
+  ],
+  "Portugal": [
+   {
+    "name": "Diogo Costa",
+    "number": 1,
+    "position": "GK",
+    "club": "Porto",
+    "goals": 0
+   },
+   {
+    "name": "Nélson Semedo",
+    "number": 2,
+    "position": "DF",
+    "club": "Fenerbahçe",
+    "goals": 0
+   },
+   {
+    "name": "Rúben Dias",
+    "number": 3,
+    "position": "DF",
+    "club": "Manchester City",
+    "goals": 3
+   },
+   {
+    "name": "Tomás Araújo",
+    "number": 4,
+    "position": "DF",
+    "club": "Benfica",
+    "goals": 0
+   },
+   {
+    "name": "Diogo Dalot",
+    "number": 5,
+    "position": "DF",
+    "club": "Manchester United",
+    "goals": 3
+   },
+   {
+    "name": "Matheus Nunes",
+    "number": 6,
+    "position": "MF",
+    "club": "Manchester City",
+    "goals": 2
+   },
+   {
+    "name": "Cristiano Ronaldo",
+    "number": 7,
+    "position": "FW",
+    "club": "Al-Nassr",
+    "goals": 143
+   },
+   {
+    "name": "Bruno Fernandes",
+    "number": 8,
+    "position": "MF",
+    "club": "Manchester United",
+    "goals": 28
+   },
+   {
+    "name": "Gonçalo Ramos",
+    "number": 9,
+    "position": "FW",
+    "club": "Paris Saint-Germain",
+    "goals": 10
+   },
+   {
+    "name": "Bernardo Silva",
+    "number": 10,
+    "position": "MF",
+    "club": "Manchester City",
+    "goals": 14
+   },
+   {
+    "name": "João Félix",
+    "number": 11,
+    "position": "FW",
+    "club": "Al-Nassr",
+    "goals": 12
+   },
+   {
+    "name": "José Sá",
+    "number": 12,
+    "position": "GK",
+    "club": "Wolverhampton Wanderers",
+    "goals": 0
+   },
+   {
+    "name": "Renato Veiga",
+    "number": 13,
+    "position": "DF",
+    "club": "Villarreal",
+    "goals": 1
+   },
+   {
+    "name": "Gonçalo Inácio",
+    "number": 14,
+    "position": "DF",
+    "club": "Sporting CP",
+    "goals": 2
+   },
+   {
+    "name": "João Neves",
+    "number": 15,
+    "position": "MF",
+    "club": "Paris Saint-Germain",
+    "goals": 3
+   },
+   {
+    "name": "Francisco Trincão",
+    "number": 16,
+    "position": "FW",
+    "club": "Sporting CP",
+    "goals": 3
+   },
+   {
+    "name": "Rafael Leão",
+    "number": 17,
+    "position": "FW",
+    "club": "Milan",
+    "goals": 5
+   },
+   {
+    "name": "Pedro Neto",
+    "number": 18,
+    "position": "FW",
+    "club": "Chelsea",
+    "goals": 2
+   },
+   {
+    "name": "Gonçalo Guedes",
+    "number": 19,
+    "position": "FW",
+    "club": "Real Sociedad",
+    "goals": 7
+   },
+   {
+    "name": "João Cancelo",
+    "number": 20,
+    "position": "DF",
+    "club": "Barcelona",
+    "goals": 12
+   },
+   {
+    "name": "Rúben Neves",
+    "number": 21,
+    "position": "MF",
+    "club": "Al-Hilal",
+    "goals": 1
+   },
+   {
+    "name": "Rui Silva",
+    "number": 22,
+    "position": "GK",
+    "club": "Sporting CP",
+    "goals": 0
+   },
+   {
+    "name": "Vitinha",
+    "number": 23,
+    "position": "MF",
+    "club": "Paris Saint-Germain",
+    "goals": 0
+   },
+   {
+    "name": "Samú Costa",
+    "number": 24,
+    "position": "DF",
+    "club": "Mallorca",
+    "goals": 0
+   },
+   {
+    "name": "Nuno Mendes",
+    "number": 25,
+    "position": "DF",
+    "club": "Paris Saint-Germain",
+    "goals": 1
+   },
+   {
+    "name": "Francisco Conceição",
+    "number": 26,
+    "position": "FW",
+    "club": "Juventus",
+    "goals": 3
+   }
+  ],
+  "Uzbekistan": [
+   {
+    "name": "Utkir Yusupov",
+    "number": 1,
+    "position": "GK",
+    "club": "Navbahor Namangan",
+    "goals": 0
+   },
+   {
+    "name": "Abdukodir Khusanov",
+    "number": 2,
+    "position": "DF",
+    "club": "Manchester City",
+    "goals": 0
+   },
+   {
+    "name": "Khojiakbar Alijonov",
+    "number": 3,
+    "position": "DF",
+    "club": "Pakhtakor",
+    "goals": 2
+   },
+   {
+    "name": "Farrukh Sayfiev",
+    "number": 4,
+    "position": "DF",
+    "club": "Neftchi Fergana",
+    "goals": 1
+   },
+   {
+    "name": "Rustam Ashurmatov",
+    "number": 5,
+    "position": "DF",
+    "club": "Esteghlal",
+    "goals": 1
+   },
+   {
+    "name": "Akmal Mozgovoy",
+    "number": 6,
+    "position": "MF",
+    "club": "Pakhtakor",
+    "goals": 1
+   },
+   {
+    "name": "Otabek Shukurov",
+    "number": 7,
+    "position": "MF",
+    "club": "Baniyas",
+    "goals": 9
+   },
+   {
+    "name": "Jamshid Iskanderov",
+    "number": 8,
+    "position": "MF",
+    "club": "Neftchi Fergana",
+    "goals": 4
+   },
+   {
+    "name": "Odiljon Hamrobekov",
+    "number": 9,
+    "position": "MF",
+    "club": "Tractor",
+    "goals": 1
+   },
+   {
+    "name": "Jaloliddin Masharipov",
+    "number": 10,
+    "position": "MF",
+    "club": "Esteghlal",
+    "goals": 12
+   },
+   {
+    "name": "Oston Urunov",
+    "number": 11,
+    "position": "MF",
+    "club": "Persepolis",
+    "goals": 10
+   },
+   {
+    "name": "Abduvohid Nematov",
+    "number": 12,
+    "position": "GK",
+    "club": "Nasaf",
+    "goals": 0
+   },
+   {
+    "name": "Sherzod Nasrullaev",
+    "number": 13,
+    "position": "DF",
+    "club": "Nasaf",
+    "goals": 2
+   },
+   {
+    "name": "Eldor Shomurodov",
+    "number": 14,
+    "position": "FW",
+    "club": "İstanbul Başakşehir",
+    "goals": 44
+   },
+   {
+    "name": "Umar Eshmurodov",
+    "number": 15,
+    "position": "DF",
+    "club": "Nasaf",
+    "goals": 0
+   },
+   {
+    "name": "Botirali Ergashev",
+    "number": 16,
+    "position": "GK",
+    "club": "Neftchi Fergana",
+    "goals": 0
+   },
+   {
+    "name": "Dostonbek Khamdamov",
+    "number": 17,
+    "position": "MF",
+    "club": "Pakhtakor",
+    "goals": 5
+   },
+   {
+    "name": "Abdulla Abdullaev",
+    "number": 18,
+    "position": "DF",
+    "club": "Dibba",
+    "goals": 0
+   },
+   {
+    "name": "Azizjon Ganiev",
+    "number": 19,
+    "position": "MF",
+    "club": "Al-Bataeh",
+    "goals": 0
+   },
+   {
+    "name": "Azizbek Amonov",
+    "number": 20,
+    "position": "FW",
+    "club": "Dinamo Samarqand",
+    "goals": 2
+   },
+   {
+    "name": "Igor Sergeev",
+    "number": 21,
+    "position": "FW",
+    "club": "Persepolis",
+    "goals": 24
+   },
+   {
+    "name": "Abbosbek Fayzullaev",
+    "number": 22,
+    "position": "MF",
+    "club": "İstanbul Başakşehir",
+    "goals": 8
+   },
+   {
+    "name": "Sherzod Esanov",
+    "number": 23,
+    "position": "MF",
+    "club": "Bukhara",
+    "goals": 0
+   },
+   {
+    "name": "Bekhruz Karimov",
+    "number": 24,
+    "position": "DF",
+    "club": "Surkhon Termiz",
+    "goals": 0
+   },
+   {
+    "name": "Avazbek Ulmasaliev",
+    "number": 25,
+    "position": "DF",
+    "club": "AGMK",
+    "goals": 0
+   },
+   {
+    "name": "Jakhongir Urozov",
+    "number": 26,
+    "position": "DF",
+    "club": "Dinamo Samarqand",
+    "goals": 0
+   }
+  ],
+  "Croatia": [
+   {
+    "name": "Dominik Livaković",
+    "number": 1,
+    "position": "GK",
+    "club": "Dinamo Zagreb",
+    "goals": 0
+   },
+   {
+    "name": "Josip Stanišić",
+    "number": 2,
+    "position": "DF",
+    "club": "Bayern Munich",
+    "goals": 0
+   },
+   {
+    "name": "Marin Pongračić",
+    "number": 3,
+    "position": "DF",
+    "club": "Fiorentina",
+    "goals": 0
+   },
+   {
+    "name": "Joško Gvardiol",
+    "number": 4,
+    "position": "DF",
+    "club": "Manchester City",
+    "goals": 4
+   },
+   {
+    "name": "Duje Ćaleta-Car",
+    "number": 5,
+    "position": "DF",
+    "club": "Real Sociedad",
+    "goals": 1
+   },
+   {
+    "name": "Josip Šutalo",
+    "number": 6,
+    "position": "DF",
+    "club": "Ajax",
+    "goals": 0
+   },
+   {
+    "name": "Nikola Moro",
+    "number": 7,
+    "position": "MF",
+    "club": "Bologna",
+    "goals": 0
+   },
+   {
+    "name": "Mateo Kovačić",
+    "number": 8,
+    "position": "MF",
+    "club": "Manchester City",
+    "goals": 5
+   },
+   {
+    "name": "Andrej Kramarić",
+    "number": 9,
+    "position": "FW",
+    "club": "TSG Hoffenheim",
+    "goals": 36
+   },
+   {
+    "name": "Luka Modrić",
+    "number": 10,
+    "position": "MF",
+    "club": "Milan",
+    "goals": 28
+   },
+   {
+    "name": "Ante Budimir",
+    "number": 11,
+    "position": "FW",
+    "club": "Osasuna",
+    "goals": 6
+   },
+   {
+    "name": "Ivor Pandur",
+    "number": 12,
+    "position": "GK",
+    "club": "Hull City",
+    "goals": 0
+   },
+   {
+    "name": "Nikola Vlašić",
+    "number": 13,
+    "position": "MF",
+    "club": "Torino",
+    "goals": 10
+   },
+   {
+    "name": "Ivan Perišić",
+    "number": 14,
+    "position": "FW",
+    "club": "PSV Eindhoven",
+    "goals": 38
+   },
+   {
+    "name": "Mario Pašalić",
+    "number": 15,
+    "position": "MF",
+    "club": "Atalanta",
+    "goals": 11
+   },
+   {
+    "name": "Martin Baturina",
+    "number": 16,
+    "position": "MF",
+    "club": "Como",
+    "goals": 1
+   },
+   {
+    "name": "Petar Sučić",
+    "number": 17,
+    "position": "MF",
+    "club": "Inter Milan",
+    "goals": 1
+   },
+   {
+    "name": "Kristijan Jakić",
+    "number": 18,
+    "position": "DF",
+    "club": "FC Augsburg",
+    "goals": 2
+   },
+   {
+    "name": "Toni Fruk",
+    "number": 19,
+    "position": "MF",
+    "club": "Rijeka",
+    "goals": 1
+   },
+   {
+    "name": "Igor Matanović",
+    "number": 20,
+    "position": "FW",
+    "club": "SC Freiburg",
+    "goals": 2
+   },
+   {
+    "name": "Luka Sučić",
+    "number": 21,
+    "position": "MF",
+    "club": "Real Sociedad",
+    "goals": 1
+   },
+   {
+    "name": "Luka Vušković",
+    "number": 22,
+    "position": "DF",
+    "club": "Hamburger SV",
+    "goals": 1
+   },
+   {
+    "name": "Dominik Kotarski",
+    "number": 23,
+    "position": "GK",
+    "club": "Copenhagen",
+    "goals": 0
+   },
+   {
+    "name": "Marco Pašalić",
+    "number": 24,
+    "position": "FW",
+    "club": "Orlando City SC",
+    "goals": 1
+   },
+   {
+    "name": "Martin Erlić",
+    "number": 25,
+    "position": "DF",
+    "club": "Midtjylland",
+    "goals": 1
+   },
+   {
+    "name": "Petar Musa",
+    "number": 26,
+    "position": "FW",
+    "club": "FC Dallas",
+    "goals": 1
+   }
+  ],
+  "England": [
+   {
+    "name": "Jordan Pickford",
+    "number": 1,
+    "position": "GK",
+    "club": "Everton",
+    "goals": 0
+   },
+   {
+    "name": "Ezri Konsa",
+    "number": 2,
+    "position": "DF",
+    "club": "Aston Villa",
+    "goals": 1
+   },
+   {
+    "name": "Nico O'Reilly",
+    "number": 3,
+    "position": "DF",
+    "club": "Manchester City",
+    "goals": 0
+   },
+   {
+    "name": "Declan Rice",
+    "number": 4,
+    "position": "MF",
+    "club": "Arsenal",
+    "goals": 6
+   },
+   {
+    "name": "John Stones",
+    "number": 5,
+    "position": "DF",
+    "club": "Manchester City",
+    "goals": 3
+   },
+   {
+    "name": "Marc Guéhi",
+    "number": 6,
+    "position": "DF",
+    "club": "Manchester City",
+    "goals": 1
+   },
+   {
+    "name": "Bukayo Saka",
+    "number": 7,
+    "position": "FW",
+    "club": "Arsenal",
+    "goals": 14
+   },
+   {
+    "name": "Elliot Anderson",
+    "number": 8,
+    "position": "MF",
+    "club": "Nottingham Forest",
+    "goals": 0
+   },
+   {
+    "name": "Harry Kane",
+    "number": 9,
+    "position": "FW",
+    "club": "Bayern Munich",
+    "goals": 78
+   },
+   {
+    "name": "Jude Bellingham",
+    "number": 10,
+    "position": "MF",
+    "club": "Real Madrid",
+    "goals": 6
+   },
+   {
+    "name": "Marcus Rashford",
+    "number": 11,
+    "position": "FW",
+    "club": "Barcelona",
+    "goals": 18
+   },
+   {
+    "name": "Tino Livramento",
+    "number": 12,
+    "position": "DF",
+    "club": "Newcastle United",
+    "goals": 0
+   },
+   {
+    "name": "Dean Henderson",
+    "number": 13,
+    "position": "GK",
+    "club": "Crystal Palace",
+    "goals": 0
+   },
+   {
+    "name": "Jordan Henderson",
+    "number": 14,
+    "position": "MF",
+    "club": "Brentford",
+    "goals": 3
+   },
+   {
+    "name": "Dan Burn",
+    "number": 15,
+    "position": "DF",
+    "club": "Newcastle United",
+    "goals": 0
+   },
+   {
+    "name": "Kobbie Mainoo",
+    "number": 16,
+    "position": "MF",
+    "club": "Manchester United",
+    "goals": 0
+   },
+   {
+    "name": "Morgan Rogers",
+    "number": 17,
+    "position": "MF",
+    "club": "Aston Villa",
+    "goals": 1
+   },
+   {
+    "name": "Anthony Gordon",
+    "number": 18,
+    "position": "FW",
+    "club": "Newcastle United",
+    "goals": 2
+   },
+   {
+    "name": "Ollie Watkins",
+    "number": 19,
+    "position": "FW",
+    "club": "Aston Villa",
+    "goals": 6
+   },
+   {
+    "name": "Noni Madueke",
+    "number": 20,
+    "position": "FW",
+    "club": "Arsenal",
+    "goals": 1
+   },
+   {
+    "name": "Eberechi Eze",
+    "number": 21,
+    "position": "MF",
+    "club": "Arsenal",
+    "goals": 3
+   },
+   {
+    "name": "Ivan Toney",
+    "number": 22,
+    "position": "FW",
+    "club": "Al-Ahli",
+    "goals": 1
+   },
+   {
+    "name": "James Trafford",
+    "number": 23,
+    "position": "GK",
+    "club": "Manchester City",
+    "goals": 0
+   },
+   {
+    "name": "Reece James",
+    "number": 24,
+    "position": "DF",
+    "club": "Chelsea",
+    "goals": 1
+   },
+   {
+    "name": "Djed Spence",
+    "number": 25,
+    "position": "DF",
+    "club": "Tottenham Hotspur",
+    "goals": 0
+   },
+   {
+    "name": "Jarell Quansah",
+    "number": 26,
+    "position": "DF",
+    "club": "Bayer Leverkusen",
+    "goals": 0
+   }
+  ],
+  "Ghana": [
+   {
+    "name": "Lawrence Ati-Zigi",
+    "number": 1,
+    "position": "GK",
+    "club": "St. Gallen",
+    "goals": 0
+   },
+   {
+    "name": "Alidu Seidu",
+    "number": 2,
+    "position": "DF",
+    "club": "Rennes",
+    "goals": 1
+   },
+   {
+    "name": "Caleb Yirenkyi",
+    "number": 3,
+    "position": "MF",
+    "club": "Nordsjælland",
+    "goals": 1
+   },
+   {
+    "name": "Jonas Adjetey",
+    "number": 4,
+    "position": "DF",
+    "club": "VfL Wolfsburg",
+    "goals": 0
+   },
+   {
+    "name": "Thomas Partey",
+    "number": 5,
+    "position": "MF",
+    "club": "Villarreal",
+    "goals": 15
+   },
+   {
+    "name": "Abdul Mumin",
+    "number": 6,
+    "position": "DF",
+    "club": "Rayo Vallecano",
+    "goals": 0
+   },
+   {
+    "name": "Abdul Fatawu",
+    "number": 7,
+    "position": "FW",
+    "club": "Leicester City",
+    "goals": 3
+   },
+   {
+    "name": "Kwasi Sibo",
+    "number": 8,
+    "position": "MF",
+    "club": "Oviedo",
+    "goals": 0
+   },
+   {
+    "name": "Jordan Ayew",
+    "number": 9,
+    "position": "FW",
+    "club": "Leicester City",
+    "goals": 34
+   },
+   {
+    "name": "Brandon Thomas-Asante",
+    "number": 10,
+    "position": "FW",
+    "club": "Coventry City",
+    "goals": 1
+   },
+   {
+    "name": "Antoine Semenyo",
+    "number": 11,
+    "position": "MF",
+    "club": "Manchester City",
+    "goals": 3
+   },
+   {
+    "name": "Joseph Anang",
+    "number": 12,
+    "position": "GK",
+    "club": "St Patrick's Athletic",
+    "goals": 0
+   },
+   {
+    "name": "Christopher Bonsu Baah",
+    "number": 13,
+    "position": "FW",
+    "club": "Al-Qadsiah",
+    "goals": 0
+   },
+   {
+    "name": "Gideon Mensah",
+    "number": 14,
+    "position": "DF",
+    "club": "Auxerre",
+    "goals": 0
+   },
+   {
+    "name": "Elisha Owusu",
+    "number": 15,
+    "position": "MF",
+    "club": "Auxerre",
+    "goals": 0
+   },
+   {
+    "name": "Benjamin Asare",
+    "number": 16,
+    "position": "GK",
+    "club": "Hearts of Oak",
+    "goals": 0
+   },
+   {
+    "name": "Abdul Rahman Baba",
+    "number": 17,
+    "position": "DF",
+    "club": "PAOK",
+    "goals": 1
+   },
+   {
+    "name": "Jerome Opoku",
+    "number": 18,
+    "position": "DF",
+    "club": "İstanbul Başakşehir",
+    "goals": 1
+   },
+   {
+    "name": "Iñaki Williams",
+    "number": 19,
+    "position": "FW",
+    "club": "Athletic Bilbao",
+    "goals": 2
+   },
+   {
+    "name": "Augustine Boakye",
+    "number": 20,
+    "position": "MF",
+    "club": "Saint-Étienne",
+    "goals": 0
+   },
+   {
+    "name": "Kojo Peprah Oppong",
+    "number": 21,
+    "position": "DF",
+    "club": "Nice",
+    "goals": 0
+   },
+   {
+    "name": "Kamaldeen Sulemana",
+    "number": 22,
+    "position": "FW",
+    "club": "Atalanta",
+    "goals": 1
+   },
+   {
+    "name": "Derrick Luckassen",
+    "number": 23,
+    "position": "DF",
+    "club": "Pafos",
+    "goals": 0
+   },
+   {
+    "name": "Ernest Nuamah",
+    "number": 24,
+    "position": "FW",
+    "club": "Lyon",
+    "goals": 4
+   },
+   {
+    "name": "Prince Kwabena Adu",
+    "number": 25,
+    "position": "FW",
+    "club": "Viktoria Plzeň",
+    "goals": 0
+   },
+   {
+    "name": "Marvin Senaya",
+    "number": 26,
+    "position": "DF",
+    "club": "Auxerre",
+    "goals": 0
+   }
+  ],
+  "Panama": [
+   {
+    "name": "Luis Mejía",
+    "number": 1,
+    "position": "GK",
+    "club": "Nacional",
+    "goals": 0
+   },
+   {
+    "name": "César Blackman",
+    "number": 2,
+    "position": "DF",
+    "club": "Slovan Bratislava",
+    "goals": 3
+   },
+   {
+    "name": "José Córdoba",
+    "number": 3,
+    "position": "DF",
+    "club": "Norwich City",
+    "goals": 1
+   },
+   {
+    "name": "Fidel Escobar",
+    "number": 4,
+    "position": "DF",
+    "club": "Saprissa",
+    "goals": 4
+   },
+   {
+    "name": "Edgardo Fariña",
+    "number": 5,
+    "position": "DF",
+    "club": "Pari Nizhny Novgorod",
+    "goals": 0
+   },
+   {
+    "name": "Cristian Martínez",
+    "number": 6,
+    "position": "MF",
+    "club": "Ironi Kiryat Shmona",
+    "goals": 2
+   },
+   {
+    "name": "José Luis Rodríguez",
+    "number": 7,
+    "position": "MF",
+    "club": "Juárez",
+    "goals": 8
+   },
+   {
+    "name": "Adalberto Carrasquilla",
+    "number": 8,
+    "position": "MF",
+    "club": "UNAM",
+    "goals": 3
+   },
+   {
+    "name": "Tomás Rodríguez",
+    "number": 9,
+    "position": "FW",
+    "club": "Saprissa",
+    "goals": 3
+   },
+   {
+    "name": "Ismael Díaz",
+    "number": 10,
+    "position": "MF",
+    "club": "León",
+    "goals": 17
+   },
+   {
+    "name": "Yoel Bárcenas",
+    "number": 11,
+    "position": "MF",
+    "club": "Mazatlán",
+    "goals": 10
+   },
+   {
+    "name": "César Samudio",
+    "number": 12,
+    "position": "GK",
+    "club": "Marathón",
+    "goals": 0
+   },
+   {
+    "name": "Jiovany Ramos",
+    "number": 13,
+    "position": "DF",
+    "club": "Puerto Cabello",
+    "goals": 1
+   },
+   {
+    "name": "Carlos Harvey",
+    "number": 14,
+    "position": "DF",
+    "club": "Minnesota United FC",
+    "goals": 3
+   },
+   {
+    "name": "Eric Davis",
+    "number": 15,
+    "position": "DF",
+    "club": "Plaza Amador",
+    "goals": 9
+   },
+   {
+    "name": "Andrés Andrade",
+    "number": 16,
+    "position": "DF",
+    "club": "LASK",
+    "goals": 1
+   },
+   {
+    "name": "José Fajardo",
+    "number": 17,
+    "position": "FW",
+    "club": "Universidad Católica",
+    "goals": 17
+   },
+   {
+    "name": "Cecilio Waterman",
+    "number": 18,
+    "position": "FW",
+    "club": "Universidad de Concepción",
+    "goals": 14
+   },
+   {
+    "name": "Alberto Quintero",
+    "number": 19,
+    "position": "MF",
+    "club": "Plaza Amador",
+    "goals": 7
+   },
+   {
+    "name": "Aníbal Godoy",
+    "number": 20,
+    "position": "MF",
+    "club": "San Diego FC",
+    "goals": 4
+   },
+   {
+    "name": "César Yanis",
+    "number": 21,
+    "position": "MF",
+    "club": "Cobresal",
+    "goals": 5
+   },
+   {
+    "name": "Orlando Mosquera",
+    "number": 22,
+    "position": "GK",
+    "club": "Al-Fayha",
+    "goals": 0
+   },
+   {
+    "name": "Michael Amir Murillo",
+    "number": 23,
+    "position": "DF",
+    "club": "Beşiktaş",
+    "goals": 9
+   },
+   {
+    "name": "Azarias Londoño",
+    "number": 24,
+    "position": "FW",
+    "club": "Universidad Católica",
+    "goals": 0
+   },
+   {
+    "name": "Roderick Miller",
+    "number": 25,
+    "position": "DF",
+    "club": "Turan Tovuz",
+    "goals": 2
+   },
+   {
+    "name": "Jorge Gutiérrez",
+    "number": 26,
+    "position": "DF",
+    "club": "Deportivo La Guaira",
+    "goals": 0
+   }
+  ]
+ }
+}
